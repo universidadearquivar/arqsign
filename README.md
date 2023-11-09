@@ -12,7 +12,6 @@ A principal funcionalidade da plataforma ArqSign é oferecer aos usuários a pos
 
 
 
-{% hint style="info" %}
 <mark style="color:blue;">**ASSINATURA ELETRÔNICA X ASSINATURA DIGITAL (ICP Brasil e ICP Outros)**</mark>&#x20;
 
 <mark style="color:blue;">Assinatura eletrônica é aquela que não precisa de um certificado digital. É mais utilizada para assinar contratos e documentos entre entes privados (B2B, B2C).</mark>&#x20;

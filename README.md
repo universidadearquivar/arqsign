@@ -8,10 +8,12 @@ O usuário pode acessar os documentos enviados e recebidos para assinatura a qua
 
 A ArqSign conta com a implementação de API (Interface de Programação de Aplicações), permitindo que o usuário integre sua Assinatura Eletrônica e Digital de Documentos às soluções de sua empresa.
 
-A principal funcionalidade da plataforma ArqSign é oferecer aos usuários a possibilidade de enviar, gerenciar e assinar documentos digitalmente, por meio de assinaturas eletrônicas ou certificados digitais.
+A principal funcionalidade da plataforma ArqSign é oferecer aos usuários a possibilidade de enviar, gerenciar, coletar e assinar documentos digitalmente, por meio de assinaturas eletrônicas ou certificados digitais.
+
+O signatário, pode assinar os documentos através de e-mail, WhatsApp ou sua conta ArqSign caso tenha.
 
 {% hint style="info" %}
-<mark style="color:blue;">**ASSINATURA ELETRÔNICA X ASSINATURA DIGITAL (ICP Brasil e ICP Outros)**</mark>
+<mark style="color:blue;">**ASSINATURA ELETRÔNICA X ASSINATURA DIGITAL (ICP Brasil e Outros certificados digitais)**</mark>
 
 <mark style="color:blue;">Assinatura eletrônica é aquela que não precisa de um certificado digital. É mais utilizada para assinar contratos e documentos entre entes privados (B2B, B2C).</mark>
 
@@ -35,7 +37,7 @@ Na plataforma ArqSign um usuário pode ter os seguintes perfis:
 * **Remetente de Documentos:** Usuário sem permissão de acesso às funcionalidades de gestão da plataforma. Seu acesso é focado no envio e gestão de seus documentos.
 * **Administrador Global:** Usuários com permissão de acesso a todas as funcionalidades da plataforma inclusive gestão de pastas e usuários.
 
-Signatário é uma pessoa física ou jurídica que participa do processo de assinatura (assina um documento). O signatário não precisa ter conta na Plataforma ArqSign para assinar um documento.
+Signatário é uma pessoa física ou jurídica que participa do processo de assinatura (assina um documento). O signatário não precisa ter conta ou usuário na Plataforma ArqSign para assinar um documento.
 
 ***
 
@@ -74,7 +76,7 @@ Depois de autenticado, o usuário poderá também contar com o menu de suporte n
 A conta de teste gratuito da Plataforma ArqSign oferece ao usuário quase todas as funcionalidades e recursos da conta paga, incluindo envio de documentos para assinatura com ou sem certificado digital, criação de pastas dedicadas para gestão de documentos, importação de certificado digital ICP-Brasil A1 e integração com outros sistemas. Durante um período de 15 dias o usuário poderá realizar cinco envios de documentos para assinatura de forma gratuita.
 
 {% hint style="warning" %}
-<mark style="color:orange;">**A conta de teste grátis permite apenas o envio de documentos via e-mail. Na conta de teste grátis é que não é permitida a inclusão de outros usuários, ou seja, somente o proprietário pode acessar e gerenciar os documentos enviados e recebidos para assinatura.**</mark>
+<mark style="color:orange;">**Na conta de teste grátis não é permitida a inclusão de outros usuários, ou seja, somente o proprietário pode acessar e gerenciar os documentos enviados e recebidos para assinatura.**</mark>
 
 <mark style="color:orange;">**A criação de conta teste grátis é permitida a qualquer usuário que não possua e-mail cadastrado a outros testes grátis da plataforma ArqSign.**</mark>
 {% endhint %}
@@ -187,7 +189,7 @@ O usuário receberá por e-mail um link no qual deverá clicar para definir uma 
 
 Ao acessar sua conta, a tela inicial do usuário apresentará no menu superior os seguintes botões:
 
-**Novo Documento:** Clicando neste botão o usuário poderá cadastrar um documento que será enviado a outros usuários (signatários) para assinatura.
+**Novo Documento:** Clicando neste botão o usuário poderá cadastrar um documento que será enviado a signatários para assinatura.
 
 **Assinatura em Lote:** Clicando neste botão o usuário poderá visualizar e assinar em lote todos os documentos que recebeu e estão pendentes de assinatura.
 

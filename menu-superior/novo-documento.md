@@ -43,7 +43,7 @@ Podem ser incluídos mais de um arquivo no mesmo envio. Neste caso os arquivos s
 
 <figure><img src="../.gitbook/assets/novodocumento02.png" alt=""><figcaption></figcaption></figure>
 
-No campo “**Nome Documento**” edite o nome do documento. Para excluir um arquivo depois de realizado o upload, clique no ícone “Excluir” ao lado do nome do arquivo.
+No campo “**Nome Documento**”, se necessário, edite o nome do documento. Para excluir um arquivo depois de realizado o upload, clique no ícone “Excluir” ao lado do nome do arquivo.
 
 <figure><img src="../.gitbook/assets/novodocumento04.png" alt=""><figcaption></figcaption></figure>
 
@@ -51,13 +51,13 @@ No campo “**Pasta Documento**” selecione a pasta na qual o documento será h
 
 <figure><img src="../.gitbook/assets/novodocumento03.png" alt=""><figcaption></figcaption></figure>
 
-Para agendar a renovação do documento que está sendo cadastrado de forma automática, selecione o checkbox do campo “**Agendar renovação \_\_\_ meses após a conclusão das assinaturas**” informando a quantidade de meses em que deseja que o documento seja renovado. Assim que as assinaturas do primeiro envio forem concluídas, o sistema passará a contar o prazo determinado e quando o período de renovação for atingido, o responsável pelo documento (remetente) receberá uma notificação informando que o documento está apto a ser renovado.
+Para agendar a renovação do documento que está sendo cadastrado de forma automática, selecione o checkbox do campo “**Agendar renovação \_\_\_ meses após a conclusão das assinaturas**” informando a quantidade de meses em que deseja ser avisado sobre a renovação do documento. Assim que as assinaturas do primeiro envio forem concluídas, o sistema passará a contar o prazo determinado e quando o período de renovação for atingido, o responsável pelo documento (remetente) receberá uma notificação informando que o documento está apto a ser renovado.
 
 <figure><img src="../.gitbook/assets/novodocumento05.png" alt=""><figcaption></figcaption></figure>
 
 ### B. Destinatários
 
-No campo “Destinatários” preencha os campos relativos aos usuários que receberão o documento e participarão do processo de assinatura. É preciso realizar as configurações descritas a seguir para cada um dos destinatários.
+No campo “Destinatários” preencha os campos relativos aos signatários que receberão o documento e participarão do processo de assinatura. É preciso realizar as configurações descritas a seguir para cada um dos destinatários.
 
 Para adicionar um destinatário salvo na lista de contatos, clique no ícone “**Adicionar destinatário a partir dos meus contatos**”. A lista de contatos deve ser criada anteriormente no menu [Meu Perfil.](meu-perfil.md)
 
@@ -67,14 +67,20 @@ Ao clicar neste botão é exibida a lista. Para adicionar os destinatários dese
 
 <figure><img src="../.gitbook/assets/novodocumento07.png" alt=""><figcaption></figcaption></figure>
 
-Ao marcar o checkbox “**Assinar na ordem abaixo**” o documento será enviado aos destinatários na ordem definida no campo “**Ordem**” que aparecerá na parte superior de “Dados do Destinatário”. Ao definir essa opção um usuário só receberá o documento quando o anterior concluir sua ação de assinatura ou visualização. Informe também o nome do destinatário.
+Ao marcar o checkbox “**Assinar na ordem abaixo**” o documento será enviado aos destinatários na ordem definida no campo “**Ordem**” que aparecerá na parte superior de “Dados do Destinatário”. Ao definir essa opção um usuário só receberá o documento quando o anterior concluir sua ação de assinatura.&#x20;
+
+{% hint style="warning" %}
+<mark style="color:orange;">**Caso o usuário anterior tenha tido apenas ação de visualização, o próximo signatário receberá o documento quando o último signatário anterior a ele concluir a assinatura.**</mark>&#x20;
+{% endhint %}
 
 <figure><img src="../.gitbook/assets/novodocumento08.png" alt=""><figcaption></figcaption></figure>
+
+**Nome Destinatário:** Informe o nome do destinatário.
 
 **Enviar por:** Selecione se o documento será enviado por e-mail ou Whatsapp para o destinatário.
 
 {% hint style="warning" %}
-<mark style="color:orange;">**A opção de envio por Whatsapp só será exibida se o plano do usuário contemplar esse tipo de envio.**</mark>
+<mark style="color:orange;">**A opção de envio por Whatsapp só será exibida se a conta do usuário tiver créditos de mensagens de WhatsApp.**</mark>
 {% endhint %}
 
 Dependendo da opção escolhida anteriormente, informe o e-mail ou número de telefone do destinatário para envio do documento.
@@ -85,7 +91,7 @@ Dependendo da opção escolhida anteriormente, informe o e-mail ou número de te
 
 <figure><img src="../.gitbook/assets/novodocumento10.png" alt=""><figcaption></figcaption></figure>
 
-Caso tenha sido determinado que o destinatário irá assinar como pessoa física ou jurídica é preciso definir seu papel como signatário no processo. Selecione entre um ou mais papéis listados ou adicione um “Papel do Signatário” personalizado clicando em “Adicionar papel”.
+Caso tenha sido determinado que o destinatário irá assinar como pessoa física ou jurídica é preciso definir seu papel de signatário no processo. Selecione entre um ou mais papéis listados ou adicione um “Papel do Signatário” personalizado clicando em “Adicionar papel”.
 
 Os papéis do signatário apresentados aqui são anteriormente criados no menu [Administração > Conta > Aba Configurações > Papel do Signatário](../administracao/administracao/conta.md#papel-do-signatario). Por padrão a plataforma apresenta os papéis “Contratada”, “Contratante”, “Fiador”, “Parte” e “Testemunha”, mas é possível editar ou excluir esses papéis, além de criar outros se necessário.
 
@@ -114,12 +120,8 @@ Os papéis do signatário apresentados aqui são anteriormente criados no menu [
 
 <mark style="color:blue;">**a) Assinatura eletrônica**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">(a ArqSign produz assinaturas eletrônicas avançadas com validade jurídica de acordo com MP 2.200-2 de 24/08/2001 e Lei 14.063 de 23/11/2020). Sempre que um signatário assina um documento de forma eletrônica a Arqsign aplica um certificado digital próprio da plataforma, capturando o Hash (identificação única) do arquivo, verificando a integridade do arquivo e anexando ao certificado a identificação do signatário.</mark>  &#x20;
 
-<mark style="color:blue;">**b) Assinatura digital – ICP-Brasil ou ICP Outros**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">(A ArqSign produz assinaturas digitais qualificadas de acordo com MP 2.200-2 de 24/08/2001 e Lei 14.063 de 23/11/2020). Quando o usuário já possui um certificado digital e deseja utilizá-lo para realizar a assinatura por meio da ArqSign, este certificado é utilizado para verificar a integridade da assinatura e identificar o usuário como signatário no documento.</mark>&#x20;
+<mark style="color:blue;">**b) Assinatura digital – ICP-Brasil ou Outros**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">(A ArqSign produz assinaturas digitais qualificadas de acordo com MP 2.200-2 de 24/08/2001 e Lei 14.063 de 23/11/2020). Quando o usuário já possui um certificado digital e deseja utilizá-lo para realizar a assinatura por meio da ArqSign, este certificado é utilizado para verificar a integridade da assinatura e identificar o usuário como signatário no documento.</mark>&#x20;
 {% endhint %}
-
-**Temporalidade:** Selecione se o documento terá validade ou se será enviado sem carimbo de tempo.
-
-<figure><img src="../.gitbook/assets/novodocumento14.png" alt=""><figcaption></figcaption></figure>
 
 Ao marcar a opção **“Salvar este destinatário em minha lista de contatos”** os dados informados do destinatário serão salvos automaticamente na lista de contatos do usuário.
 
@@ -141,7 +143,7 @@ Se selecionada a opção de envio por Whatsapp é possível permitir que o desti
 
 <figure><img src="../.gitbook/assets/novodocumento18.png" alt=""><figcaption></figcaption></figure>
 
-**Ícone Mensagem Personalizada:** Ao clicar neste ícone será possível inserir uma mensagem que será enviada ao destinatário junto com o documento. Para isso preencha os campos “Assunto” e “Mensagem”. Caso deseje excluir a mensagem, clique em “Excluir Mensagem Personalizada”.
+**Ícone Mensagem Personalizada:** Ao clicar neste ícone será possível inserir uma mensagem que será enviada ao destinatário junto com o documento. Para isso, preencha os campos “Assunto” e “Mensagem”. Caso deseje excluir a mensagem, clique em “Excluir Mensagem Personalizada”.
 
 <figure><img src="../.gitbook/assets/novodocumento19.png" alt=""><figcaption></figcaption></figure>
 
@@ -153,7 +155,7 @@ Para incluir a si mesmo como destinatário, clique em “**Me adicionar como des
 
 ### C. Mensagem Padrão
 
-No campo “Mensagem Padrão” deve ser definida a mensagem padrão que será enviada a todos os destinatários, preenchendo-se os campos “**Assunto**” e “**Mensagem**”.
+No campo “Mensagem Padrão” pode-se deixar a mensagem padrão da plataforma ou inserir sua mensagem padrão que será enviada a todos os destinatários, preenchendo-se os campos “Assunto” e “Mensagem”.
 
 {% hint style="warning" %}
 <mark style="color:orange;">**No caso de destinatários que tiverem os campos de Mensagem Personalizada preenchidos será enviada a mensagem informada em substituição à mensagem padrão.**</mark>
@@ -161,7 +163,7 @@ No campo “Mensagem Padrão” deve ser definida a mensagem padrão que será e
 
 <figure><img src="../.gitbook/assets/novodocumento21.png" alt=""><figcaption></figcaption></figure>
 
-Depois de concluir essas configurações, clique em “Avançar” para seguir para a próxima etapa, “Concluir Mais Tarde” para salvar o documento como rascunho ou “Descartar” para cancelar o cadastro.
+Depois de concluir essas configurações, clique em “Avançar” para seguir para a próxima etapa, “Concluir Mais Tarde” para salvar o fluxo como rascunho ou “Descartar” para cancelar o cadastro.
 
 <figure><img src="../.gitbook/assets/novodocumento22.png" alt=""><figcaption></figcaption></figure>
 

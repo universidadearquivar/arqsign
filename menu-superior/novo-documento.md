@@ -8,7 +8,7 @@ Na tela Novo Documento o usuário poderá cadastrar um ou mais documentos que se
 
 #### **Configurações Avançadas**
 
-As configurações avançadas são configurações relativas ao documento. Todas elas têm um valor padrão, que pode ser ajustado no menu [Administração > Conta > Configurações](../administracao/administracao/conta.md) para todos os documentos ou pontualmente na tela [Novo Documento](novo-documento.md).
+As configurações avançadas são configurações relativas ao documento. Todas elas têm um valor padrão, que pode ser ajustado no menu [Administração > Conta > Configurações](../administracao/administracao/conta.md#aba-configuracoes) para todos os documentos ou pontualmente na tela [Novo Documento](novo-documento.md).
 
 * **Tempo para expiração do documento após o envio:** Neste campo o usuário deve informar o prazo (em dias) de expiração do documento, ou seja, o limite para que os destinatários o assinem.
 

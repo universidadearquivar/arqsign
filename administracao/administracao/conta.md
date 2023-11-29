@@ -118,7 +118,7 @@ Os valores definidos aqui serão adotados como padrão para a configuração de 
 
 ### Papel do Signatário
 
-Nesta aba são criados os papéis de signatários que serão apresentados no momento do cadastro de um documento para assinatura na tela [Novo Documento > Adicionar Documentos e Destinatários > Adicionar Documentos > Destinatários.](../../menu-superior/novo-documento.md#b.-destinatarios)
+Nesta aba são criados os papéis de signatários. Os papéis de signatários serão apresentados ao usuário no momento da configuração dos destinatários / signatários na tela [Novo Documento > Adicionar Documentos e Destinatários > Adicionar Documentos > Destinatários.](../../menu-superior/novo-documento.md#b.-destinatarios)
 
 {% hint style="info" %}
 <mark style="color:blue;">O papel do signatário é a função dele no contrato, seja como parte, pessoa contratada ou contratante, testemunha, representante legal etc.</mark>
@@ -128,14 +128,14 @@ Por padrão a plataforma apresenta os papéis “Contratada”, “Contratante�
 
 <figure><img src="../../.gitbook/assets/conta14.png" alt=""><figcaption></figcaption></figure>
 
-Para editar esses papéis, basta selecionar aquele que deseja e clicar no ícone “Editar”.
+Para editar esses papéis, basta selecionar aquele que deseja editar e clicar no ícone “Editar”.
 
 <figure><img src="../../.gitbook/assets/conta15.png" alt=""><figcaption></figcaption></figure>
 
 Será possível alterar o nome do papel e defini-lo como papel padrão.&#x20;
 
 {% hint style="warning" %}
-<mark style="color:orange;">**Papel padrão é aquele que será atribuído ao usuário caso o remetente do documento não defina um papel específico para ele no momento do cadastro do documento. Por default o sistema determina o papel "Parte" como padrão, mas essa escolha pode ser alterada pelo usuário. Não é obrigatório determinar um papel padrão, mas caso seja preciso, somente um dos papéis pode ser o padrão.**</mark> &#x20;
+<mark style="color:orange;">**Papel padrão é aquele que será atribuído ao signatário caso o remetente do documento não defina um papel específico para ele no momento do cadastro do documento. Por default o sistema determina o papel "Parte" como padrão, mas essa escolha pode ser alterada pelo usuário. Não é obrigatório determinar um papel padrão, mas caso seja preciso, somente um dos papéis pode ser o padrão.**</mark> &#x20;
 {% endhint %}
 
 <figure><img src="../../.gitbook/assets/conta16.png" alt=""><figcaption></figcaption></figure>

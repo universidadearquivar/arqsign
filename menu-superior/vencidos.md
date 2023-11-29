@@ -36,30 +36,6 @@ No menu Vencidos são apresentados todos os documentos enviados pelo usuário pa
 
 ***
 
-## Ações em lote – Vencidos
-
-É possível selecionar mais de um documento marcando-se os checkbox ao lado do nome do arquivo e executar ações em lote.&#x20;
-
-<figure><img src="../.gitbook/assets/vencidos06.png" alt=""><figcaption></figcaption></figure>
-
-**Alterar Proprietário:** Ao clicar nesta opção será possível alterar o proprietário do documento. Ao executar essa ação não será possível realizar outras atividades de gestão do documento.  &#x20;
-
-{% hint style="warning" %}
-<mark style="color:orange;">**Só podem ser selecionados como novo proprietários usuários cadastrados na mesma conta do responsável.**</mark>&#x20;
-{% endhint %}
-
-<figure><img src="../.gitbook/assets/vencidos07.png" alt=""><figcaption></figcaption></figure>
-
-**Cancelar Envio:** Ao clicar neste ícone será possível cancelar o envio dos documentos selecionados, interrompendo os processos de assinatura.&#x20;
-
-<figure><img src="../.gitbook/assets/vencidos08.png" alt=""><figcaption></figcaption></figure>
-
-**Reenviar:** Ao clicar neste ícone será possível reenviar os documentos selecionados para os destinatários que ainda não assinaram. Ao reenviar um documento ele deixa de ser exibido na tela Vencidos porque o prazo de expiração é renovado.&#x20;
-
-<figure><img src="../.gitbook/assets/vencidos09.png" alt=""><figcaption></figcaption></figure>
-
-***
-
 ## Ações individuais – Vencidos&#x20;
 
 <figure><img src="../.gitbook/assets/vencidos10.png" alt=""><figcaption></figcaption></figure>
@@ -93,3 +69,27 @@ No menu Vencidos são apresentados todos os documentos enviados pelo usuário pa
 **Histórico:** Utilizado para visualizar informações sobre o documento e o histórico dos eventos relacionados a ele. Também é possível fazer o download dos arquivos originais do processo, antes das assinaturas concluídas.&#x20;
 
 <figure><img src="../.gitbook/assets/vencidos16.png" alt=""><figcaption></figcaption></figure>
+
+***
+
+## Ações em lote – Vencidos
+
+É possível selecionar mais de um documento marcando-se os checkbox ao lado do nome do arquivo e executar ações em lote.&#x20;
+
+<figure><img src="../.gitbook/assets/vencidos06.png" alt=""><figcaption></figcaption></figure>
+
+**Alterar Proprietário:** Ao clicar nesta opção será possível alterar o proprietário do documento. Ao executar essa ação não será possível realizar outras atividades de gestão do documento.  &#x20;
+
+{% hint style="warning" %}
+<mark style="color:orange;">**Só podem ser selecionados como novo proprietários usuários cadastrados na mesma conta do responsável.**</mark>&#x20;
+{% endhint %}
+
+<figure><img src="../.gitbook/assets/vencidos07.png" alt=""><figcaption></figcaption></figure>
+
+**Cancelar Envio:** Ao clicar neste ícone será possível cancelar o envio dos documentos selecionados, interrompendo os processos de assinatura.&#x20;
+
+<figure><img src="../.gitbook/assets/vencidos08.png" alt=""><figcaption></figcaption></figure>
+
+**Reenviar:** Ao clicar neste ícone será possível reenviar os documentos selecionados para os destinatários que ainda não assinaram. Ao reenviar um documento ele deixa de ser exibido na tela Vencidos porque o prazo de expiração é renovado.&#x20;
+
+<figure><img src="../.gitbook/assets/vencidos09.png" alt=""><figcaption></figcaption></figure>

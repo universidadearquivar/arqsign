@@ -102,7 +102,7 @@ Na tela principal são apresentadas as informações de todos os certificados ca
 <mark style="color:blue;">Certificados digitais do tipo A1 armazenam a assinatura do usuário na própria máquina do usuário e possuem senha para acesso. Ao importar um certificado digital A1, ele ficará hospedado na plataforma ArqSign (nuvem), podendo ser utilizado ao realizar a assinatura em qualquer dispositivo ou computador.</mark>&#x20;
 {% endhint %}
 
-Para realizar o upload de um certificado, o usuário deve clicar no ícone “Novo”, fazer a importação do arquivo do certificado, definir um nome para o certificado e informar sua senha.&#x20;
+Para realizar o upload de um certificado, o usuário deve clicar no ícone “Novo”, fazer a importação do arquivo do certificado, definir um nome e informar sua senha do certificado.
 
 <figure><img src="../.gitbook/assets/perfil14.png" alt=""><figcaption></figcaption></figure>
 

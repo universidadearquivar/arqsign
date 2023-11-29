@@ -1,6 +1,6 @@
 # ✉ Caixa de Entrada
 
-Na Caixa de Entrada são listados todos os documentos nos quais o usuário participa do processo de assinatura como signatário, ou seja, como assinante.
+Na Caixa de Entrada são listados todos os documentos nos quais o usuário participa do processo de assinatura como signatário, ou seja, como assinante por meio da Plataforma ArqSign.
 
 O signatário de um processo de assinatura pode ser também o remetente do documento e neste caso o documento será exibido tanto na Caixa de Entrada quanto no [menu Enviados](enviados.md).
 
@@ -41,30 +41,6 @@ Ao clicar em um documento, será aberta a tela de visualização do documento, q
 **Barra de filtro:** É possível localizar um ou mais documentos utilizando-se os filtros disponíveis para busca. A busca pode ser feita pelo nome ou e-mail do responsável pelo envio, pelo nome de um dos signatários, pelo status do documento (na Caixa de Entrada só serão exibidos os documentos com status “Concluído”, Aguardando” e “Em processo”), pela pasta onde o documento está armazenado ou pela data de conclusão das assinaturas.
 
 <figure><img src="../.gitbook/assets/caixa_entrada04.png" alt=""><figcaption></figcaption></figure>
-
-***
-
-## Ações em lote - Caixa de Entrada
-
-É possível selecionar mais de um documento marcando-se os checkbox ao lado do nome do arquivo e executar ações em lote. As ações em lote só poderão ser executadas em documentos em que o usuário for além de signatário o remetente do documento.
-
-<figure><img src="../.gitbook/assets/caixa_entrada19.png" alt=""><figcaption></figcaption></figure>
-
-**Mover Documento:** Ao clicar neste ícone será possível alterar a pasta onde os documentos selecionados estão armazenados. Só será possível executar essa ação em documentos em que o usuário for além de signatário o remetente do documento.   &#x20;
-
-<figure><img src="../.gitbook/assets/caixa_entrada05.png" alt=""><figcaption></figcaption></figure>
-
-**Reenviar:** Ao clicar neste ícone será possível reenviar os documentos selecionados para os destinatários que ainda não assinaram. Só será possível executar essa ação em documentos em que o usuário for além de signatário o remetente do documento e que não estejam com o status “Concluído”.
-
-<figure><img src="../.gitbook/assets/caixa_entrada06.png" alt=""><figcaption></figcaption></figure>
-
-**Cancelar Envio:** Ao clicar neste ícone será possível cancelar o envio dos documentos selecionados, interrompendo os processos de assinatura. Só será possível executar essa ação em documentos em que o usuário for além de signatário o remetente do documento e que não estejam com o status “Concluído”.
-
-<figure><img src="../.gitbook/assets/caixa_entrada07.png" alt=""><figcaption></figcaption></figure>
-
-**Excluir:** Ao clicar neste ícone será possível excluir os documentos selecionados. Só será possível executar essa ação em documentos em que o usuário for além de signatário o remetente do documento e que estejam com o status “Concluído”.
-
-<figure><img src="../.gitbook/assets/caixa_entrada08.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -121,3 +97,28 @@ Ao clicar em um documento, será aberta a tela de visualização do documento, q
 **Excluir:** Utilizado para excluir o arquivo, que irá para a caixa [Excluídos](excluidos.md) .
 
 <figure><img src="../.gitbook/assets/caixa_entrada15.png" alt=""><figcaption></figcaption></figure>
+
+***
+
+## Ações em lote - Caixa de Entrada
+
+É possível selecionar mais de um documento marcando-se os checkbox ao lado do nome do arquivo e executar ações em lote. As ações em lote só poderão ser executadas em documentos em que o usuário for além de signatário o remetente do documento.
+
+<figure><img src="../.gitbook/assets/caixa_entrada19.png" alt=""><figcaption></figcaption></figure>
+
+**Mover Documento:** Ao clicar neste ícone será possível alterar a pasta onde os documentos selecionados estão armazenados. Só será possível executar essa ação em documentos em que o usuário for além de signatário o remetente do documento.   &#x20;
+
+<figure><img src="../.gitbook/assets/caixa_entrada05.png" alt=""><figcaption></figcaption></figure>
+
+**Reenviar:** Ao clicar neste ícone será possível reenviar os documentos selecionados para os destinatários que ainda não assinaram. Só será possível executar essa ação em documentos em que o usuário for além de signatário o remetente do documento e que não estejam com o status “Concluído”.
+
+<figure><img src="../.gitbook/assets/caixa_entrada06.png" alt=""><figcaption></figcaption></figure>
+
+**Cancelar Envio:** Ao clicar neste ícone será possível cancelar o envio dos documentos selecionados, interrompendo os processos de assinatura. Só será possível executar essa ação em documentos em que o usuário for além de signatário o remetente do documento e que não estejam com o status “Concluído”.
+
+<figure><img src="../.gitbook/assets/caixa_entrada07.png" alt=""><figcaption></figcaption></figure>
+
+**Excluir:** Ao clicar neste ícone será possível excluir os documentos selecionados. Só será possível executar essa ação em documentos em que o usuário for além de signatário o remetente do documento e que estejam com o status “Concluído”.
+
+<figure><img src="../.gitbook/assets/caixa_entrada08.png" alt=""><figcaption></figcaption></figure>
+

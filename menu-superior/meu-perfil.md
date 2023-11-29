@@ -86,7 +86,7 @@ Na aba Estilo de Assinatura o usuário deve definir representação visual de su
 
 <figure><img src="../.gitbook/assets/perfil12.png" alt=""><figcaption></figcaption></figure>
 
-As representações visuais cadastradas aqui serão exibidas para o usuário sempre que ele for [assinar um documento](assinatura-de-documentos.md#assinando-um-documento). Para concluir a inclusão dos Estilos de Assinatura, clique em “Salvar”.
+As representações visuais cadastradas aqui serão exibidas para o usuário sempre que ele for [assinar um documento](../assinatura-de-documentos.md#assinando-um-documento). Para concluir a inclusão dos Estilos de Assinatura, clique em “Salvar”.
 
 ***
 

@@ -5,7 +5,7 @@
 ## MENU SUPERIOR
 
 * [➕ Novo Documento](menu-superior/novo-documento.md)
-* [✍ Assinatura de Documentos](menu-superior/assinatura-de-documentos.md)
+* [✍ Assinatura de Documentos](assinatura-de-documentos.md)
 * [🖊 Assinatura em Lote](menu-superior/assinatura-em-lote.md)
 * [⏱ Vencidos](menu-superior/vencidos.md)
 * [🛒 Comprar ou Alterar Plano](menu-superior/comprar-ou-alterar-plano.md)

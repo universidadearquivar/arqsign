@@ -1,6 +1,6 @@
 # ➕ Novo Documento
 
-Na tela Novo Documento o usuário poderá cadastrar um documento que será enviado a outros usuários (signatários) para assinatura.
+Na tela Novo Documento o usuário poderá cadastrar um ou mais documentos que será(ão) enviado(s) a signatários para assinatura.
 
 ## Etapa 1: Adicionar Documentos e Destinatários
 

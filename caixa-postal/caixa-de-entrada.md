@@ -58,13 +58,15 @@ Ao clicar em um documento, será aberta a tela de visualização do documento, q
 
 {% hint style="warning" %}
 &#x20;<mark style="color:orange;">**Só podem ser selecionados como novo proprietários usuários cadastrados na mesma conta do responsável.**</mark>&#x20;
+
+<mark style="color:orange;">**O Administrador Global que não for o remetente do documento, poderá alterar a propriedade de documentos concluídos que estão listados na funcionalidade**</mark> [<mark style="color:orange;">**Diretórios**</mark>](broken-reference) <mark style="color:orange;">**ou quando for inativar usuário que possui documentos em sua propriedade.**</mark>
 {% endhint %}
 
 <figure><img src="../.gitbook/assets/caixa_entrada10.png" alt=""><figcaption></figcaption></figure>
 
 **Baixar Arquivo:** Utilizado para fazer o download do documento.
 
-**Baixar Registro de Assinaturas:** Utilizado para fazer o download do registro das assinaturas realizadas no documento. O Registro de Assinaturas exibe todas as informações sobre as assinaturas eletrônicas realizadas, como nome dos assinantes, data e hora da assinatura, localização e IP de onde foi realizada, dados dos certificados digitais utilizados etc.
+**Baixar Registro de Assinaturas:** Utilizado para fazer o download do registro das assinaturas realizadas no documento. O Registro de Assinaturas exibe todas as informações sobre as assinaturas eletrônicas e digitais realizadas, como nome dos signatários, data e hora da assinatura, localização, IP de onde foi realizada, dados dos certificados digitais utilizados etc.
 
 <figure><img src="../.gitbook/assets/caixa_entrada11.png" alt=""><figcaption></figcaption></figure>
 

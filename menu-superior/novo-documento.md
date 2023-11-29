@@ -23,7 +23,9 @@ As configurações avançadas são configurações relativas ao documento. Todas
 
 <figure><img src="../.gitbook/assets/novodocumento01.png" alt=""><figcaption></figcaption></figure>
 
-Para incluir o documento que deverá ser assinado, selecione ou arraste o arquivo desejado até o campo de inclusão do documento. Pode ser incluído mais de um arquivo.
+Para incluir o(s) documento(s) que deverá(ão) ser assinado(s), selecione ou arraste o(s) arquivo(s) desejado(s) até o campo de inclusão do(s) documento(s).
+
+Podem ser incluídos mais de um arquivo no mesmo envio. Neste caso os arquivos são agrupados em um único arquivo.
 
 {% hint style="warning" %}
 <mark style="color:orange;">**São permitidos arquivos das seguintes extensões:**</mark>
@@ -35,6 +37,8 @@ Para incluir o documento que deverá ser assinado, selecione ou arraste o arquiv
 <mark style="color:orange;">**Apresentação: .ppt, .pptx**</mark>&#x20;
 
 <mark style="color:orange;">**Planilha: .csv, .xls, .xlsx**</mark>
+
+<mark style="color:orange;">**Cada arquivo pode ter até 35MB ou até 2000 páginas, não podendo ultrapassar 100MB no total.**</mark>
 {% endhint %}
 
 <figure><img src="../.gitbook/assets/novodocumento02.png" alt=""><figcaption></figcaption></figure>

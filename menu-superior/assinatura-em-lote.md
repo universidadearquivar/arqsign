@@ -30,7 +30,7 @@ O processo de assinatura em lote permite que o usuário assine mais de um docume
 
 ## Assinando documentos em lote 
 
-1\. Selecione na lista de documentos pendentes aqueles que deseja assinar e clique no ícone “Assinatura em Lote”. &#x20;
+1\. Na lista de documentos pendentes, selecione aqueles que deseja assinar e clique no ícone “Assinatura em Lote”. &#x20;
 
 <figure><img src="../.gitbook/assets/lote07.png" alt=""><figcaption></figcaption></figure>
 
@@ -50,7 +50,9 @@ O processo de assinatura em lote permite que o usuário assine mais de um docume
 
 <figure><img src="../.gitbook/assets/lote09.png" alt=""><figcaption></figcaption></figure>
 
-4\. Se for determinado o uso de certificado digital, caso ainda não tenha feito, será solicitado ao usuário que instale a extensão “ArqSign Certificado Digital” no browser e o aplicativo AppNative – Módulo Desktop em sua máquina, necessários para a utilização dos certificados digitais. Depois de instalados, serão exibidos todos os certificados digitais instalados na máquina e hospedados na conta do ArqSign para que o usuário escolha aquele que deseja utilizar para a assinatura e informe o código PIN (se solicitado). &#x20;
+4\. Se for determinado o uso de certificado digital, você pode utilizar um certificado que esteja armazenado na Plataforma ArqSign ou um que não esteja armazenado na plataforma. Para assinatura feita por meio de um que não esteja armazenado, caso ainda não tenha feito, será solicitado ao usuário que instale a extensão “ArqSign Certificado Digital” no browser e o aplicativo AppNative – Módulo Desktop em sua máquina, necessários para a utilização dos certificados digitais.&#x20;
+
+Depois de instalados, serão exibidos todos os certificados digitais instalados na máquina e hospedados na conta do ArqSign para que o usuário escolha aquele que deseja utilizar para a assinatura e informe o código PIN (se solicitado).  &#x20;
 
 <details>
 

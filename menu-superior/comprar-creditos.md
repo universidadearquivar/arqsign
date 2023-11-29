@@ -4,7 +4,7 @@ O botão “Comprar Crédito” será exibido para todos os usuários com plano 
 
 <figure><img src="../.gitbook/assets/compra14.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
-O usuário pode adquirir créditos extras para envio de documentos via e-mail e WhatsApp e crédito para disparo de códigos de segurança via SMS. Se o plano do usuário tiver envio de documentos por e-mail ilimitado, só será possível comprar créditos para envio via WhatsApp e créditos para disparo de códigos de segurança via SMS.  &#x20;
+O usuário pode adquirir créditos extras para envio de documentos via e-mail e WhatsApp e crédito para disparo de códigos de segurança via SMS.&#x20;
 
 {% hint style="warning" %}
 <mark style="color:orange;">**Os créditos extras possuem validade de seis meses para consumo.**</mark>&#x20;
@@ -22,4 +22,4 @@ O usuário pode adquirir créditos extras para envio de documentos via e-mail e 
 
 <figure><img src="../.gitbook/assets/compra16.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
-3\. Se a conta for compartilhada com outros usuários, todos os usuários com perfil de administrador global da conta receberão uma notificação por e-mail sobre a aquisição dos créditos extras.&#x20;
+3\. Após a conclusão da compra, se a conta for compartilhada com outros usuários, todos os usuários com perfil de administrador global da conta receberão uma notificação por e-mail sobre a aquisição dos créditos extras.

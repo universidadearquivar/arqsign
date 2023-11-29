@@ -171,9 +171,11 @@ Depois de concluir essas configurações, clique em “Avançar” para seguir p
 
 ## Etapa 2: Configurar Campos
 
-Na próxima etapa serão exibidos os documentos que foram inseridos na etapa anterior em formato PDF e deverão ser configuradas as áreas onde os participantes do processo deverão assinar.
+Na próxima etapa serão exibidos os documentos que foram inseridos na etapa anterior em formato PDF e deverão ser configurados os campos de assinatura, informações de preenchimento e anexos.
 
 <figure><img src="../.gitbook/assets/novodocumento23.png" alt=""><figcaption></figcaption></figure>
+
+### Campos Assinatura
 
 No canto direito da tela escolha entre “**Posicionar as assinaturas manualmente**” para escolher onde as áreas de assinatura serão posicionadas no documento ou “**Posicionar as assinaturas automaticamente em uma página ao final do documento**”, para que todas as assinaturas sejam inseridas no fim da última página do documento.  &#x20;
 
@@ -181,13 +183,11 @@ Para cada destinatário inserido na primeira etapa é preciso configurar a área
 
 <figure><img src="../.gitbook/assets/novodocumento24.png" alt=""><figcaption></figcaption></figure>
 
-### Campos Assinatura
-
 Caso tenha sido escolhida a opção “**Posicionar as assinaturas manualmente**”, será exibido o campo “**Campos Assinatura**”. Para criar a área de assinatura, arraste o quadro “Assinar como” para a parte do documento em que deseja que seja inserida a assinatura.
 
 <figure><img src="../.gitbook/assets/novodocumento25.png" alt=""><figcaption></figcaption></figure>
 
-Caos tenha sido escolhida a opção “**Posicionar as assinaturas automaticamente em uma página ao final do documento**”, será inserida uma página no fim do documento na qual serão exibidas as assinaturas e informações dos signatários de forma ordenada. Também é exibido o papel que aquele signatário possui no contrato.
+Caso tenha sido escolhida a opção “**Posicionar as assinaturas automaticamente em uma página ao final do documento**”, será inserida uma página no fim do documento na qual serão exibidas as assinaturas e informações dos signatários de forma ordenada. Também é exibido o papel que aquele signatário possui no contrato.
 
 <figure><img src="../.gitbook/assets/alteracao1.png" alt=""><figcaption></figcaption></figure>
 
@@ -201,7 +201,7 @@ Se na [Etapa 1](novo-documento.md#b.-destinatarios) tiver sido definido que o de
 
 ### Informações Complementares de Assinatura
 
-Dependendo do tipo de assinatura definido para o destinatário na [Etapa 1](novo-documento.md#b.-destinatarios) serão exibidos os campos “**Informações Complementares de Assinatura**”. Esses campos só serão exibidos sena [Etapa 1 no campo “Tipo de Assinatura”](novo-documento.md#b.-destinatarios) tiver sido escolhida a opção “Assinatura Eletrônica”.
+Dependendo do tipo de assinatura definido para o destinatário na [Etapa 1](novo-documento.md#b.-destinatarios) serão exibidos os campos “**Informações Complementares de Assinatura**”. Esses campos só serão exibidos se na [Etapa 1 no campo “Tipo de Assinatura”](novo-documento.md#b.-destinatarios) tiver sido escolhida a opção “Assinatura Eletrônica”.
 
 Se a assinatura for como Pessoa Física, é possível exigir do destinatário o seu nome e algum documento, marcando as opções “Nome da Pessoa Física” e “Documento da Pessoa Física” como de preenchimento obrigatório.
 
@@ -229,6 +229,6 @@ Informe o nome do anexo que será solicitado e defina se será de preenchimento 
 
 <figure><img src="../.gitbook/assets/novodocumento30.png" alt=""><figcaption></figcaption></figure>
 
-Clicando em “Descartar”, o documento será excluído. Clicando em “Concluir Mais Tarde” o documento será salvo na pasta de Rascunhos. Para editar o documento ou os destinatários, clique em “Voltar Etapa Anterior”. Finalizada a configuração dos campos de assinatura, clique em “Enviar” para enviar o documento para assinatura dos destinatários.
+Clicando em “Descartar”, o fluxo será excluído. Clicando em “Concluir Mais Tarde” o fluxo será salvo na pasta de Rascunhos. Para editar o documento ou os destinatários, clique em “Voltar Etapa Anterior”. Finalizada a configuração da Etapa 2, clique em “Enviar” para enviar o documento para assinatura dos destinatários.
 
 <figure><img src="../.gitbook/assets/novodocumento31.png" alt=""><figcaption></figcaption></figure>

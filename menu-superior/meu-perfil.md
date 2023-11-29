@@ -18,7 +18,7 @@ Na aba Meus Dados são apresentadas as informações de cadastro do usuário. É
 
 **E-mail:** O e-mail apresentado neste campo é o mesmo utilizado no momento do cadastro da conta do usuário na plataforma e não pode ser alterado. &#x20;
 
-**Nome Completo:** Apresenta o nome completo do usuário.&#x20;
+**Nome Completo:** Apresenta o nome completo do usuário. O nome cadastrado neste campo aparece como o remetente de documentos deste usuário nos e-mails e mensagens de WhatsApp.
 
 **Cargo:** O usuário pode informar neste campo o cargo que ocupa na empresa em que trabalha.&#x20;
 
@@ -70,23 +70,23 @@ Na aba Meus Contatos o usuário pode cadastrar informações de destinatários p
 
 ## Aba Estilo de Assinatura&#x20;
 
-Na aba Estilo de Assinatura o usuário deve definir representação visual de sua assinatura, que será utilizada como sua assinatura eletrônica para efeitos legais. O usuário pode cadastrar três tipos de Estilo de Assinatura clicando em “Editar”.&#x20;
+Na aba Estilo de Assinatura o usuário deve definir representação visual de sua assinatura. O usuário pode cadastrar três tipos de Estilo de Assinatura clicando em “Editar”.&#x20;
 
 <figure><img src="../.gitbook/assets/perfil9.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
-**Padrão:** Neste estilo o usuário deve informar o nome completo e definir o estilo (fonte) como o texto deverá ser apresentado. Para isso deve clicar em “Estilo” e fazer a definição. Para apagar, deve clicar no ícone de lixeira.&#x20;
+**Estilo Padrão:** Neste estilo de assinatura, o usuário deve informar o nome completo e definir o estilo de fonte para o texto. Para isso deve clicar em “Estilo” e fazer a definição. Para apagar, deve clicar no ícone de lixeira.
 
 <figure><img src="../.gitbook/assets/perfil10.png" alt=""><figcaption></figcaption></figure>
 
-**Desenho:** Para assinar com um desenho, o usuário deverá, no campo “Área de Desenho da Assinatura” assinar ou rubricar utilizando o mouse. Para corrigir, deve clicar no ícone de lixeira.&#x20;
+**Estilo Desenho:** Para assinar com um desenho, o usuário deverá, no campo “Área de Desenho da Assinatura” desenhar sua assinatura utilizando o mouse ou o dedo caso esteja utilizando um celular ou tablet. Para corrigir, deve clicar no ícone de lixeira.
 
 <figure><img src="../.gitbook/assets/perfil11.png" alt=""><figcaption></figcaption></figure>
 
-**Imagem:** Se desejar, o usuário pode fazer o upload de uma imagem que represente sua assinatura. Para apagar, deve clicar no ícone de lixeira.&#x20;
+**Estilo Imagem:** Se desejar, o usuário pode fazer o upload da imagem que represente sua assinatura. Para apagar, deve clicar no ícone de lixeira.
 
 <figure><img src="../.gitbook/assets/perfil12.png" alt=""><figcaption></figcaption></figure>
 
-As representações visuais cadastradas aqui serão exibidas para o usuário sempre que ele for [assinar um documento](../assinatura-de-documentos.md#assinando-um-documento). Para concluir a inclusão dos Estilos de Assinatura, clique em “Salvar”.
+Os estilos de assinatura para as representações visuais cadastradas aqui serão exibidos para o usuário sempre que ele for [assinar um documento](../assinatura-de-documentos.md). Para concluir a inclusão de um dos Estilos de Assinatura, selecione-o e clique em “Aplicar”.
 
 ***
 

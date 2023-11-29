@@ -18,7 +18,7 @@ O processo de assinatura em lote permite que o usuário assine mais de um docume
 
 **Coluna Responsável:** esta coluna são apresentados o nome e e-mail de quem enviou o documento (remetente).  &#x20;
 
-**Coluna Tipo de Assinatura:** Nesta coluna é exibido o tipo de assinatura exigido para a assinatura do documento, que pode ser [Assinatura Eletrônica](../assinatura-de-documentos.md#a.-assinatura-eletronica) ou [Assinatura via Certificado Digital – ICP Brasil ou ICP Outros.](../assinatura-de-documentos.md#b.-assinatura-digital-icp-brasil-e-icp-outros)&#x20;
+**Coluna Tipo de Assinatura:** Nesta coluna é exibido o tipo de assinatura exigido para a assinatura do documento, que pode ser [Assinatura Eletrônica](../assinatura-de-documentos.md#a.-assinatura-eletronica) ou [Assinatura via Certificado Digital – ICP Brasil ou Outros Certificados Digitais.](../assinatura-de-documentos.md#b.-assinatura-digital-icp-brasil-e-icp-outros)
 
 **Coluna Ações:** Esta coluna exibe botões de ação sobre o documento. Será sempre exibida nesse botão a ação prioritária de execução, de acordo com o perfil do usuário e status do documento. &#x20;
 

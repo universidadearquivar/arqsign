@@ -102,7 +102,7 @@ Se o usuário estiver utilizando uma assinatura eletrônica, será necessário q
 
 <figure><img src=".gitbook/assets/assinatura27.png" alt=""><figcaption></figcaption></figure>
 
-#### B. Assinatura Digital – ICP Brasil e ICP Outros
+#### B. Assinatura Digital – ICP Brasil e Outros
 
 Se tiver sido definido que o usuário deverá assinar utilizando um certificado digital (ICP Brasil e ICP outros), ele não precisará informar nenhum dado, devendo apenas selecionar o [Estilo de Assinatura ](assinatura-de-documentos.md#2.-definindo-o-estilo-de-assinatura)que irá utilizar, aceitar o **Termo de Assinatura Eletrônica** e clicar em “Assinar e Concluir”.&#x20;
 

@@ -1,9 +1,9 @@
 # ✍ Assinatura de Documentos
 
-O processo de assinatura eletrônica de documentos pode ser realizado por dois caminhos:
+O processo de assinatura eletrônica de documentos pode ser realizado por três caminhos:
 
 {% tabs %}
-{% tab title="Pelo link da notificação recebido por e-mail " %}
+{% tab title=" Por e-mail " %}
 Ocorre quando o responsável recebe uma notificação por e-mail, informando que o documento deve ser assinado e disponibilizando o link para acesso ao documento. &#x20;
 
 O usuário responsável pela assinatura receberá uma notificação por e-mail com o link para acesso ao arquivo. Este e-mail apresentará também o nome do remetente e o prazo para assinatura. Se o destinatário tiver definido uma mensagem personalizada, ela também será exibida nesta notificação.&#x20;
@@ -19,6 +19,30 @@ Se o usuário não tiver uma conta cadastrada na plataforma, ele será direciona
 {% endhint %}
 
 <figure><img src=".gitbook/assets/assinatura09.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+{% endtab %}
+
+{% tab title="Por Whatsapp" %}
+Ocorre quando o responsável recebe uma notificação por WhatsApp, informando que o documento deve ser assinado e disponibilizando o link para acesso ao documento. &#x20;
+
+O usuário responsável pela assinatura receberá uma mensagem por Whatsapp com o link para acesso ao arquivo. Esta mensagem apresentará também o nome do remetente e o prazo para assinatura. Se o destinatário tiver definido uma mensagem personalizada, ela também será exibida nesta notificação.&#x20;
+
+<figure><img src=".gitbook/assets/smartmockups_lplbcyl2.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
+Ao clicar no link ou informar o código, o usuário será direcionado para a tela de assinatura.
+
+<figure><img src=".gitbook/assets/smartmockups_lplb6q2i.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
+Ao final do processo será exibida uma mensagem de sugestão para que ele crie uma conta de teste grátis.
+
+<figure><img src=".gitbook/assets/smartmockups_lplb8l4z.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
+O signatário receberá também uma mensagem por Whatsapp confirmando a conclusão do processo de assinatura.
+
+<figure><img src=".gitbook/assets/smartmockups_lplb994u.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
+{% hint style="warning" %}
+<mark style="color:orange;">**A criação da conta de teste grátis não é obrigatória.**</mark>&#x20;
+{% endhint %}
 {% endtab %}
 
 {% tab title="Pelo acesso direto ao ArqSign via login " %}

@@ -38,26 +38,6 @@ No menu Excluídos são apresentados todos os documentos excluídos pelo usuári
 
 ***
 
-## Ações em lote - Excluídos
-
-É possível selecionar mais de um documento marcando-se os checkbox ao lado do nome do arquivo e executar ações em lote.&#x20;
-
-**Restaurar:** Na tela Excluídos a única ação em lote possível é a de restaurar documentos, retornando-os para a caixa postal na qual estavam anteriormente à exclusão. Só podem ser restaurados documentos excluídos há menos de um ano.&#x20;
-
-{% hint style="info" %}
-<mark style="color:blue;">**Documentos com o status “Concluído” retornarão para a Caixa de Entrada se o usuário for apenas participante do processo de assinatura ou para a caixa Enviados se ele for proprietário do documento.**</mark>  &#x20;
-
-<mark style="color:blue;">**Documentos com o status “Cancelado” sempre retornarão para a caixa Enviados, já que são de propriedade do usuário.**</mark>&#x20;
-{% endhint %}
-
-{% hint style="danger" %}
-<mark style="color:red;">**Documentos com o status “Criado” não podem ser restaurados.**</mark>
-{% endhint %}
-
-<figure><img src="../.gitbook/assets/excluidos05.png" alt=""><figcaption></figcaption></figure>
-
-***
-
 ## Ações individuais - Excluídos
 
 **Restaurar:** Ao clicar nesta opção o documento retorna para a caixa postal na qual estava anteriormente à exclusão. Só podem ser restaurados documentos excluídos há menos de um ano.&#x20;
@@ -79,3 +59,23 @@ No menu Excluídos são apresentados todos os documentos excluídos pelo usuári
 **Histórico:** Utilizado para visualizar informações sobre o documento e o histórico dos eventos relacionados a ele. Também é possível fazer o download dos arquivos originais do processo, antes das assinaturas concluídas. Essa opção só estará disponível para documentos com o status “Concluído”.&#x20;
 
 <figure><img src="../.gitbook/assets/caixa_entrada12.png" alt=""><figcaption></figcaption></figure>
+
+***
+
+## Ações em lote - Excluídos
+
+É possível selecionar mais de um documento marcando-se os checkbox ao lado do nome do arquivo e executar ações em lote.&#x20;
+
+**Restaurar:** Na tela Excluídos a única ação em lote possível é a de restaurar documentos, retornando-os para a caixa postal na qual estavam anteriormente à exclusão. Só podem ser restaurados documentos excluídos há menos de um ano.&#x20;
+
+{% hint style="info" %}
+<mark style="color:blue;">**Documentos com o status “Concluído” retornarão para a Caixa de Entrada se o usuário for apenas participante do processo de assinatura ou para a caixa Enviados se ele for proprietário do documento.**</mark>  &#x20;
+
+<mark style="color:blue;">**Documentos com o status “Cancelado” sempre retornarão para a caixa Enviados, já que são de propriedade do usuário.**</mark>&#x20;
+{% endhint %}
+
+{% hint style="danger" %}
+<mark style="color:red;">**Documentos com o status “Criado” não podem ser restaurados.**</mark>
+{% endhint %}
+
+<figure><img src="../.gitbook/assets/excluidos05.png" alt=""><figcaption></figcaption></figure>

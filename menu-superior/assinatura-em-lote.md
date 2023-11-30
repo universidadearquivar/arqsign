@@ -6,7 +6,7 @@ O processo de assinatura em lote permite que o usuário assine mais de um docume
 <mark style="color:orange;">**Documentos que exigem código de segurança, não são listados para assinatura em lote. Para assiná-los, o usuário deverá acessar sua**</mark> [<mark style="color:blue;">**Caixa de Entrada**</mark>](../caixa-postal/caixa-de-entrada.md) <mark style="color:orange;">**e assiná-los individualmente.**</mark>
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/alteracao3.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/lote1.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 ***
 

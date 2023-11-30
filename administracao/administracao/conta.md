@@ -2,7 +2,7 @@
 
 No menu Conta encontram-se as informações sobre a conta do usuário.
 
-<figure><img src="../../.gitbook/assets/conta01.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/conta1.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 ***
 

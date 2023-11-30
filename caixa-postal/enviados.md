@@ -38,40 +38,6 @@ Ao clicar em um documento, será aberta a tela de visualização do documento, q
 
 ***
 
-## Ações em lote - Enviados
-
-É possível selecionar mais de um documento marcando-se os checkbox ao lado do nome do arquivo e executar ações em lote.
-
-<figure><img src="../.gitbook/assets/enviados05.png" alt=""><figcaption></figcaption></figure>
-
-**Mover Documento:** Ao clicar neste ícone será possível alterar a pasta onde os documentos selecionados estão armazenados. Não será possível executar essa ação em documentos com o status “Em andamento”.   &#x20;
-
-<figure><img src="../.gitbook/assets/caixa_entrada05.png" alt=""><figcaption></figcaption></figure>
-
-**Alterar Proprietário:** Ao clicar neste ícone será possível alterar a propriedade dos documentos selecionados, ou seja, as funções de administração do documento serão de outro usuário. Essa ação só poderá ser desfeita se o usuário que for definido como novo proprietário devolver a propriedade do documento ao proprietário original. A alteração de proprietário de um documento em lote tem o prazo de 24 horas para ser realizada e para acompanhar o andamento o usuário deve acessar o menu [Meu Perfil > Aba Solicitações](../menu-superior/meu-perfil.md).
-
-{% hint style="warning" %}
-<mark style="color:orange;">**Só podem ser selecionados como novo proprietários usuários cadastrados na mesma conta do responsável.**</mark>
-{% endhint %}
-
-<figure><img src="../.gitbook/assets/enviados06.png" alt=""><figcaption></figcaption></figure>
-
-**Reenviar:** Ao clicar neste ícone será possível reenviar os documentos selecionados para os destinatários que ainda não assinaram. Só será possível executar essa ação em documentos que não estejam com o status “Concluído”.
-
-<figure><img src="../.gitbook/assets/caixa_entrada06.png" alt=""><figcaption></figcaption></figure>
-
-**Cancelar Envio:** Ao clicar neste ícone será possível cancelar o envio dos documentos selecionados, interrompendo os processos de assinatura. Só será possível executar essa ação em documentos que não estejam com o status “Concluído”.
-
-<figure><img src="../.gitbook/assets/caixa_entrada07.png" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="../.gitbook/assets/assinatura20.png" alt=""><figcaption></figcaption></figure>
-
-**Excluir:** Ao clicar neste ícone será possível excluir os documentos selecionados. Só será possível executar essa ação em documentos com o status “Concluído” ou “Cancelado”.
-
-<figure><img src="../.gitbook/assets/caixa_entrada08.png" alt=""><figcaption></figcaption></figure>
-
-***
-
 ## Ações individuais - Enviados
 
 **Reenviar:** Os documentos que já estão com prazo de assinatura expirado e que não foram assinados por todos os signatários exibirão a mensagem “Vencido antes da conclusão das assinaturas”. Neste caso, é possível reenviar o documento para aqueles signatários que ainda não assinaram. Ao clicar neste botão serão exibidas as informações de ordem de envio para os destinatários, e-mail ou telefone para onde o documento foi enviado, código de segurança para acesso ao documento (se houver) e ícone “Editar”, que permite a edição das informações do destinatário.
@@ -118,3 +84,36 @@ Ao clicar em um documento, será aberta a tela de visualização do documento, q
 
 <figure><img src="../.gitbook/assets/caixa_entrada16.png" alt=""><figcaption></figcaption></figure>
 
+***
+
+## Ações em lote - Enviados
+
+É possível selecionar mais de um documento marcando-se os checkbox ao lado do nome do arquivo e executar ações em lote.
+
+<figure><img src="../.gitbook/assets/enviados05.png" alt=""><figcaption></figcaption></figure>
+
+**Mover Documento:** Ao clicar neste ícone será possível alterar a pasta onde os documentos selecionados estão armazenados. Não será possível executar essa ação em documentos com o status “Em andamento”.   &#x20;
+
+<figure><img src="../.gitbook/assets/caixa_entrada05.png" alt=""><figcaption></figcaption></figure>
+
+**Alterar Proprietário:** Ao clicar neste ícone será possível alterar a propriedade dos documentos selecionados, ou seja, as funções de administração do documento serão de outro usuário. Essa ação só poderá ser desfeita se o usuário que for definido como novo proprietário devolver a propriedade do documento ao proprietário original. A alteração de proprietário de um documento em lote tem o prazo de 24 horas para ser realizada e para acompanhar o andamento o usuário deve acessar o menu [Meu Perfil > Aba Solicitações](../menu-superior/meu-perfil.md).
+
+{% hint style="warning" %}
+<mark style="color:orange;">**Só podem ser selecionados como novo proprietários usuários cadastrados na mesma conta do responsável.**</mark>
+{% endhint %}
+
+<figure><img src="../.gitbook/assets/enviados06.png" alt=""><figcaption></figcaption></figure>
+
+**Reenviar:** Ao clicar neste ícone será possível reenviar os documentos selecionados para os destinatários que ainda não assinaram. Só será possível executar essa ação em documentos que não estejam com o status “Concluído”.
+
+<figure><img src="../.gitbook/assets/caixa_entrada06.png" alt=""><figcaption></figcaption></figure>
+
+**Cancelar Envio:** Ao clicar neste ícone será possível cancelar o envio dos documentos selecionados, interrompendo os processos de assinatura. Só será possível executar essa ação em documentos que não estejam com o status “Concluído”.
+
+<figure><img src="../.gitbook/assets/caixa_entrada07.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/assinatura20.png" alt=""><figcaption></figcaption></figure>
+
+**Excluir:** Ao clicar neste ícone será possível excluir os documentos selecionados. Só será possível executar essa ação em documentos com o status “Concluído” ou “Cancelado”.
+
+<figure><img src="../.gitbook/assets/caixa_entrada08.png" alt=""><figcaption></figcaption></figure>

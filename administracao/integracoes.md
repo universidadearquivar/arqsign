@@ -16,7 +16,7 @@ No menu Integrações o usuário encontra os métodos de integração de API da 
 <mark style="color:orange;">**Somente contas com assinaturas ativas poderão utilizar a API.**</mark>
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/integracoes2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/integracoes2.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 
 
@@ -84,17 +84,17 @@ Ao clicar em “Manual do Usuário” o usuário terá acesso ao manual que apre
 
 > [Clique aqui para ter acesso ao Manual com o Detalhamento Técnico da API de Integração da ArqSign.](https://arquivar.com.br/wp-content/uploads/2022/09/Manual-API-ArqSign.pdf)
 
-<figure><img src="../.gitbook/assets/integracoes3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/integracoes3.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 Ao clicar em “Treinamento – Integração ArqSign” o usuário terá acesso a um treinamento elaborado pela Universidade Arquivar que apresenta todas as possibilidades de utilização do API da plataforma ArqSign.
 
 > [Clique aqui para ter acesso ao Treinamento Integração ArqSign.](https://cdn.arquivar.com.br/wp-content/uploads/articulate\_uploads/Curso-API-ArqSign/index.html?&\_ga=2.214775511.1134308362.1699443819-2052664689.1687871591#/)
 
-<figure><img src="../.gitbook/assets/integracoes4.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/integracoes4.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 Para realizar a integração via API são necessários alguns dados de ID’s, que podem ser obtidos clicando em “Lista de Id’s usuários” e “Lista de Id’s pastas”.
 
-<figure><img src="../.gitbook/assets/integracoes5.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/integracoes5.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 ***
 
@@ -102,7 +102,7 @@ Para realizar a integração via API são necessários alguns dados de ID’s, q
 
 Para realizar a integração da plataforma a outras ferramentas via API é necessária uma Chave de Acesso, que o usuário pode obter clicando em “Gerar”. A chave gerada será apresentada no campo “API AppKey” e poderá ser utilizada para realizar a integração.
 
-<figure><img src="../.gitbook/assets/integracoes6.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/integracoes6.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 {% hint style="danger" %}
 <mark style="color:red;">**Sempre que clicar no botão “Gerar” será gerada uma nova chave de acesso e todas as integrações feitas utilizando a chave anterior serão desconfiguradas. Sugerimos cuidado ao criar chaves de acesso.**</mark>

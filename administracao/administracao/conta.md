@@ -63,7 +63,7 @@ Nesta tela é possível visualizar também a quantidade de créditos restantes o
 Em “**Créditos Restantes da Assinatura do Plano**” são apresentados os créditos que o usuário ainda possui no plano assinado. O usuário pode visualizar a quantidade de créditos que possui para envio de documentos via Whatsapp e e-mail e códigos de segurança via SMS.
 
 {% hint style="warning" %}
-<mark style="color:orange;">**Não é possível enviar documentos via SMS. Os créditos adquiridos para envio via SMS só podem ser usados para disparo de códigos de segurança para acesso aos documentos enviados vis e-mail ou Whatsapp.**</mark>
+<mark style="color:orange;">**Não é possível enviar documentos via SMS. Os créditos adquiridos para envio via SMS só podem ser usados para disparo de códigos de segurança. O código de segurança ou token é uma senha usada para dar acesso aos documentos enviados via e-mail ou Whatsapp e pode ser utilizada para acrescentar uma camada extra de segurança ao processo de assinatura eletrônica de documentos.**</mark>
 {% endhint %}
 
 Se o usuário tiver comprado créditos além daqueles já inclusos no plano clicando em “**Datas de expiração dos créditos extra**” será possível visualizar as datas em que os créditos comprados à parte do plano irão expirar.
@@ -135,7 +135,7 @@ Para editar esses papéis, basta selecionar aquele que deseja editar e clicar no
 Será possível alterar o nome do papel e defini-lo como papel padrão.&#x20;
 
 {% hint style="warning" %}
-<mark style="color:orange;">**Papel padrão é aquele que será atribuído ao signatário caso o remetente do documento não defina um papel específico para ele no momento do cadastro do documento. Por default o sistema determina o papel "Parte" como padrão, mas essa escolha pode ser alterada pelo usuário. Não é obrigatório determinar um papel padrão, mas caso seja preciso, somente um dos papéis pode ser o padrão.**</mark> &#x20;
+<mark style="color:orange;">**Papel padrão é aquele que será atribuído ao signatário caso o remetente do documento não defina um papel específico para ele no momento do cadastro do documento. Por default o sistema determina o papel "Parte" como padrão, mas essa escolha pode ser alterada pelo usuário remetente. Não é obrigatório determinar um papel padrão, mas caso seja preciso, somente um dos papéis pode ser o padrão.**</mark>
 {% endhint %}
 
 <figure><img src="../../.gitbook/assets/conta16.png" alt=""><figcaption></figcaption></figure>
@@ -190,7 +190,7 @@ Clicando em “Visualizar Notificação” será possível ver como será aprese
 
 ### Termo
 
-Nesta aba o usuário pode inserir ou editar o Termo de Assinatura Eletrônica que é apresentado aos signatários no momento da assinatura de um documento. O objetivo desse termo é assegurar que os signatários compreendem a validade jurídica das assinaturas eletrônicas realizadas pela plataforma ArqSign.
+Nesta aba o usuário pode inserir ou editar o Termo de aceite para Assinatura Eletrônica que é apresentado aos signatários no momento da assinatura de um documento. O objetivo desse termo é assegurar que os signatários aceitaram assinar o documento eletronicamente.
 
 A plataforma apresenta o termo padrão, mas caso o usuário deseje editar ou substituir esse texto, pode fazê-lo clicando em “Editar”.
 
@@ -206,7 +206,7 @@ Ao clicar em “Visualizar” o Termo é exibido da forma que será apresentado 
 
 ### Histórico de Aceite
 
-Nesta aba são apresentadas todos os Aceites ao Termo de Assinatura Eletrônica realizados por signatários, ou seja, toda vez que um signatário aceitar o Termo de Aceite apresentado a ele, essa ação será apresentada nesta tela.
+Nesta aba são apresentadas todos os Aceites ao Termo de Assinatura Eletrônica realizados por signatários, ou seja, toda vez que um signatário aceitar o Termo de Aceite apresentado a ele, essa ação será registrada e poderá ser consultada nesta tela.
 
 * **Data do Aceite:** Nesta coluna é apresentada a data em que o signatário aceitou o Termo de Assinatura Eletrônica.
 * **Nome:** Nome do signatário que realizou o aceite.

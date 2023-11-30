@@ -34,15 +34,15 @@ Ao clicar no link ou informar o código, o usuário será direcionado para a tel
 
 Ao final do processo será exibida uma mensagem de sugestão para que ele crie uma conta de teste grátis.
 
+{% hint style="warning" %}
+<mark style="color:orange;">**A criação da conta de teste grátis não é obrigatória.**</mark>&#x20;
+{% endhint %}
+
 <figure><img src=".gitbook/assets/smartmockups_lplb8l4z.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 O signatário receberá também uma mensagem por Whatsapp confirmando a conclusão do processo de assinatura.
 
 <figure><img src=".gitbook/assets/smartmockups_lplb994u.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
-
-{% hint style="warning" %}
-<mark style="color:orange;">**A criação da conta de teste grátis não é obrigatória.**</mark>&#x20;
-{% endhint %}
 {% endtab %}
 
 {% tab title="Pelo acesso direto ao ArqSign via login " %}

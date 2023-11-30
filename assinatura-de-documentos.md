@@ -18,7 +18,7 @@ Se o usuário não tiver uma conta cadastrada na plataforma, ele será direciona
 <mark style="color:orange;">**A criação da conta de teste grátis não é obrigatória.**</mark>&#x20;
 {% endhint %}
 
-<figure><img src=".gitbook/assets/assinatura09.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/assinatura09.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 {% endtab %}
 
 {% tab title="Pelo acesso direto ao ArqSign via login " %}
@@ -26,7 +26,7 @@ Ocorre quando o responsável pela assinatura acessa diretamente a plataforma e v
 
 Depois de conectado à conta, o usuário deve clicar no menu [Caixa Postal > Caixa de Entrada.](caixa-postal/caixa-de-entrada.md) Para assinar um documento, deve é preciso clicar no botão “Assinar” do arquivo desejado.&#x20;
 
-<figure><img src=".gitbook/assets/assinatura19.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/assinatura19.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 {% endtab %}
 {% endtabs %}
 
@@ -40,11 +40,11 @@ Se o remetente tiver definido um código de segurança para abertura do document
 
 <figure><img src=".gitbook/assets/assinatura23.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/assinatura22.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/assinatura22.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 O documento será apresentado na tela para assinatura. Para assinar, o signatário deve clicar na área reservada para assinatura e escolher o Estilo de Assinatura. &#x20;
 
-<figure><img src=".gitbook/assets/assinatura25.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/assinatura25.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 {% hint style="info" %}
 <mark style="color:blue;">Para  alterar o idioma da tela de visualização do documento, no canto inferior direito da tela escolha entre "Inglês - USA", "Espanhol - Espanha" ou "Português - Brasil".</mark>
@@ -148,15 +148,15 @@ Caso ainda não tenha feito, ao assinar um documento pela primeira vez utilizand
 
 Se houver sido solicitado ao signatário anexar arquivos, no campo “Anexos” no lado direito da tela ele deverá fazer o upload dos documentos solicitados.&#x20;
 
-<figure><img src=".gitbook/assets/assinatura24.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/assinatura24.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 Será solicitado que o usuário assine o termo de responsabilidade marcando a checkbox “**Confirmo que li e concordo com os termos de assinatura eletrônica**”. &#x20;
 
-<figure><img src=".gitbook/assets/assinatura26.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/assinatura26.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 Ao concluir as obrigatoriedades de assinatura, o usuário pode escolher entre “Assinar e Concluir” para finalizar sua assinatura ou em “Concluir Mais Tarde”, para retornar ao documento e concluir em outro momento.&#x20;
 
-<figure><img src=".gitbook/assets/assinatura29.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/assinatura29.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 ***
 
@@ -164,17 +164,17 @@ Ao concluir as obrigatoriedades de assinatura, o usuário pode escolher entre �
 
 Caso opte por concluir, será exibida uma mensagem de confirmação da assinatura. Caso o usuário não possua conta, será convidado a criar uma conta de teste grátis ou poderá clicar em “Mais tarde”, para retornar em outro momento. Caso já possua conta, deverá clicar em “Fechar” para encerrar o processo.&#x20;
 
-<figure><img src=".gitbook/assets/assinatura09 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/assinatura09 (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 Depois de concluído o processo e todos os signatários assinarem o documento, todos os participantes receberão por e-mail ou Whatsapp uma cópia do documento assinado e o Registro de Assinaturas, com o código ID do documento, informações dos certificados digitais e assinaturas eletrônicas utilizados para assinar o documento e histórico de eventos relacionados ao documento.&#x20;
 
 
 
-<figure><img src=".gitbook/assets/assinatura17.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/assinatura17.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 Se o remetente tiver definido que deverá ser gerado um QR Code no Registro de Assinaturas na tela [Configurações Avançadas do cadastro do documento](menu-superior/novo-documento.md#configuracoes-avancadas), esse QR Code será exibido aqui.&#x20;
 
-<figure><img src=".gitbook/assets/assinatura18.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/assinatura18.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 ***
 
@@ -188,15 +188,15 @@ Clicando no botão “Opções” no cato superior direito da tela de assinatura
 
 **Recusar Assinatura:** Utilizado quando por algum motivo o signatário não deseja assinar o documento. Neste caso ele deve inserir uma justificativa para a recusa e clicar em “Recusar Assinatura”. Ao recusar a assinatura o processo de assinatura do documento será automaticamente cancelado para todos os envolvidos e aparecerá com o status “Cancelado” para o remetente responsável pelo documento. &#x20;
 
-<figure><img src=".gitbook/assets/assinatura33.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/assinatura33.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 **Exibir Histórico:** Utilizado para visualizar informações sobre o documento e o histórico dos eventos relacionados a ele. Também é possível fazer o download dos arquivos originais do processo, antes das assinaturas concluídas.&#x20;
 
-<figure><img src=".gitbook/assets/assinatura34.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/assinatura34.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 **Registro de Assinaturas:** Utilizado para fazer o download do registro das assinaturas realizadas no documento. O Registro de Assinaturas exibe todas as informações sobre as assinaturas eletrônicas realizadas, como nome dos assinantes, data e hora da assinatura, localização e IP de onde foi realizada, dados dos certificados digitais utilizados etc. &#x20;
 
-<figure><img src=".gitbook/assets/assinatura35.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/assinatura35.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 **Termo de Assinatura Eletrônica:** Clicando nesta opção será exibido o Termo de Assinatura Eletrônica apresentado a todos os signatários de reconhecimento da veracidade e autenticidade dos documentos assinados. É possível também imprimir esse termo clicando no ícone de impressão.&#x20;
 

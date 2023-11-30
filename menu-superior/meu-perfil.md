@@ -2,7 +2,7 @@
 
 No menu Meu Perfil são apresentadas as informações do usuário autenticado. &#x20;
 
-<figure><img src="../.gitbook/assets/perfil1.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/perfil2.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 ***
 
@@ -10,11 +10,11 @@ No menu Meu Perfil são apresentadas as informações do usuário autenticado. &
 
 Na aba Meus Dados são apresentadas as informações de cadastro do usuário. É possível editar os dados clicando-se no botão “Editar”.&#x20;
 
-<figure><img src="../.gitbook/assets/perfil2.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/perfil3.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 **Foto do perfil:** Para inserir ou editar a foto de perfil, clique sobre a imagem e selecione a opção “Upload Nova Imagem”. Selecione a foto desejada e clique em “Salvar”. Para excluir a foto de perfil, basta clicar na foto e selecionar a opção “Excluir Imagem Atual”.&#x20;
 
-<figure><img src="../.gitbook/assets/perfil3.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/perfil1.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 **E-mail:** O e-mail apresentado neste campo é o mesmo utilizado no momento do cadastro da conta do usuário na plataforma e não pode ser alterado. &#x20;
 

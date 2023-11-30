@@ -34,22 +34,6 @@ No menu Rascunhos são exibidos todos os documentos que começaram a ser configu
 
 ***
 
-## Ações em lote - Rascunhos
-
-É possível selecionar mais de um documento marcando-se os checkbox ao lado do nome do arquivo e executar ações em lote.
-
-<figure><img src="../.gitbook/assets/rascunhos04.png" alt=""><figcaption></figcaption></figure>
-
-**Mover Documento:** Ao clicar neste ícone será possível alterar a pasta onde os documentos selecionados estão armazenados. &#x20;
-
-<figure><img src="../.gitbook/assets/caixa_entrada05.png" alt=""><figcaption></figcaption></figure>
-
-**Excluir:** Ao clicar neste ícone será possível excluir os documentos selecionados. &#x20;
-
-<figure><img src="../.gitbook/assets/caixa_entrada08.png" alt=""><figcaption></figcaption></figure>
-
-***
-
 ## Ações individuais - Rascunhos
 
 <figure><img src="../.gitbook/assets/rascunhos05.png" alt=""><figcaption></figcaption></figure>
@@ -71,3 +55,19 @@ No menu Rascunhos são exibidos todos os documentos que começaram a ser configu
 **Renomear:** Esta opção só será exibida se o usuário além de signatário for também o remetente do documento. Utilizado para renomear o documento. &#x20;
 
 <figure><img src="../.gitbook/assets/caixa_entrada16.png" alt=""><figcaption></figcaption></figure>
+
+***
+
+## Ações em lote - Rascunhos
+
+É possível selecionar mais de um documento marcando-se os checkbox ao lado do nome do arquivo e executar ações em lote.
+
+<figure><img src="../.gitbook/assets/rascunhos04.png" alt=""><figcaption></figcaption></figure>
+
+**Mover Documento:** Ao clicar neste ícone será possível alterar a pasta onde os documentos selecionados estão armazenados. &#x20;
+
+<figure><img src="../.gitbook/assets/caixa_entrada05.png" alt=""><figcaption></figcaption></figure>
+
+**Excluir:** Ao clicar neste ícone será possível excluir os documentos selecionados. &#x20;
+
+<figure><img src="../.gitbook/assets/caixa_entrada08.png" alt=""><figcaption><p>A</p></figcaption></figure>

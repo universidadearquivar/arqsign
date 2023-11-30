@@ -48,7 +48,7 @@ Ao clicar em um documento, será aberta a tela de visualização do documento, q
 
 <figure><img src="../.gitbook/assets/caixa_entrada12.png" alt=""><figcaption></figcaption></figure>
 
-**Alterar Pasta:** Esta opção só será exibida se o usuário tiver acesso à conta na qual o documento está armazenado. Ao clicar nesta opção ele poderá alterar a pasta do diretório onde o documento está armazenado.
+**Alterar Pasta:** Esta opção só será exibida se o usuário tiver acesso à pasta na qual o documento está armazenado. Ao clicar nesta opção ele poderá alterar a pasta do diretório onde o documento está armazenado.
 
 <figure><img src="../.gitbook/assets/caixa_entrada05.png" alt=""><figcaption></figcaption></figure>
 
@@ -60,7 +60,7 @@ Ao clicar em um documento, será aberta a tela de visualização do documento, q
 
 <figure><img src="../.gitbook/assets/enviados06.png" alt=""><figcaption></figcaption></figure>
 
-**Alterar Renovação:** Esta opção só estará disponível caso o documento possua status “Concluído”. Ao clicar nesta opção é possível incluir ou alterar a data de renovação do documento, determinada anteriormente no campo “Agendar renovação \_\_\_ meses após a conclusão das assinaturas” marcada, na tela Novo Documento > Adicionar Documentos e Destinatários > Adicionar Documentos. É possível também altear ou definir a quantidade de meses de intervalo entre as renovações no campo “Quantidade Meses Renovação”. &#x20;
+**Alterar Renovação:** Esta opção só estará disponível caso o documento possua status “Concluído”. Ao clicar nesta opção é possível incluir ou alterar a data de renovação do documento, determinada anteriormente no campo “Agendar renovação \_\_\_ meses após a conclusão das assinaturas” marcada, na tela Novo Documento > Adicionar Documentos e Destinatários > Adicionar Documentos. Para incluir ou alterar a quantidade de meses de intervalo entre as renovações edite o campo “Quantidade Meses Renovação”.&#x20;
 
 <figure><img src="../.gitbook/assets/renovacoes07.png" alt=""><figcaption></figcaption></figure>
 
@@ -76,7 +76,7 @@ Ao clicar em um documento, será aberta a tela de visualização do documento, q
 
 <figure><img src="../.gitbook/assets/enviados07.png" alt=""><figcaption></figcaption></figure>
 
-**Excluir:** Utilizado para excluir o arquivo, que irá para a caixa [Excluídos](excluidos.md).
+**Excluir:** Utilizado para excluir o fluxo. Os fluxos excluídos irão para a caixa [Excluídos](excluidos.md).
 
 <figure><img src="../.gitbook/assets/caixa_entrada15.png" alt=""><figcaption></figcaption></figure>
 
@@ -96,7 +96,7 @@ Ao clicar em um documento, será aberta a tela de visualização do documento, q
 
 <figure><img src="../.gitbook/assets/caixa_entrada05.png" alt=""><figcaption></figcaption></figure>
 
-**Alterar Proprietário:** Ao clicar neste ícone será possível alterar a propriedade dos documentos selecionados, ou seja, as funções de administração do documento serão de outro usuário. Essa ação só poderá ser desfeita se o usuário que for definido como novo proprietário devolver a propriedade do documento ao proprietário original. A alteração de proprietário de um documento em lote tem o prazo de 24 horas para ser realizada e para acompanhar o andamento o usuário deve acessar o menu [Meu Perfil > Aba Solicitações](../menu-superior/meu-perfil.md).
+**Alterar Proprietário:** Ao clicar neste ícone será possível alterar a propriedade dos documentos selecionados, ou seja, as funções de administração do documento serão de outro usuário. Essa ação só poderá ser desfeita se o usuário que for definido como novo proprietário devolver a propriedade do documento ao proprietário original ou repassar para outro usuário. A alteração de proprietário de um documento em lote tem o prazo de 24 horas para ser realizada e para acompanhar o andamento o usuário deve acessar o menu [Meu Perfil > Aba Solicitações](../menu-superior/meu-perfil.md#aba-solicitacoes).&#x20;
 
 {% hint style="warning" %}
 <mark style="color:orange;">**Só podem ser selecionados como novo proprietários usuários cadastrados na mesma conta do responsável.**</mark>

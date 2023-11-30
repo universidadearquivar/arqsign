@@ -53,19 +53,19 @@ O site da ArqSign ([https://arquivar.com.br/arqsign/](https://arquivar.com.br/ar
 
 Para solicitar suporte ou atendimento, no menu inferior da página, clique em “Suporte”.
 
-<figure><img src=".gitbook/assets/visao2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/visao2.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 O usuário será direcionado para a Central de Ajuda da plataforma, onde poderá pesquisar entre os conteúdos postados a solução para a sua dúvida ou solicitar contato com a equipe de atendimento.
 
-<figure><img src=".gitbook/assets/visao3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/visao3.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 O contato com a equipe de atendimento poderá ser feito via WhatsApp, chat, e-mail (faleconosco@arqsign.com) ou telefone (4003-8839).
 
-<figure><img src=".gitbook/assets/visao4.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/visao4.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 Depois de autenticado, o usuário poderá também contar com o menu de suporte na plataforma, localizado no canto inferior direito da tela.
 
-<figure><img src=".gitbook/assets/visao5.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/visao5.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 ***
 
@@ -85,11 +85,11 @@ A conta de teste gratuito da Plataforma ArqSign oferece ao usuário quase todas 
 
 1\. Para criar uma conta teste grátis, na página inicial do site da plataforma ArqSign, clique em “Teste Grátis”.
 
-<figure><img src=".gitbook/assets/compra7.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/compra7.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 2\. O usuário será redirecionado para a página de login, onde deverá informar seu e-mail e clicar em “Avançar”.
 
-<figure><img src=".gitbook/assets/compra8.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/compra8.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 3\. Depois, deverá informar os dados solicitados:
 
@@ -103,7 +103,7 @@ A conta de teste gratuito da Plataforma ArqSign oferece ao usuário quase todas 
 
 4\. Para concluir, clique em “Começar meu Teste Grátis”. Será exibida uma mensagem de confirmação de criação da conta. Para acessar a plataforma, clique no link indicado.
 
-<figure><img src=".gitbook/assets/compra10.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/compra10.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 5\. O usuário receberá dois e-mails da plataforma. O primeiro apresentará orientações sobre a utilização do teste grátis.
 
@@ -115,7 +115,7 @@ A conta de teste gratuito da Plataforma ArqSign oferece ao usuário quase todas 
 
 7\. O usuário será direcionado para a tela de login, na qual deverá informar a senha criada anteriormente, no momento do cadastro, e clicar em “Entrar” para realizar o primeiro acesso.
 
-<figure><img src=".gitbook/assets/compra13.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/compra13.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 {% hint style="warning" %}
 <mark style="color:orange;">**Ao término do período de 15 dias de teste ou após consumir os cinco envios gratuitos, o usuário poderá continuar acessando a plataforma normalmente, mas para realizar novos envios deverá adquirir um plano pago (para realizar novos envios por e-mail) ou comprar créditos extras (para envios via WhatsApp e SMS).**</mark>
@@ -165,7 +165,7 @@ A página de login da plataforma ArqSign solicita o e-mail e senha cadastrados p
 
 Caso ele ainda não possua conta, deve clicar no link “Cadastre-se aqui”.
 
-<figure><img src=".gitbook/assets/login1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/login1.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 Será oferecido ao usuário a [criação de uma conta teste grátis](./#criacao-de-conta-teste-gratis). Para criar essa conta ele deverá informar seu e-mail e clicar em “Avançar”.
 
@@ -177,7 +177,7 @@ Caso o usuário esqueça sua senha, basta clicar em “Esqueci minha senha”.
 
 Na tela de recuperação de senha, o usuário deverá informar o mesmo e-mail utilizado para acesso à plataforma e clicar em “Recuperar”.
 
-<figure><img src=".gitbook/assets/login2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/login2.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 O usuário receberá por e-mail um link no qual deverá clicar para definir uma nova senha.
 

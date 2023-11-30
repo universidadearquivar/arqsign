@@ -41,11 +41,11 @@ Podem ser incluídos mais de um arquivo no mesmo envio. Neste caso os arquivos s
 <mark style="color:orange;">**Cada arquivo pode ter até 35MB ou até 2000 páginas, não podendo ultrapassar 100MB no total.**</mark>
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/novodocumento02.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/novodocumento02.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 No campo “**Nome Documento**”, se necessário, edite o nome do documento. Para excluir um arquivo depois de realizado o upload, clique no ícone “Excluir” ao lado do nome do arquivo.
 
-<figure><img src="../.gitbook/assets/novodocumento04.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/novodocumento04.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 No campo “**Pasta Documento**” selecione a pasta na qual o documento será hospedado. As pastas nas quais os documentos poderão ser armazenados deverão ser criadas no menu [Diretórios > Documentos.](../diretorios/documentos.md) Por padrão uma pasta com o nome do usuário é criada e deve ser selecionada caso não exista nenhuma outra.
 
@@ -61,7 +61,7 @@ No campo “Destinatários” preencha os campos relativos aos signatários que 
 
 Para adicionar um destinatário salvo na lista de contatos, clique no ícone “**Adicionar destinatário a partir dos meus contatos**”. A lista de contatos deve ser criada anteriormente no menu [Meu Perfil.](meu-perfil.md)
 
-<figure><img src="../.gitbook/assets/novodocumento06.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/novodocumento06.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 Ao clicar neste botão é exibida a lista. Para adicionar os destinatários desejados, selecione-os clicando no checkbox ao lado do nome e clique em “Adicionar Destinatários”.
 
@@ -73,7 +73,7 @@ Ao marcar o checkbox “**Assinar na ordem abaixo**” o documento será enviado
 <mark style="color:orange;">**Caso o usuário anterior tenha tido apenas ação de visualização, o próximo signatário receberá o documento quando o último signatário anterior a ele concluir a assinatura.**</mark>&#x20;
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/novodocumento08.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/novodocumento08.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 **Nome Destinatário:** Informe o nome do destinatário.
 
@@ -85,11 +85,11 @@ Ao marcar o checkbox “**Assinar na ordem abaixo**” o documento será enviado
 
 Dependendo da opção escolhida anteriormente, informe o e-mail ou número de telefone do destinatário para envio do documento.
 
-<figure><img src="../.gitbook/assets/novodocumento09.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/novodocumento09.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 **Este destinatário irá:** Informe se o destinatário irá assinar o documento online como Pessoa Física, Jurídica ou ambas, ou se irá somente receber uma cópia do documento no fim do processo de assinaturas.
 
-<figure><img src="../.gitbook/assets/novodocumento10.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/novodocumento10.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 Caso tenha sido determinado que o destinatário irá assinar como pessoa física ou jurídica é preciso definir seu papel de signatário no processo. Selecione entre um ou mais papéis listados ou adicione um “Papel do Signatário” personalizado clicando em “Adicionar papel”.
 
@@ -97,17 +97,17 @@ Os papéis do signatário apresentados aqui são anteriormente criados no menu [
 
 <div>
 
-<figure><img src="../.gitbook/assets/novodocumento11.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/novodocumento11.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/novodocumento12.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/novodocumento12.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 </div>
 
 **Tipo de Assinatura:** Selecione se o destinatário deverá utilizar assinatura eletrônica ou um certificado digital para assinar o documento.
 
-<figure><img src="../.gitbook/assets/novodocumento13.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/novodocumento13.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 {% hint style="info" %}
 <mark style="color:blue;">**ASSINATURA ELETRÔNICA X ASSINATURA DIGITAL (ICP Brasil e ICP Outros)**</mark>
@@ -125,15 +125,15 @@ Os papéis do signatário apresentados aqui são anteriormente criados no menu [
 
 Ao marcar a opção **“Salvar este destinatário em minha lista de contatos”** os dados informados do destinatário serão salvos automaticamente na lista de contatos do usuário.
 
-<figure><img src="../.gitbook/assets/novodocumento15.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/novodocumento15.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 **Ícone “Código de Segurança”:** Ao clicar neste ícone poderá ser criado um código numérico que será enviado ao destinatário para que ele consiga acessar o documento. O código pode ser gerado automaticamente pelo sistema ou informado manualmente pelo usuário.
 
-<figure><img src="../.gitbook/assets/novodocumento16.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/novodocumento16.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 Depois de gerar o código escolha se ele será enviado por e-mail, Whatsapp ou SMS e informe o e-mail ou telefone para envio. Também é possível não enviar o código, deixando a cargo do usuário informá-lo ao destinatário da forma que preferir. Para excluir o código criado, basta clicar em “Excluir Código de Segurança”.
 
-<figure><img src="../.gitbook/assets/novodocumento17.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/novodocumento17.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 Se selecionada a opção de envio por Whatsapp é possível permitir que o destinatário solicite o reenvio do código, marcando a checkbox “**Permitir que este destinatário possa solicitar reenvio do código de segurança**”.
 
@@ -141,11 +141,11 @@ Se selecionada a opção de envio por Whatsapp é possível permitir que o desti
 <mark style="color:orange;">**Cada reenvio do código de segurança solicitado pelo destinatário irá consumir um crédito de WhatsApp da conta do usuário que está enviando o documento.**</mark>
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/novodocumento18.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/novodocumento18.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 **Ícone Mensagem Personalizada:** Ao clicar neste ícone será possível inserir uma mensagem que será enviada ao destinatário junto com o documento. Para isso, preencha os campos “Assunto” e “Mensagem”. Caso deseje excluir a mensagem, clique em “Excluir Mensagem Personalizada”.
 
-<figure><img src="../.gitbook/assets/novodocumento19.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/novodocumento19.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 Para inserir outros destinatários clique no botão “Adicionar Novo Destinatário”.
 
@@ -161,11 +161,11 @@ No campo “Mensagem Padrão” pode-se deixar a mensagem padrão da plataforma 
 <mark style="color:orange;">**No caso de destinatários que tiverem os campos de Mensagem Personalizada preenchidos será enviada a mensagem informada em substituição à mensagem padrão.**</mark>
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/novodocumento21.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/novodocumento21.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 Depois de concluir essas configurações, clique em “Avançar” para seguir para a próxima etapa, “Concluir Mais Tarde” para salvar o fluxo como rascunho ou “Descartar” para cancelar o cadastro.
 
-<figure><img src="../.gitbook/assets/novodocumento22.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/novodocumento22.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 ***
 
@@ -173,7 +173,7 @@ Depois de concluir essas configurações, clique em “Avançar” para seguir p
 
 Na próxima etapa serão exibidos os documentos que foram inseridos na etapa anterior em formato PDF e deverão ser configurados os campos de assinatura, informações de preenchimento e anexos.
 
-<figure><img src="../.gitbook/assets/novodocumento23.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/novodocumento23.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 ### Campos Assinatura
 
@@ -185,7 +185,7 @@ Para cada destinatário inserido na primeira etapa é preciso configurar a área
 
 Caso tenha sido escolhida a opção “**Posicionar as assinaturas manualmente**”, será exibido o campo “**Campos Assinatura**”. Para criar a área de assinatura, arraste o quadro “Assinar como” para a parte do documento em que deseja que seja inserida a assinatura.
 
-<figure><img src="../.gitbook/assets/novodocumento25.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/novodocumento25.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 Caso tenha sido escolhida a opção “**Posicionar as assinaturas automaticamente em uma página ao final do documento**”, será inserida uma página no fim do documento na qual serão exibidas as assinaturas e informações dos signatários de forma ordenada. Também é exibido o papel que aquele signatário possui no contrato.
 
@@ -197,7 +197,7 @@ Se na [Etapa 1](novo-documento.md#b.-destinatarios) tiver sido definido que o de
 <mark style="color:orange;">**Perceba que os quadros dos destinatários são da mesma cor exibida no campo “Configurações para”.**</mark>
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/novodocumento26.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/novodocumento26.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 ### Informações Complementares de Assinatura
 
@@ -231,4 +231,4 @@ Informe o nome do anexo que será solicitado e defina se será de preenchimento 
 
 Clicando em “Descartar”, o fluxo será excluído. Clicando em “Concluir Mais Tarde” o fluxo será salvo na pasta de Rascunhos. Para editar o documento ou os destinatários, clique em “Voltar Etapa Anterior”. Finalizada a configuração da Etapa 2, clique em “Enviar” para enviar o documento para assinatura dos destinatários.
 
-<figure><img src="../.gitbook/assets/novodocumento31.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/novodocumento31.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>

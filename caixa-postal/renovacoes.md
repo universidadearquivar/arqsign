@@ -38,7 +38,7 @@ No menu Renovações são apresentados todos os documentos que foram cadastrados
 
 <figure><img src="../.gitbook/assets/renovacoes06.png" alt=""><figcaption></figcaption></figure>
 
-**Renovar:** Esta ação estará disponível caso o documento tenha alcançado a data e hora programados para sua programação no campo “Agendar renovação \_\_\_ meses após a conclusão das assinaturas” marcada, na tela [Novo Documento > Adicionar Documentos e Destinatários > Adicionar Documentos.](../menu-superior/novo-documento.md#a.-adicionar-documentos) Ao clicar neste botão o usuário será direcionado para a tela de cadastro do documento para que faça novamente a configuração e envio do documento para os destinatários.&#x20;
+**Renovar:** Esta ação estará disponível caso o documento tenha alcançado a data e hora programados para sua programação no campo “Agendar renovação \_\_\_ meses após a conclusão das assinaturas” marcada, na tela [Novo Documento > Adicionar Documentos e Destinatários > Adicionar Documentos](../menu-superior/novo-documento.md#a.-adicionar-documentos). Ao clicar neste botão o usuário será direcionado para a tela “Adicionar documentos e destinatários” com as informações de destinatários preenchidas com as mesmas informações do fluxo anterior para que faça novamente a configuração e envio do novo documento para os destinatários.&#x20;
 
 {% hint style="warning" %}
 <mark style="color:orange;">**Mesmo depois de renovar o documento e enviá-lo aos destinatários, o documento será listado na tela Renovações até que todos os signatários concluam a assinatura.**</mark> &#x20;
@@ -48,7 +48,7 @@ No menu Renovações são apresentados todos os documentos que foram cadastrados
 
 <figure><img src="../.gitbook/assets/caixa_entrada05.png" alt=""><figcaption></figcaption></figure>
 
-**Alterar Renovação**: Essa opção só estará disponível caso o documento ainda não tenha atingido o prazo de renovação estipulado em seu cadastro. Ao clicar nesta opção será possível mudar a data renovação informando a quantidade de meses que deverá ter o intervalo de renovação do documento. Também é possível excluir a renovação clicando em “Excluir Agendamento”.&#x20;
+**Alterar Renovação**: Essa opção só estará disponível caso o documento ainda não tenha sido renovado. Ao clicar nesta opção será possível mudar a data renovação informando a quantidade de meses que deverá ter o intervalo de renovação do documento. Também é possível excluir a renovação clicando em “Excluir Agendamento”.
 
 <figure><img src="../.gitbook/assets/renovacoes07.png" alt=""><figcaption></figcaption></figure>
 

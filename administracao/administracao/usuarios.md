@@ -14,11 +14,11 @@ Após a inserção de um novo usuário pelo Administrador Global, o convidado re
 
 <div>
 
-<figure><img src="../../.gitbook/assets/usuarios02.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/usuarios02.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
  
 
-<figure><img src="../../.gitbook/assets/usuarios04.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/usuarios04.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 </div>
 
@@ -30,7 +30,7 @@ Após a inserção de um novo usuário pelo Administrador Global, o convidado re
 
 ## Colunas da tela principal – Usuários
 
-<figure><img src="../../.gitbook/assets/usuarios03.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/usuarios03.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 **E-mail:** Mostra o e-mail dos usuários associados ou convidados para a conta.
 
@@ -58,11 +58,11 @@ As ações da tela de Usuários podem se acessadas por meio dos botões superior
 
 <div>
 
-<figure><img src="../../.gitbook/assets/usuarios05.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/usuarios05.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
  
 
-<figure><img src="../../.gitbook/assets/usuarios06.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/usuarios06.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 </div>
 
@@ -70,11 +70,11 @@ As ações da tela de Usuários podem se acessadas por meio dos botões superior
 
 O usuário deve definir um código de segurança que deverá ser digitado pelo convidado para realizar o primeiro acesso à conta. Depois, deve informar e-mail do usuário e definir o tipo de perfil que será atribuído a ele, que pode ser Administrador Global (acesso a todas as funcionalidades), Remetente de Documentos (envia e assina documentos) ou ambos.
 
-<figure><img src="../../.gitbook/assets/usuarios07.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/usuarios07.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 Se o usuário convidado tiver o perfil somente de Remetente de Documentos, será preciso definir também o Grupo de Usuários ao qual o convidado será associado. Esse grupo de usuários determinará a quais pastas do diretório o novo membro da conta terá acesso e deverá ter sido anteriormente criado no menu [Administração > Grupo de Usuários](grupo-de-usuarios.md). Também é possível criar um grupo clicando em “Novo Grupo”.
 
-<figure><img src="../../.gitbook/assets/usuarios08.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/usuarios08.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 {% hint style="warning" %}
 <mark style="color:orange;">**A definição de grupo não é solicitada para usuários criados com perfil de Administrador Global porque estes usuários têm acesso a todas as pastas de**</mark> [<mark style="color:blue;">**Documentos do Diretório**</mark>](../../diretorios/documentos.md)<mark style="color:orange;">**, não sendo preciso, portanto, fazer essa restrição.**</mark>
@@ -82,11 +82,11 @@ Se o usuário convidado tiver o perfil somente de Remetente de Documentos, será
 
 **Ativar:** Podem ser ativados apenas usuários com status “Bloqueado” ou “Inativo”. Ao ativar os usuários bloqueados ou inativos eles terão acesso novamente à conta.
 
-<figure><img src="../../.gitbook/assets/usuarios09.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/usuarios09.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 **Bloquear:** Podem ser bloqueados apenas usuários com status “Ativo”. Usuários bloqueados perdem a propriedade de todos os documentos.
 
-<figure><img src="../../.gitbook/assets/usuarios10.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/usuarios10.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 **Editar:** Utilizado para editar as informações do usuário.
 
@@ -94,16 +94,16 @@ Se o usuário convidado tiver o perfil somente de Remetente de Documentos, será
 
 Se for escolhida a opção “Inativar sem Transferir” o usuário apesar de inativo continuará como proprietário dos documentos.
 
-<figure><img src="../../.gitbook/assets/usuarios11.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/usuarios11.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 Se for escolhida a opção “Transferir” será preciso informar quem será o novo proprietário dos documentos e se serão transferidos todos os documentos ou somente aqueles em processo de assinatura ou com renovação agendada.
 
-<figure><img src="../../.gitbook/assets/usuarios12.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/usuarios12.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 **Excluir:** Só podem ser excluídos da conta aqueles usuários com status “Pendente”, ou seja, que foram convidados, mas ainda não ingressaram na conta.
 
-<figure><img src="../../.gitbook/assets/usuarios13.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/usuarios13.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 **Pesquisar:** É possível pesquisar um usuário da conta por nome ou e-mail utilizando a barra de pesquisa superior.
 
-<figure><img src="../../.gitbook/assets/usuarios14.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/usuarios14.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>

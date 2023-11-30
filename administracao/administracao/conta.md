@@ -2,7 +2,7 @@
 
 No menu Conta encontram-se as informações sobre a conta do usuário.
 
-<figure><img src="../../.gitbook/assets/conta01.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/conta01.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 ***
 
@@ -12,7 +12,7 @@ Na aba Dados Fiscais são apresentadas as informações ficais e financeiras do 
 
 Caso a conta do usuário seja de um plano gratuito, as informações estarão em branco, mas poderão ser editadas clicando-se no botão “Editar”.
 
-<figure><img src="../../.gitbook/assets/conta02.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/conta02.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 Nesta aba são apresentadas as seguintes informações do usuário:
 
@@ -30,7 +30,7 @@ Nesta aba são apresentadas as seguintes informações do usuário:
 * **Estado:** Estado do usuário ou empresa.
 * **Cidade:** Cidade do usuário ou empresa.
 
-<figure><img src="../../.gitbook/assets/conta03.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/conta03.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 ***
 
@@ -44,7 +44,7 @@ Na sub aba Plano e Consumo é apresentado o tipo de plano, o período de faturam
 
 Por padrão ao criar uma conta a opção “**Renovação Automática**” será automaticamente habilitada. Para cancelar essa renovação, basta desmarcar essa opção.
 
-<figure><img src="../../.gitbook/assets/conta04.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/conta04.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 {% hint style="info" %}
 <mark style="color:blue;">Ao deixar habilitada a renovação automática, quando o plano vencer o sistema fará a renovação do pagamento de forma automática, utilizando o mesmo meio de pagamento da compra anterior. Se desabilitada a opção, será exibido o botão “Comprar Agora”, para que o usuário faça novamente a compra do mesmo plano ou de outro plano que desejar.</mark>
@@ -52,11 +52,11 @@ Por padrão ao criar uma conta a opção “**Renovação Automática**” será
 
 Para alterar a forma de pagamento do plano, clique em “**Alterar Forma de Pagamento**”. Será enviado um link para o e-mail ou telefone do usuário responsável pela conta com um link para que seja realizada essa alteração.
 
-<figure><img src="../../.gitbook/assets/conta07.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/conta07.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 Ao clicar em “**Detalhes do Plano**” serão exibidos detalhes do plano atual do usuário, como tipo de plano, período de faturamento (mensal ou anual), valor pago no plano, descrição e quantidade dos itens aos quais o plano dá acesso, valores de créditos, créditos excedentes e data de validade do plano.
 
-<figure><img src="../../.gitbook/assets/conta05.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/conta05.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 Nesta tela é possível visualizar também a quantidade de créditos restantes o usuário ainda possui para envio de documentos. Em “**Uso Acumulado do Plano**” o usuário pode visualizar a quantidade de envios de documentos à qual ele tem direito no plano contratado.
 
@@ -68,17 +68,17 @@ Em “**Créditos Restantes da Assinatura do Plano**” são apresentados os cr�
 
 Se o usuário tiver comprado créditos além daqueles já inclusos no plano clicando em “**Datas de expiração dos créditos extra**” será possível visualizar as datas em que os créditos comprados à parte do plano irão expirar.
 
-<figure><img src="../../.gitbook/assets/conta06.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/conta06.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 ### Histórico de Compras
 
 Na aba Histórico de Compras é apresentada a descrição dos produtos já adquiridos pelo usuário, o período de vigência de cada um, o número de parcelas em que foi dividido o pagamento, o valor e status dessas parcelas.
 
-<figure><img src="../../.gitbook/assets/conta08.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/conta08.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 Ao clicar em “**Detalhes do plano**” é apresentada a descrição e quantidade detalhada dos itens que compõem o plano, os valores de créditos e valores excedentes (quando adquiridos) e a data de validade de cada um dos itens.
 
-<figure><img src="../../.gitbook/assets/conta09.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/conta09.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 ***
 
@@ -88,7 +88,7 @@ Ao clicar em “**Detalhes do plano**” é apresentada a descrição e quantida
 
 Por default as configurações dessa aba são preenchidas automaticamente, mas é possível alterá-los clicando-se no botão “Editar”.
 
-<figure><img src="../../.gitbook/assets/conta10.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/conta10.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 Os valores definidos aqui serão adotados como padrão para a configuração de envio e renovações de documentos e processos de assinatura feitos pelo usuário, mas podem ser alteradas em cada documento durante a sua criação na tela [Novo Documento > Adicionar Documentos e Destinatários > Configurações Avançadas. ](../../menu-superior/novo-documento.md#configuracoes-avancadas)
 
@@ -98,7 +98,7 @@ Os valores definidos aqui serão adotados como padrão para a configuração de 
 
 **Configuração padrão para lembretes recorrentes a serem enviados aos destinatários após a data de envio:** Ao marcar essa opção, a partir do momento do envio do documento até a data de seu vencimento, serão enviados lembretes aos destinatários a cada período de tempo determinado no campo “Tempo padrão de \_\_\_\_\_ dias para recorrência de lembrete aos destinatários sobre alguma ação pendente no documento”. Se a opção for desabilitada, o campo abaixo também será desabilitado automaticamente.
 
-<figure><img src="../../.gitbook/assets/conta11.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/conta11.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 **Gerar QR Code de acesso do documento no Registro de Assinaturas:** Se habilitada essa opção, no Registro de Assinaturas de um documento assinado será apresentado um QR COde, por meio do qual a pessoa que está acessando conseguirá visualizar o documento assinado.
 
@@ -110,11 +110,11 @@ Os valores definidos aqui serão adotados como padrão para a configuração de 
 <mark style="color:orange;">**Ao concluir o processo de assinaturas, o sistema enviará um link de acesso ao documento no corpo do e-mail para todos os destinatários.**</mark>
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/conta12.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/conta12.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 **Configuração padrão para lembretes recorrentes a serem enviados aos remetentes após a data de renovação agendada de um documento:** Se marcada essa opção, quando houver um documento concluído que possui renovação agendada, o sistema vai lembrar ao remetente do documento que ele está apto para ser renovado. Esse lembrete será enviado no período definido no campo “Tempo padrão de \_\_\_\_ dias para recorrência de lembretes aos remetentes sobre renovação de documento”. Se desabilitada essa opção, esse campo será também desabilitado.
 
-<figure><img src="../../.gitbook/assets/conta13.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/conta13.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 ### Papel do Signatário
 
@@ -126,11 +126,11 @@ Nesta aba são criados os papéis de signatários. Os papéis de signatários se
 
 Por padrão a plataforma apresenta os papéis “Contratada”, “Contratante”, “Fiador”, “Parte” e “Testemunha”.
 
-<figure><img src="../../.gitbook/assets/conta14.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/conta14.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 Para editar esses papéis, basta selecionar aquele que deseja editar e clicar no ícone “Editar”.
 
-<figure><img src="../../.gitbook/assets/conta15.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/conta15.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 Será possível alterar o nome do papel e defini-lo como papel padrão.&#x20;
 
@@ -142,13 +142,13 @@ Será possível alterar o nome do papel e defini-lo como papel padrão.&#x20;
 
 Para criar um novo papel, clique no ícone “Adicionar” e informe um nome para o papel. Se desejar torná-lo o papel padrão, assinale a opção “Definir este papel como padrão”. Para finalizar, clique em “Salvar”.
 
-<figure><img src="../../.gitbook/assets/conta17.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/conta17.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/conta18.png" alt=""><figcaption></figcaption></figure>
 
 Para alterar o papel padrão clique “Remover Padrão” ou “Tornar Padrão”, de acordo com a necessidade.
 
-<figure><img src="../../.gitbook/assets/conta19.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/conta19.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 Para excluir um papel, clique no ícone “Excluir”. Também é possível localizar um tipo de papel utilizando a barra de pesquisa da tela. &#x20;
 
@@ -160,11 +160,11 @@ Para excluir um papel, clique no ícone “Excluir”. Também é possível loca
 
 **Notificar a cada \_\_\_\_\_ dias, a partir de \_\_\_\_\_ dias antes do vencimento da assinatura:** Ao preencher esses campos os administradores globais da conta serão notificados no período determinado quando a data de vencimento do plano estiver se aproximando do vencimento. Após o vencimento da assinatura, este tipo de notificação não será mais enviada.
 
-<figure><img src="../../.gitbook/assets/conta21.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/conta21.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 Se habilitado o campo “**Notificações Personalizadas - Personalização com cores e logo da marca**” será possível inserir um banner e definir as cores de destaque das notificações enviadas aos destinatários por e-mail e Whatsapp.
 
-<figure><img src="../../.gitbook/assets/conta22.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/conta22.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 {% hint style="warning" %}
 <mark style="color:orange;">**Atente-se à dimensão padrão da imagem para o banner. Imagens fora dos tamanhos especificados não serão aceitas.**</mark>
@@ -176,7 +176,7 @@ Clicando no ícone “Excluir imagem” o banner será excluído.
 
 Clicando em “Visualizar Notificação” será possível ver como será apresentado ao destinatário o e-mail de notificação e a notificação via Whasapp.
 
-<figure><img src="../../.gitbook/assets/conta24.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/conta24.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/conta25.png" alt=""><figcaption></figcaption></figure>
 
@@ -194,11 +194,11 @@ Nesta aba o usuário pode inserir ou editar o Termo de aceite para Assinatura El
 
 A plataforma apresenta o termo padrão, mas caso o usuário deseje editar ou substituir esse texto, pode fazê-lo clicando em “Editar”.
 
-<figure><img src="../../.gitbook/assets/conta26.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/conta26.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 Ele poderá também alterar a formatação e cores do texto utilizando a barra de ferramentas de edição.
 
-<figure><img src="../../.gitbook/assets/conta27.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/conta27.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 Ao clicar em “Visualizar” o Termo é exibido da forma que será apresentado aos signatários. O usuário poderá imprimir o texto clicando em “Imprimir”.
 
@@ -216,6 +216,6 @@ Nesta aba são apresentadas todos os Aceites ao Termo de Assinatura Eletrônica 
 * **Geolocalização:** Essa coluna apresenta a geolocalização da máquina do signatário no momento em que ele realizou o aceite ao Termo de Assinatura Eletrônica.
 * **Visualizar Termo:** Ao clicar neste botão é exibida a versão do termo que foi aceita pelo signatário.
 
-<figure><img src="../../.gitbook/assets/conta29.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/conta29.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/conta30.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/conta30.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>

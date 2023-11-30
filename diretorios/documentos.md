@@ -14,14 +14,14 @@ A pasta raiz é criada automaticamente no momento da criação da conta do usuá
 
 ### Acesso à pasta raiz de Diretórios&#x20;
 
-O acesso à pasta raiz do diretório é concedido a usuários que tenham sido designados como administradores globais ou administradores de diretório no menu [Administração > Usuários](../administracao/administracao/usuarios.md). O acesso a outros usuários deve ser feito por grupo, ou seja, é preciso criar um [Grupo de Usuários](../administracao/administracao/grupo-de-usuarios.md) e conceder o acesso ao grupo. Para isso, na coluna “Ações” clique em “Editar Permissões”.&#x20;
+O acesso à pasta raiz do diretório é concedido a usuários que tenham sido designados como administradores globais no menu [Administração > Usuários](../administracao/administracao/usuarios.md). O acesso a outros usuários com perfil de remetente de documentos deve ser feito por grupo, ou seja, é preciso criar um [Grupo de Usuários](../administracao/administracao/grupo-de-usuarios.md) e conceder o acesso ao grupo. Para isso, na coluna “Ações” clique em “Editar Permissões”. &#x20;
 
 {% hint style="info" %}
-<mark style="color:blue;">**ADMINISTRADOR DE DIRETÓRIO X ADMINISTRADOR GLOBAL**</mark>
-
-<mark style="color:blue;">O</mark> <mark style="color:blue;"></mark><mark style="color:blue;">**administrador de diretório**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">tem permissão para executar todas as ações de um documento: compartilhar, editar, excluir, alterar a propriedade e conceder permissões de acesso a ele, mas suas permissões se restringem àquele diretório.</mark>
+<mark style="color:blue;">**ADMINISTRADOR GLOBAL X REMETENTE DE DOCUMENTOS**</mark>
 
 <mark style="color:blue;">O</mark> <mark style="color:blue;"></mark><mark style="color:blue;">**administrador globa**</mark><mark style="color:blue;">l, além de ter todas as permissões de um administrador de diretório, possui permissão de acesso a todas as funcionalidades da plataforma, inclusive gestão de usuários. É ele quem define quem serão os administradores de diretórios da conta. Geralmente o administrador global é o proprietário da conta e aqueles usuários que ele designar que poderão ter acesso total.</mark>
+
+<mark style="color:blue;">O</mark> <mark style="color:blue;"></mark><mark style="color:blue;">**remetente de documentos**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">é um usuário sem permissão de acesso às funcionalidades de gestão da plataforma.</mark>
 {% endhint %}
 
 <figure><img src="../.gitbook/assets/documentos2.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
@@ -30,13 +30,13 @@ Na tela “Editar Permissões” clique no ícone “Incluir”. &#x20;
 
 <figure><img src="../.gitbook/assets/documentos3.png" alt=""><figcaption></figcaption></figure>
 
-No campo “Grupo” selecione o grupo ao qual será concedido o acesso. &#x20;
+No campo “Grupo” selecione o grupo ao qual será concedido o acesso e habilite permissão de leitura para todos no menu [Documentos > Ações > Editar permissões](documentos.md#acoes-individuais-subdiretorios).
 
-No campo “Perfil” selecione o perfil de acesso que será concedido aos membros daquele grupo de usuários, que pode ser:&#x20;
+No campo “Perfil” selecione o perfil que designa a permissão de acesso do usuário ou grupo a Diretórios. Os perfis de diretório podem ser:
 
-* _Administrador de Documentos e Pastas:_ Tem permissão para executar todas as ações do documento: compartilhar, editar, excluir, alterar a propriedade e conceder permissões de acesso ao documento.  &#x20;
-* _Colaborador de Documentos:_ Tem permissão para editar e excluir o documento, mas não pode conceder acesso ao documento nem alterar a propriedade do documento.  &#x20;
-* _Leitor de Documentos:_ Apenas visualiza o documento.&#x20;
+* _Administrador de Documentos e Pastas:_ Um usuário ou grupo de usuários com este perfil de diretórios pode consultar e baixar conteúdo, incluir, mover, compartilhar e renomear documentos, excluir ou incluir novas pastas, além de poder mudar permissões de acesso.
+* _Colaborador de Documentos:_ Um usuário ou grupo de usuários com este perfil de diretórios pode consultar e baixar conteúdo, incluir, mover, compartilhar e renomear documentos à pasta a que tem este perfil.  &#x20;
+* _Leitor de Documentos:_ Um usuário ou grupo de usuários com este perfil de diretórios pode apenas consulta e baixar o conteúdo da pasta e documentos.
 
 <figure><img src="../.gitbook/assets/documentos4.png" alt=""><figcaption></figcaption></figure>
 

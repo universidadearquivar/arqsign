@@ -10,6 +10,8 @@ O botão “Alterar Plano” será exibido para usuários com assinatura de plan
 
 <figure><img src="../.gitbook/assets/compra1.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
+<figure><img src="../.gitbook/assets/Screenshot_2.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
 {% hint style="warning" %}
 <mark style="color:orange;">**Caso o usuário tenha deixado marcada a opção “Renovação Automática” na tela**</mark> [<mark style="color:blue;">**Administração > Conta > Aba Faturamento e Uso > Plano e Consumo**</mark>](../administracao/administracao/conta.md#plano-e-consumo)<mark style="color:orange;">**, o botão “Comprar Plano” não será exibido, porque ao expirar o plano, o sistema automaticamente renovará a assinatura no plano atual, utilizando as informações de faturamento já existentes no cadastro do usuário.**</mark> &#x20;
 {% endhint %}

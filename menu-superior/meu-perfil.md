@@ -2,7 +2,7 @@
 
 No menu Meu Perfil são apresentadas as informações do usuário autenticado. &#x20;
 
-<figure><img src="../.gitbook/assets/perfil1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/perfil1.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 ***
 
@@ -14,7 +14,7 @@ Na aba Meus Dados são apresentadas as informações de cadastro do usuário. É
 
 **Foto do perfil:** Para inserir ou editar a foto de perfil, clique sobre a imagem e selecione a opção “Upload Nova Imagem”. Selecione a foto desejada e clique em “Salvar”. Para excluir a foto de perfil, basta clicar na foto e selecionar a opção “Excluir Imagem Atual”.&#x20;
 
-<figure><img src="../.gitbook/assets/perfil3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/perfil3.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 **E-mail:** O e-mail apresentado neste campo é o mesmo utilizado no momento do cadastro da conta do usuário na plataforma e não pode ser alterado. &#x20;
 
@@ -52,7 +52,7 @@ Na aba Meus Contatos o usuário pode cadastrar informações de destinatários p
 
 **Ícone Adicionar Contato:** Para adicionar um novo contato, clique no ícone “Adicionar Contato” e informe o nome e e-mail ou número de WhatsApp do contato. Ao selecionar a opção “Compartilhar com todos os usuários da conta” o contato cadastrado será salvo na lista de contatos de todos os usuários que fazem parte da conta. Para concluir, clique em “Salvar”.&#x20;
 
-<figure><img src="../.gitbook/assets/perfil7.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/perfil7.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 **Ícone Editar Contato:** Para editar as informações de um contato, selecione o destinatário desejado marcando a caixa de seleção do lado esquerdo e clique no ícone “Editar Contato”. &#x20;
 
@@ -64,7 +64,7 @@ Na aba Meus Contatos o usuário pode cadastrar informações de destinatários p
 
 **Barra de Pesquisa:** É possível localizar um contato específico utilizando os filtros de e-mail ou WhatsApp para busca.&#x20;
 
-<figure><img src="../.gitbook/assets/perfil8.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/perfil8.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 ***
 
@@ -104,7 +104,7 @@ Na tela principal são apresentadas as informações de todos os certificados ca
 
 Para realizar o upload de um certificado, o usuário deve clicar no ícone “Novo”, fazer a importação do arquivo do certificado, definir um nome e informar sua senha do certificado.
 
-<figure><img src="../.gitbook/assets/perfil14.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/perfil14.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 ***
 
@@ -137,4 +137,4 @@ Se foi solicitada a transferência de apenas um documento, ela é feita instanta
 * _Cancelar:_ Cancela a transferência de propriedade. &#x20;
 * _Editar:_ Altera o usuário definido como novo proprietário do documento.
 
-<figure><img src="../.gitbook/assets/perfil17.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/perfil17.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>

@@ -34,30 +34,6 @@ No menu Renovações são apresentados todos os documentos que foram cadastrados
 
 ***
 
-## Ações em lote - Renovações
-
-É possível selecionar mais de um documento marcando-se os checkbox ao lado do nome do arquivo e executar ações em lote.&#x20;
-
-<figure><img src="../.gitbook/assets/renovacoes05.png" alt=""><figcaption></figcaption></figure>
-
-**Mover Documento:** Ao clicar neste ícone será possível alterar a pasta onde os documentos selecionados estão armazenados. &#x20;
-
-<figure><img src="../.gitbook/assets/caixa_entrada05.png" alt=""><figcaption></figcaption></figure>
-
-**Alterar Proprietário:** Ao clicar neste ícone será possível alterar a propriedade dos documentos selecionados, ou seja, as funções de administração do documento serão de outro usuário. Essa ação só poderá ser desfeita se o usuário que for definido como novo proprietário devolver a propriedade do documento ao proprietário original. A alteração de proprietário de um documento em lote tem o prazo de 24 horas para ser realizada e para acompanhar o andamento o usuário deve acessar o menu Meu Perfil > Aba Solicitações. &#x20;
-
-{% hint style="warning" %}
-<mark style="color:orange;">**Só podem ser selecionados como novo proprietários usuários cadastrados na mesma conta do responsável.**</mark>&#x20;
-{% endhint %}
-
-<figure><img src="../.gitbook/assets/enviados06.png" alt=""><figcaption></figcaption></figure>
-
-**Excluir:** Ao clicar neste ícone será possível excluir os documentos selecionados. Só será possível executar essa ação em documentos com o status “Concluído” ou “Cancelado”.&#x20;
-
-<figure><img src="../.gitbook/assets/caixa_entrada08.png" alt=""><figcaption></figcaption></figure>
-
-***
-
 ## Ações individuais - Renovações
 
 <figure><img src="../.gitbook/assets/renovacoes06.png" alt=""><figcaption></figcaption></figure>
@@ -109,3 +85,27 @@ No menu Renovações são apresentados todos os documentos que foram cadastrados
 **Versionamento:** Essa opção permite ao usuário visualizar todas as versões do documento que já foram enviadas. Ao renovar um documento e ele ser concluído, ele deixa de ser exibido na tela Renovações, mas as informações sobre o seu envio podem ser vistas na tela Versionamento do Documento. &#x20;
 
 <figure><img src="../.gitbook/assets/renovacoes08.png" alt=""><figcaption></figcaption></figure>
+
+***
+
+## Ações em lote - Renovações
+
+É possível selecionar mais de um documento marcando-se os checkbox ao lado do nome do arquivo e executar ações em lote.&#x20;
+
+<figure><img src="../.gitbook/assets/renovacoes05.png" alt=""><figcaption></figcaption></figure>
+
+**Mover Documento:** Ao clicar neste ícone será possível alterar a pasta onde os documentos selecionados estão armazenados. &#x20;
+
+<figure><img src="../.gitbook/assets/caixa_entrada05.png" alt=""><figcaption></figcaption></figure>
+
+**Alterar Proprietário:** Ao clicar neste ícone será possível alterar a propriedade dos documentos selecionados, ou seja, as funções de administração do documento serão de outro usuário. Essa ação só poderá ser desfeita se o usuário que for definido como novo proprietário devolver a propriedade do documento ao proprietário original. A alteração de proprietário de um documento em lote tem o prazo de 24 horas para ser realizada e para acompanhar o andamento o usuário deve acessar o menu Meu Perfil > Aba Solicitações. &#x20;
+
+{% hint style="warning" %}
+<mark style="color:orange;">**Só podem ser selecionados como novo proprietários usuários cadastrados na mesma conta do responsável.**</mark>&#x20;
+{% endhint %}
+
+<figure><img src="../.gitbook/assets/enviados06.png" alt=""><figcaption></figcaption></figure>
+
+**Excluir:** Ao clicar neste ícone será possível excluir os documentos selecionados. Só será possível executar essa ação em documentos com o status “Concluído” ou “Cancelado”.&#x20;
+
+<figure><img src="../.gitbook/assets/caixa_entrada08.png" alt=""><figcaption></figcaption></figure>

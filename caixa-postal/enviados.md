@@ -2,17 +2,17 @@
 
 Na caixa Enviados são apresentados todos os documentos enviados pelo usuário para os signatários, inclusive aqueles em que ele mesmo é assinante.
 
-<figure><img src="../.gitbook/assets/enviados01.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/enviados01.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 Ao clicar em um documento, será aberta a tela de visualização do documento, que apresenta o documento enviado, seus status e data de vencimento. No canto direito da tela são apresentadas informações dos signatários como dados pessoais, papel de signatário e status da assinatura.
 
-<figure><img src="../.gitbook/assets/alteracao2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/alteracao2.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 ***
 
 ## Colunas da tela principal - Enviados
 
-<figure><img src="../.gitbook/assets/enviados02.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/enviados02.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 **Coluna Nome do Documento:** Nesta coluna são exibidos o nome do documento e o nome do signatário. Se houver mais de um signatário será mostrado o nome do primeiro e a quantidade de outras pessoas que deverão assinar.
 
@@ -42,11 +42,11 @@ Ao clicar em um documento, será aberta a tela de visualização do documento, q
 
 **Reenviar:** Os documentos que já estão com prazo de assinatura expirado e que não foram assinados por todos os signatários exibirão a mensagem “Vencido antes da conclusão das assinaturas”. Neste caso, é possível reenviar o documento para aqueles signatários que ainda não assinaram. Ao clicar neste botão serão exibidas as informações de ordem de envio para os destinatários, e-mail ou telefone para onde o documento foi enviado, código de segurança para acesso ao documento (se houver) e ícone “Editar”, que permite a edição das informações do destinatário.
 
-<figure><img src="../.gitbook/assets/caixa_entrada18.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/caixa_entrada18.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 **Histórico:** Utilizado para visualizar informações sobre o documento e o histórico dos eventos relacionados a ele. Também é possível fazer o download dos arquivos originais do processo, antes das assinaturas concluídas. Essa opção só estará disponível para documentos com o status “Concluído”.
 
-<figure><img src="../.gitbook/assets/caixa_entrada12.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/caixa_entrada12.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 **Alterar Pasta:** Esta opção só será exibida se o usuário tiver acesso à pasta na qual o documento está armazenado. Ao clicar nesta opção ele poderá alterar a pasta do diretório onde o documento está armazenado.
 
@@ -60,7 +60,7 @@ Ao clicar em um documento, será aberta a tela de visualização do documento, q
 
 <figure><img src="../.gitbook/assets/enviados06.png" alt=""><figcaption></figcaption></figure>
 
-**Alterar Renovação:** Esta opção só estará disponível caso o documento possua status “Concluído”. Ao clicar nesta opção é possível incluir ou alterar a data de renovação do documento, determinada anteriormente no campo “Agendar renovação \_\_\_ meses após a conclusão das assinaturas” marcada, na tela Novo Documento > Adicionar Documentos e Destinatários > Adicionar Documentos. Para incluir ou alterar a quantidade de meses de intervalo entre as renovações edite o campo “Quantidade Meses Renovação”.&#x20;
+**Alterar Renovação:** Esta opção só estará disponível caso o documento possua status “Concluído”. Ao clicar nesta opção é possível incluir ou alterar a data de renovação do documento, determinada anteriormente no campo “Agendar renovação \_\_\_ meses após a conclusão das assinaturas” marcada, na tela Novo Documento > Adicionar Documentos e Destinatários > Adicionar Documentos. Para incluir ou alterar a quantidade de meses de intervalo entre as renovações edite o campo “Quantidade Meses Renovação”.
 
 <figure><img src="../.gitbook/assets/renovacoes07.png" alt=""><figcaption></figcaption></figure>
 
@@ -68,7 +68,7 @@ Ao clicar em um documento, será aberta a tela de visualização do documento, q
 
 **Baixar Registro de Assinaturas:** Utilizado para fazer o download do registro das assinaturas realizadas no documento. O Registro de Assinaturas exibe todas as informações sobre as assinaturas eletrônicas realizadas, como nome dos assinantes, data e hora da assinatura, localização e IP de onde foi realizada, dados dos certificados digitais utilizados etc.
 
-<figure><img src="../.gitbook/assets/caixa_entrada11.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/caixa_entrada11.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 **Corrigir:** Será exibido esse botão quando a informação de contato (e-mail ou telefone) para envio do documento de um ou mais signatários estiver incorreta. Nesse caso será necessário corrigir a informação incorreta para que o sistema reenvie o documento. &#x20;
 
@@ -90,7 +90,7 @@ Ao clicar em um documento, será aberta a tela de visualização do documento, q
 
 É possível selecionar mais de um documento marcando-se os checkbox ao lado do nome do arquivo e executar ações em lote.
 
-<figure><img src="../.gitbook/assets/enviados05.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/enviados05.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 **Mover Documento:** Ao clicar neste ícone será possível alterar a pasta onde os documentos selecionados estão armazenados. Não será possível executar essa ação em documentos com o status “Em andamento”.   &#x20;
 
@@ -106,7 +106,7 @@ Ao clicar em um documento, será aberta a tela de visualização do documento, q
 
 **Reenviar:** Ao clicar neste ícone será possível reenviar os documentos selecionados para os destinatários que ainda não assinaram. Só será possível executar essa ação em documentos que não estejam com o status “Concluído”.
 
-<figure><img src="../.gitbook/assets/caixa_entrada06.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/caixa_entrada06.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 **Cancelar Envio:** Ao clicar neste ícone será possível cancelar o envio dos documentos selecionados, interrompendo os processos de assinatura. Só será possível executar essa ação em documentos que não estejam com o status “Concluído”.
 

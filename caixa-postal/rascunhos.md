@@ -6,13 +6,13 @@ No menu Rascunhos são exibidos todos os documentos que começaram a ser configu
 <mark style="color:orange;">**Para salvar um documento como Rascunho o usuário deve clicar em “Concluir Mais Tarde” no momento da criação do documento, na tela**</mark> [<mark style="color:blue;">**Novo Documento > Adicionar Documentos e Destinatários**</mark>](../menu-superior/novo-documento.md#a.-adicionar-documentos)<mark style="color:blue;">**.**</mark>
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/rascunhos01.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/rascunhos01.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 ***
 
 ## Colunas da tela principal - Rascunhos
 
-<figure><img src="../.gitbook/assets/rascunhos02.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/rascunhos02.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 **Coluna Nome do Documento:** Nesta coluna são exibidos o nome do documento e o nome do signatário. Se houver mais de um signatário será mostrado o nome do primeiro e a quantidade de outras pessoas que deverão assinar.&#x20;
 
@@ -36,25 +36,25 @@ No menu Rascunhos são exibidos todos os documentos que começaram a ser configu
 
 ## Ações individuais - Rascunhos
 
-<figure><img src="../.gitbook/assets/rascunhos05.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/rascunhos05.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 **Editar:** Ao clicar nesta opção o usuário é encaminhado para a tela de cadastro do documento, onde deverá concluir a configuração do documento, incluir os destinatários e realizar as demais parametrizações necessárias para envio do arquivo e recolhimento das assinaturas.  &#x20;
 
-<figure><img src="../.gitbook/assets/rascunhos06.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/rascunhos06.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 **Alterar Pasta:** Ao clicar nesta opção o usuário poderá alterar a pasta do diretório onde o documento está armazenado. &#x20;
 
-<figure><img src="../.gitbook/assets/caixa_entrada05.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/caixa_entrada05.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 **Baixar Arquivo:** Utilizado para fazer o download do documento.&#x20;
 
 **Excluir:** Utilizado para excluir o arquivo, que irá para a [caixa Excluídos](excluidos.md).&#x20;
 
-<figure><img src="../.gitbook/assets/caixa_entrada15.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/caixa_entrada15.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 **Renomear:** Esta opção só será exibida se o usuário além de signatário for também o remetente do documento. Utilizado para renomear o documento. &#x20;
 
-<figure><img src="../.gitbook/assets/caixa_entrada16.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/caixa_entrada16.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 ***
 
@@ -62,12 +62,12 @@ No menu Rascunhos são exibidos todos os documentos que começaram a ser configu
 
 É possível selecionar mais de um documento marcando-se os checkbox ao lado do nome do arquivo e executar ações em lote.
 
-<figure><img src="../.gitbook/assets/rascunhos04.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/rascunhos04.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 **Mover Documento:** Ao clicar neste ícone será possível alterar a pasta onde os documentos selecionados estão armazenados. &#x20;
 
-<figure><img src="../.gitbook/assets/caixa_entrada05.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/caixa_entrada05.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 **Excluir:** Ao clicar neste ícone será possível excluir os documentos selecionados. &#x20;
 
-<figure><img src="../.gitbook/assets/caixa_entrada08.png" alt=""><figcaption><p>A</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/caixa_entrada08.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>

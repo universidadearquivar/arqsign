@@ -6,13 +6,13 @@ No menu Excluídos são apresentados todos os documentos excluídos pelo usuári
 <mark style="color:orange;">**Não é possível visualizar o documento na tela Excluídos. Para ver o arquivo é necessário restaurar o documento e acessá-lo na sua caixa postal de origem, que pode ser a**</mark> [<mark style="color:blue;">**Caixa de Entrada**</mark>](caixa-de-entrada.md) <mark style="color:orange;">**ou a**</mark> [<mark style="color:blue;">**caixa Enviados**</mark>](enviados.md).
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/excluidos01.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/excluidos01.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 ***
 
 ## Colunas da tela principal - Excluídos
 
-<figure><img src="../.gitbook/assets/excluidos02.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/excluidos02.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 **Coluna Nome do Documento:** Nesta coluna são exibidos o nome do documento e o nome do signatário. Se houver mais de um signatário será mostrado o nome do primeiro e a quantidade de outras pessoas que deverão assinar.&#x20;
 
@@ -20,7 +20,7 @@ No menu Excluídos são apresentados todos os documentos excluídos pelo usuári
 
 **Coluna Status:** Os status possíveis para um documento são: “Concluído” (todos os participantes já assinaram o documento), “Cancelado” (o documento teve o envio cancelado e o processo de assinatura foi interrompido) e “Criado” (o documento foi criado na plataforma, mas sua configuração e envio aos destinatários ainda não foram concluídos). Ao passar o mouse sobre o status são exibidas informações sobre quais signatários ainda estão com assinatura pendente e quais já concluíram, além dos dados desses signatários. Também é exibido o código de segurança enviado para os destinatários (se houver).&#x20;
 
-<figure><img src="../.gitbook/assets/excluidos03.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/excluidos03.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 **Coluna Tamanho:** Nesta coluna é exibido o tamanho do arquivo do documento.  &#x20;
 
@@ -58,7 +58,7 @@ No menu Excluídos são apresentados todos os documentos excluídos pelo usuári
 
 **Histórico:** Utilizado para visualizar informações sobre o documento e o histórico dos eventos relacionados a ele. Também é possível fazer o download dos arquivos originais do processo, antes das assinaturas concluídas. Essa opção só estará disponível para documentos com o status “Concluído”.&#x20;
 
-<figure><img src="../.gitbook/assets/caixa_entrada12.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/caixa_entrada12.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 ***
 

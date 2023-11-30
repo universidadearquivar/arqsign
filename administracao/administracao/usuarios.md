@@ -1,10 +1,16 @@
 # 🟪 Usuários
 
-No menu Usuários são apresentados todos os usuários que participam da conta do usuário logado. No plano gratuito, só é possível que um usuário acesse a conta, mas nos planos pagos o usuário proprietário ou administradores globais podem convidar outras pessoas para que participem da conta e realizem ações na plataforma. A quantidade de usuários que podem ser convidados varia de acordo com o plano contratado.
+No menu Usuários são apresentados todos os usuários que participam da conta do usuário logado.&#x20;
+
+Os usuários administradores globais podem convidar outras pessoas para que participem da conta e realizem ações na plataforma.&#x20;
+
+A quantidade de usuários que podem ser convidados varia de acordo com o plano contratado. No plano gratuito, só é possível que um usuário acesse a conta.&#x20;
+
+Nos planos gratuitos, podem ser criados quantos usuários forem necessários (ilimitados).&#x20;
 
 <figure><img src="../../.gitbook/assets/usuarios01.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
-O convidado recebe por e-mail o convite para ingressar na conta e deverá informar o código de segurança definido pelo proprietário da conta para realizar o primeiro acesso.
+Após a inserção de um novo usuário pelo Administrador Global, o convidado recebe por e-mail o convite para ingressar na conta e deverá informar o código de segurança definido pelo proprietário da conta e informado ao novo usuário para realizar o primeiro acesso.
 
 <div>
 

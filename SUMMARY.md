@@ -22,7 +22,8 @@
 
 ## DIRETÓRIOS
 
-* [📁 Documentos](diretorios/documentos.md)
+* [📁 Documentos](diretorios/documentos/README.md)
+  * [🔹 Estrutura de diretórios para clientes que ainda não assinaram documentos](diretorios/documentos/estrutura-de-diretorios-para-clientes-que-ainda-nao-assinaram-documentos.md)
 
 ## ADMINISTRAÇÃO
 

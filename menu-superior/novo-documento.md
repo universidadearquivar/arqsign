@@ -47,7 +47,7 @@ No campo “**Nome Documento**”, se necessário, edite o nome do documento. Pa
 
 <figure><img src="../.gitbook/assets/novodocumento04.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
-No campo “**Pasta Documento**” selecione a pasta na qual o documento será hospedado. As pastas nas quais os documentos poderão ser armazenados deverão ser criadas no menu [Diretórios > Documentos.](../diretorios/documentos.md) Por padrão uma pasta com o nome do usuário é criada e deve ser selecionada caso não exista nenhuma outra.
+No campo “**Pasta Documento**” selecione a pasta na qual o documento será hospedado. As pastas nas quais os documentos poderão ser armazenados deverão ser criadas no menu [Diretórios > Documentos.](../diretorios/documentos/) Por padrão uma pasta com o nome do usuário é criada e deve ser selecionada caso não exista nenhuma outra.
 
 <figure><img src="../.gitbook/assets/novodocumento03.png" alt=""><figcaption></figcaption></figure>
 

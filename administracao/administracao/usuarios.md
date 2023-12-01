@@ -77,7 +77,7 @@ Se o usuário convidado tiver o perfil somente de Remetente de Documentos, será
 <figure><img src="../../.gitbook/assets/usuarios08.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 {% hint style="warning" %}
-<mark style="color:orange;">**A definição de grupo não é solicitada para usuários criados com perfil de Administrador Global porque estes usuários têm acesso a todas as pastas de**</mark> [<mark style="color:blue;">**Documentos do Diretório**</mark>](../../diretorios/documentos.md)<mark style="color:orange;">**, não sendo preciso, portanto, fazer essa restrição.**</mark>
+<mark style="color:orange;">**A definição de grupo não é solicitada para usuários criados com perfil de Administrador Global porque estes usuários têm acesso a todas as pastas de**</mark> [<mark style="color:blue;">**Documentos do Diretório**</mark>](../../diretorios/documentos/)<mark style="color:orange;">**, não sendo preciso, portanto, fazer essa restrição.**</mark>
 {% endhint %}
 
 **Ativar:** Podem ser ativados apenas usuários com status “Bloqueado” ou “Inativo”. Ao ativar os usuários bloqueados ou inativos eles terão acesso novamente à conta.

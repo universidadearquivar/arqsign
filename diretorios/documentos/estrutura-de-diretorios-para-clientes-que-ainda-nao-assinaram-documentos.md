@@ -116,13 +116,10 @@ _Edição do usuário:_ Acesse a tela [Administração > Usuários](../../admini
 
 <summary><strong>Pastas</strong></summary>
 
-1\.      Toda conta ao ser criada, automaticamente terá uma pasta raiz associada.
-
-2\.      A pasta raiz criada automaticamente pela plataforma recebe o nome da conta e pode ser renomeada posteriormente por seu Administrador Global.
-
-3\.      Para cada conta é permitida uma única pasta raiz. As demais pastas devem ser criadas obrigatoriamente dentro da pasta raiz.
-
-4\.      Os documentos exibidos em "Diretórios", são somente aqueles com status "Concluído" e que não esteja "Excluído", ou seja, se o documento estiver em processo de assinatura ele não vai aparecer no diretório.
+1. Toda conta ao ser criada, automaticamente terá uma pasta raiz associada.
+2. A pasta raiz criada automaticamente pela plataforma recebe o nome da conta e pode ser renomeada posteriormente por seu Administrador Global.
+3. &#x20;Para cada conta é permitida uma única pasta raiz. As demais pastas devem ser criadas obrigatoriamente dentro da pasta raiz.
+4. Os documentos exibidos em "Diretórios", são somente aqueles com status "Concluído" e que não esteja "Excluído", ou seja, se o documento estiver em processo de assinatura ele não vai aparecer no diretório.
 
 </details>
 
@@ -130,8 +127,7 @@ _Edição do usuário:_ Acesse a tela [Administração > Usuários](../../admini
 
 <summary>Perfil de Usuários</summary>
 
-1\.      O perfil do usuário Administrador Global tem acesso total ao diretório de documentos, caso o plano da conta possua acesso à funcionalidade de diretórios.
-
-2\.      O perfil de usuário Remetente de Documentos terá acesso à navegação nas pastas caso faça parte de algum grupo que possua permissão de pelo menos leitura.
+1. O perfil do usuário Administrador Global tem acesso total ao diretório de documentos, caso o plano da conta possua acesso à funcionalidade de diretórios.
+2. O perfil de usuário Remetente de Documentos terá acesso à navegação nas pastas caso faça parte de algum grupo que possua permissão de pelo menos leitura.
 
 </details>

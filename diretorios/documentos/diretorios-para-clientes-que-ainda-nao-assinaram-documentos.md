@@ -1,6 +1,6 @@
-# 🟪 Estrutura de diretórios para clientes que ainda não assinaram documentos
+# 🟪 Diretórios para clientes que ainda não assinaram documentos
 
-## Como criar a estrutura de diretórios
+## Criação da estrutura de diretórios
 
 ### ETAPA 1 - Estruturação de diretórios
 

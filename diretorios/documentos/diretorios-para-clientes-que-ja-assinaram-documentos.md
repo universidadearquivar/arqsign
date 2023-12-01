@@ -1,6 +1,6 @@
-# 🟪 Estrutura de diretórios para clientes que já assinaram documentos
+# 🟪 Diretórios para clientes que já assinaram documentos
 
-## Como criar a estrutura de diretórios
+## Criação da estrutura de diretórios
 
 ### ETAPA 1 – Revisão das permissões dos usuários
 

@@ -23,8 +23,8 @@
 ## DIRETÓRIOS
 
 * [📁 Documentos](diretorios/documentos.md)
-  * [🟪 Estrutura de diretórios para clientes que ainda não assinaram documentos](diretorios/documentos/estrutura-de-diretorios-para-clientes-que-ainda-nao-assinaram-documentos.md)
-  * [🟪 Estrutura de diretórios para clientes que já assinaram documentos](diretorios/documentos/estrutura-de-diretorios-para-clientes-que-ja-assinaram-documentos.md)
+  * [🟪 Diretórios para clientes que ainda não assinaram documentos](diretorios/documentos/diretorios-para-clientes-que-ainda-nao-assinaram-documentos.md)
+  * [🟪 Diretórios para clientes que já assinaram documentos](diretorios/documentos/diretorios-para-clientes-que-ja-assinaram-documentos.md)
 
 ## ADMINISTRAÇÃO
 

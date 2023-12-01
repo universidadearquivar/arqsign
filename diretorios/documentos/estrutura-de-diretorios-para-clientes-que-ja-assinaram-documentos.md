@@ -1,10 +1,24 @@
-# 🟪 Estrutura de diretórios para clientes que ainda não assinaram documentos
+# 🟪 Estrutura de diretórios para clientes que já assinaram documentos
 
 ## Como criar a estrutura de diretórios
 
-### ETAPA 1 - Estruturação de diretórios
+### ETAPA 1 – Revisão das permissões dos usuários
 
-1\. Identifique quais setores farão uso da Plataforma ArqSign para envio de documentos para assinatura, e de acordo com estes setores e crie uma pasta para cada. Para isso, na tela [Documentos](../documentos.md) acesse a pasta raiz e clique no ícone “Incluir Pasta”.
+O importante nesta etapa é garantir que somente usuários que podem ter acesso a todos os documentos que estão sendo enviados para assinatura na conta estejam com a permissão de Administrador Global.
+
+Para isso acesse a tela [Administração > Usuários ](../../administracao/administracao/usuarios.md)e revise os perfis de usuários associados à conta, garantindo que estejam com o perfil de Remetente de Documentos (exceto o gestor da conta que deve possuir o perfil Administrador Global).
+
+<figure><img src="../../.gitbook/assets/diretorios14.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
+{% hint style="warning" %}
+<mark style="color:orange;">**Somente usuários com perfil de Administrador Global poderão acessar todas as pastas do diretório.**</mark>
+{% endhint %}
+
+***
+
+### ETAPA 2 – Criação das pastas setoriais
+
+1\. Identifique quais setores farão uso da Plataforma ArqSign para envio de documentos para assinatura, e de acordo com estes setores e crie uma pasta para cada. Para isso, na tela [Documentos ](../documentos.md)acesse a [pasta raiz](../documentos.md#pasta-raiz-de-diretorios) e clique no ícone “Incluir Pasta”.
 
 <figure><img src="../../.gitbook/assets/diretorios01.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
@@ -22,7 +36,21 @@
 
 ***
 
-### ETAPA 2 - Criação de grupos por setores ou funcionais
+### ETAPA 3 – Movimentação dos documentos para as pastas
+
+Acesse a [pasta raiz de Diretórios](../documentos.md#pasta-raiz-de-diretorios), selecione todos os documentos que deseja mover para uma determinada pasta e clique no ícone “Mover”.
+
+<figure><img src="../../.gitbook/assets/diretorios15.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
+Selecione na lista a pasta para a qual deseja mover os documentos selecionados e clique em “Mover”.
+
+<figure><img src="../../.gitbook/assets/diretorios16.png" alt=""><figcaption></figcaption></figure>
+
+Repita o processo com todos os documentos avulsos que ainda estiverem na pasta raiz. O ideal é que todos os documentos sejam armazenados em alguma das pastas criadas, evitando a permanência de documentos avulsos na pasta raiz.
+
+***
+
+### ETAPA 4 - Criação de grupos por setores ou funcionais
 
 Crie grupos de usuários separando-os por setores, funções ou mesclando entre os dois. Para isso, acesse a tela [Administração > Grupos de Usuários](../../administracao/administracao/grupo-de-usuarios.md).
 
@@ -38,7 +66,7 @@ Crie grupos de usuários separando-os por setores, funções ou mesclando entre 
 
 ***
 
-### ETAPA 3 - Inserção dos grupos criados na pasta raiz
+### ETAPA 5 - Inserção dos grupos criados na pasta raiz
 
 Os grupos criados na etapa anterior, devem ser inseridos na [pasta raiz de Diretórios](../documentos.md#pasta-raiz-de-diretorios) com permissão de "Leitor". Para isso, na pasta raiz clique em Ações > Editar Permissões.
 
@@ -54,7 +82,7 @@ Selecione cada um dos grupos criados na etapa anterior e na coluna “Perfil” 
 
 ***
 
-### ETAPA 4 - Ajuste das permissões das pastas setoriais
+### ETAPA 6 - Ajuste das permissões das pastas setoriais
 
 As permissões das pastas setoriais devem ser ajustadas para que o acesso seja realizado somente por pessoas do setor e para isso, será necessário:
 
@@ -116,13 +144,10 @@ _Edição do usuário:_ Acesse a tela [Administração > Usuários](../../admini
 
 <summary><strong>Pastas</strong></summary>
 
-1\.      Toda conta ao ser criada, automaticamente terá uma pasta raiz associada.
-
-2\.      A pasta raiz criada automaticamente pela plataforma recebe o nome da conta e pode ser renomeada posteriormente por seu Administrador Global.
-
-3\.      Para cada conta é permitida uma única pasta raiz. As demais pastas devem ser criadas obrigatoriamente dentro da pasta raiz.
-
-4\.      Os documentos exibidos em "Diretórios", são somente aqueles com status "Concluído" e que não esteja "Excluído", ou seja, se o documento estiver em processo de assinatura ele não vai aparecer no diretório.
+1. Toda conta ao ser criada, automaticamente terá uma pasta raiz associada.
+2. &#x20;A pasta raiz criada automaticamente pela plataforma recebe o nome da conta e pode ser renomeada posteriormente por seu Administrador Global.
+3. &#x20;Para cada conta é permitida uma única pasta raiz. As demais pastas devem ser criadas obrigatoriamente dentro da pasta raiz.
+4. &#x20; Os documentos exibidos em "Diretórios", são somente aqueles com status "Concluído" e que não esteja "Excluído", ou seja, se o documento estiver em processo de assinatura ele não vai aparecer no diretório.
 
 </details>
 
@@ -130,8 +155,8 @@ _Edição do usuário:_ Acesse a tela [Administração > Usuários](../../admini
 
 <summary>Perfil de Usuários</summary>
 
-1\.      O perfil do usuário Administrador Global tem acesso total ao diretório de documentos, caso o plano da conta possua acesso à funcionalidade de diretórios.
-
-2\.      O perfil de usuário Remetente de Documentos terá acesso à navegação nas pastas caso faça parte de algum grupo que possua permissão de pelo menos leitura.
+1. O perfil do usuário Administrador Global tem acesso total ao diretório de documentos, caso o plano da conta possua acesso à funcionalidade de diretórios.
+2. O perfil de usuário Remetente de Documentos terá acesso à navegação nas pastas caso faça parte de algum grupo que possua permissão de pelo menos leitura.
 
 </details>
+

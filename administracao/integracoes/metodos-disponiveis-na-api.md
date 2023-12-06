@@ -1,0 +1,2 @@
+# 🟪 Métodos disponíveis na API
+

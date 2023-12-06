@@ -36,6 +36,9 @@
   * [🟪 URL da API ArqSign](administracao/integracoes/url-da-api-arqsign.md)
   * [🟪 Requisitos para uso da API](administracao/integracoes/requisitos-para-uso-da-api.md)
   * [🟪 Limites de Requisições da API](administracao/integracoes/limites-de-requisicoes-da-api.md)
+  * [🟪 Métodos disponíveis na API](administracao/integracoes/metodos-disponiveis-na-api.md)
+  * [🟪 Fluxo ideal considerando alguns métodos disponíveis](administracao/integracoes/fluxo-ideal-considerando-alguns-metodos-disponiveis.md)
+  * [🟪 Detalhes dos métodos](administracao/integracoes/detalhes-dos-metodos.md)
 
 ## NOVIDADES DO ARQSIGN
 

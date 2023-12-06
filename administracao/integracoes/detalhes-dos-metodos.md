@@ -1,0 +1,2 @@
+# 🟪 Detalhes dos métodos
+

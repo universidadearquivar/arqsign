@@ -18,7 +18,7 @@
 
 ### Detalhamento do Retorno
 
-**Ref. 01 - Código 201:** Como retorno de sucesso, a aplicação retornará o código 201 juntamente com os dados completos do processo no formato JSON. Ver exemplo de JSON no tópico 6.2.3.
+**Ref. 01 - Código 201:** Como retorno de sucesso, a aplicação retornará o código 201 juntamente com os dados completos do processo no formato JSON.
 
 **Ref. 02 - Código 400:** _Mensagem de item obrigatório:_ Esta mensagem será exibida no singular ou plural quando um ou mais itens obrigatórios não tiver sido enviado na chamada da API.
 

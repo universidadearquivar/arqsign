@@ -38,7 +38,7 @@
   * [🟪 Limites de Requisições da API](administracao/integracoes/limites-de-requisicoes-da-api.md)
   * [🟪 Métodos disponíveis na API](administracao/integracoes/metodos-disponiveis-na-api.md)
   * [🟪 Fluxo ideal considerando alguns métodos disponíveis](administracao/integracoes/fluxo-ideal-considerando-alguns-metodos-disponiveis.md)
-  * [🟪 Detalhes dos métodos](administracao/integracoes/detalhes-dos-metodos/README.md)
+  * [🟪 Detalhes dos métodos](administracao/integracoes/detalhes-dos-metodos.md)
     * [✔ POST/api/v1/processo/enviar-documento-para-assinar](administracao/integracoes/detalhes-dos-metodos/post-api-v1-processo-enviar-documento-para-assinar.md)
 
 ## NOVIDADES DO ARQSIGN

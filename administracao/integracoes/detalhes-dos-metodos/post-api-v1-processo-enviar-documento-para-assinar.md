@@ -1,10 +1,12 @@
 # ✔ POST/api/v1/processo/enviar-documento-para-assinar
 
-### Requisição
+## Requisição
 
 <figure><img src="../../../.gitbook/assets/api04.png" alt=""><figcaption></figcaption></figure>
 
-### Detalhamento do Header e Body
+***
+
+## Detalhamento do Header e Body
 
 **Geral:** Os parâmetros não obrigatórios listados abaixo devem constar no JSON, e caso não seja necessário para o documento, enviar com o valor null na frente:
 
@@ -206,3 +208,31 @@ Para saber como tirar estas medidas, assista ao vídeo abaixo:
 **Ref. 11.01:** “arquivo” - envie neste campo o arquivo em Base64.
 
 **Ref. 11.02:** “nomeComExtensao” - envie o nome do arquivo com sua extensão.
+
+***
+
+## Retorno <a href="#_toc112750306" id="_toc112750306"></a>
+
+<figure><img src="../../../.gitbook/assets/api06.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
+### Detalhamento do Retorno
+
+**Ref. 01 – Código 201:** Como retorno de sucesso, a aplicação retornará o código 201 e o GUID gerado para o processo. O Guid deve ser armazenado na aplicação do Cliente de forma a possibilitar a usar os métodos de GET​/api​/v1​/processo​/{idprocesso} e GET​/api​/v1​/processo​/{idProcesso}​/status-do-processo
+
+**Ref. 02 – Código 400:** _Mensagem de item obrigatório_: Esta mensagem será exibida no singular ou plural quando um ou mais itens obrigatórios não tiver sido enviado na chamada da API.
+
+**Ref. 03 – Código 400:** _Mensagem de formato incorreto:_ Esta mensagem será exibida no singular ou plural quando um ou mais itens estiverem sido enviados com formato incorreto.
+
+**Ref. 04 – Código 400:** _Mensagem de Ids inexistente:_ Esta mensagem será exibida no singular ou plural quando um ou mais Id enviado não existir.
+
+**Ref. 05 – Código 400:** _Mensagem de parâmetro incorreto ou é inexistente:_ Quando a chamada é feita com algum parâmetro escrito errado ou parâmetro que não existe no método.
+
+**Ref. 06 – Código 400:** _Mensagem de saldo insuficiente:_ Esta mensagem será exibida quando a conta não possuir saldo suficiente para o envio por E-mail ou WhatsApp ou SMS.
+
+**Ref. 07 – Código 400:** _Mensagem de arquivo no formato inválido:_ Esta mensagem será exibida quando o usuário informar um arquivo com extensão diferente de PDF.
+
+**Ref. 08 – Código 400:** _Mensagem de tamanho do arquivo:_ Esta mensagem será exibida quando o usuário informar um arquivo com tamanho maior que 100MB.
+
+**Ref. 09 - Código 400:** _Mensagem de conta bloqueada:_ Esta mensagem será exibida quando a conta estiver bloqueada.
+
+**Ref. 10 - Código 401:** _Mensagem de usuário da API não autorizado:_ AppKey inválida ou não localizada.

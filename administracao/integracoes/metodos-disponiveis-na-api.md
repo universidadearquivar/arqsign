@@ -10,7 +10,7 @@ Os métodos de API liberados para uso na plataforma são:
 
 O objetivo deste método é permitir que o usuário envie um documento para ser assinado via plataforma ArqSIGN.
 
-Para mais informações, acesse a página [Detalhes dos métodos](detalhes-dos-metodos.md).
+Para mais informações, acesse a [página de detalhes deste método](metodos-disponiveis-na-api.md#post-api-v1-processo-enviar-documento-para-assinar).
 
 </details>
 
@@ -24,7 +24,7 @@ Para evitar que o método retorne documentos ainda não assinados ou em processo
 
 Neste método o usuário irá nos enviar o ID do Processo, e nós retornaremos um JSON completo com as informações do processo.
 
-Para mais informações, acesse a página [Detalhes dos métodos](detalhes-dos-metodos.md).
+Para mais informações, acesse a [página de detalhes deste método](metodos-disponiveis-na-api.md#get-api-v1-processo-idprocesso).
 
 </details>
 

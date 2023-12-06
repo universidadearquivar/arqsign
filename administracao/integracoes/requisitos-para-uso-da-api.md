@@ -10,13 +10,13 @@
 
 #### Requisitos
 
-* Ter uma conta na plataforma ArqSIGN ativa.
-* Ter uma chave de acesso a API válida. Esta chave chamamos de AppKey.
-*   Para o método POST/api/v1/processo/enviar-documento-para-assinar, será necessário ter em mãos:
+* Ter uma conta na plataforma ArqSign ativa.
+* Ter uma [chave de acesso a API válida](./#api-key-chave-de-acesso). Esta chave chamamos de AppKey.
+* Para o método [<mark style="background-color:green;">**POST**</mark>**/api/v1/processo/enviar-documento-para-assinar**](detalhes-dos-metodos/post-api-v1-processo-enviar-documento-para-assinar.md), será necessário ter em mãos:
 
-    \-> ID de um usuário da conta com status ativo: para ser responsável pelos documentos que serão enviados pela API. &#x20;
+&#x20;    \-> _ID de um usuário da conta com status ativo:_ para ser responsável pelos documentos que serão enviados pela API. &#x20;
 
-&#x20;      \-> ID de pasta: onde o documento a ser gerado deve ser armazenado na plataforma.
+&#x20;    \-> _ID de pasta:_ onde o documento a ser gerado deve ser armazenado na plataforma.
 
 {% hint style="warning" %}
 <mark style="color:orange;">**A funcionalidade de**</mark> [<mark style="color:blue;">**Diretórios**</mark>](broken-reference) <mark style="color:orange;">**irá permitir ao cliente ter várias pastas organizadoras dentro da plataforma. Caso o plano do cliente seja grátis, a conta terá acesso somente a uma pasta que chamamos de “Pasta Raiz”. Neste caso, será necessário o ID desta pasta para usar a API. Para obter a AppKey, os ID’s dos usuários e os ID’s das Pastas, o**</mark> [<mark style="color:blue;">**menu Integrações**</mark>](./)<mark style="color:orange;">**.**</mark>

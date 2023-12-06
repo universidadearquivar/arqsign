@@ -42,6 +42,7 @@
     * [✔ POST/api/v1/processo/enviar-documento-para-assinar](administracao/integracoes/detalhes-dos-metodos/post-api-v1-processo-enviar-documento-para-assinar.md)
     * [✔ GET/api/v1/processo/{idprocesso}](administracao/integracoes/detalhes-dos-metodos/get-api-v1-processo-idprocesso.md)
     * [✔ GET/api/v1/processo/{idProcesso}/status-do-processo](administracao/integracoes/detalhes-dos-metodos/get-api-v1-processo-idprocesso-status-do-processo.md)
+    * [✔ GET/api/v1/processo/{idprocesso}/dados-signatarios](administracao/integracoes/detalhes-dos-metodos/get-api-v1-processo-idprocesso-dados-signatarios.md)
 
 ## NOVIDADES DO ARQSIGN
 

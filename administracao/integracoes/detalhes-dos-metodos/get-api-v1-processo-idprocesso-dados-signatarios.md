@@ -33,3 +33,33 @@ Outra forma de obter o ID do processo e por meio da plataforma ArqSign, na opç�
 **Ref. 06 - Código 400:** _Mensagem de parâmetro está incorreto ou é inexistente:_ Quando a chamada é feita com algum parâmetro escrito errado ou parâmetro que não existe no método.
 
 **Ref. 07 - Código 401:** _Mensagem de usuário da API não autorizado:_ AppKey inválida ou não localizada.
+
+### Exemplo de JSON de Retorno
+
+**Exemplo Body**
+
+```
+{
+    "nomeProcesso": "string",
+    "status": "string",
+    "dataExpiracao": "datetime",
+    "signatarios": [
+        {
+                           "ordem":"tinyint",
+            "IdProcessoDestinatario": "guid",
+            "nome": "string",
+            "idTipoAssinatura":"tinyint",
+            "IdFormaEnvioProcesso":"bit",
+            "email": "string",
+            "telefone": "string",
+            "tipoAcao": "string",
+            "IdMeioEnvioCodigoSeguranca": "bit",
+            "emailSeguranca": "string",
+            "telefoneSeguranca": "string",
+            "permitirReenviarCodigo": "bit",
+            "falhaEnvio": "string",
+            "assinado": " bit"
+        }
+    ]
+}
+```

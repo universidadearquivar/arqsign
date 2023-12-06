@@ -32,7 +32,8 @@
   * [🟪 Conta](administracao/administracao/conta.md)
   * [🟪 Usuários](administracao/administracao/usuarios.md)
   * [🟪 Grupo de Usuários](administracao/administracao/grupo-de-usuarios.md)
-* [🧩 Integrações](administracao/integracoes.md)
+* [🧩 Integrações](administracao/integracoes/README.md)
+  * [🟪 URL da API ArqSign](administracao/integracoes/url-da-api-arqsign.md)
 
 ## NOVIDADES DO ARQSIGN
 

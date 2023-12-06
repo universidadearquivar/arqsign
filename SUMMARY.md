@@ -34,6 +34,7 @@
   * [🟪 Grupo de Usuários](administracao/administracao/grupo-de-usuarios.md)
 * [🧩 Integrações](administracao/integracoes/README.md)
   * [🟪 URL da API ArqSign](administracao/integracoes/url-da-api-arqsign.md)
+  * [🟪 Requisitos para uso da API](administracao/integracoes/requisitos-para-uso-da-api.md)
 
 ## NOVIDADES DO ARQSIGN
 

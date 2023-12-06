@@ -10,7 +10,7 @@ Os métodos de API liberados para uso na plataforma são:
 
 O objetivo deste método é permitir que o usuário envie um documento para ser assinado via plataforma ArqSIGN.
 
-Para mais informações, acesse a [página de detalhes deste método](metodos-disponiveis-na-api.md#post-api-v1-processo-enviar-documento-para-assinar).
+Para mais informações, acesse a [página de detalhes deste método](detalhes-dos-metodos/post-api-v1-processo-enviar-documento-para-assinar.md).
 
 </details>
 
@@ -24,7 +24,7 @@ Para evitar que o método retorne documentos ainda não assinados ou em processo
 
 Neste método o usuário irá nos enviar o ID do Processo, e nós retornaremos um JSON completo com as informações do processo.
 
-Para mais informações, acesse a [página de detalhes deste método](metodos-disponiveis-na-api.md#get-api-v1-processo-idprocesso).
+Para mais informações, acesse a [página de detalhes deste método](detalhes-dos-metodos/get-api-v1-processo-idprocesso.md).
 
 </details>
 
@@ -36,7 +36,7 @@ O objetivo deste método é permitir que o usuário busque o status de um proces
 
 Neste método o usuário irá nos enviar o ID do Processo, e nós retornaremos um JSON com o nome e status atual do mesmo.
 
-Para mais informações, acesse a página [Detalhes dos métodos](detalhes-dos-metodos.md).
+Para mais informações, acesse a [página de detalhes deste método](detalhes-dos-metodos/get-api-v1-processo-idprocesso-status-do-processo.md).
 
 </details>
 
@@ -47,6 +47,8 @@ Para mais informações, acesse a página [Detalhes dos métodos](detalhes-dos-m
 O objetivo deste método é permitir que o usuário busque os dados dos signatários que possuem ação de assinar eletronicamente em um processo de assinatura.
 
 Neste método o usuário irá nos enviar o ID do Processo, e nós retornaremos um JSON completo com as informações do processo e dos signatários.
+
+Para mais informações, acesse a [página de detalhes deste método](detalhes-dos-metodos/get-api-v1-processo-idprocesso-dados-signatarios.md).
 
 </details>
 
@@ -62,6 +64,8 @@ Além disso, o usuário poderá editar os destinatários pendentes de assinatura
 
 Neste método o usuário irá nos enviar o ID do Processo, e nós reenviaremos para os destinatários pendentes de assinatura na ordem de assinatura atual, conforme dados informados no JSON.
 
+Para mais informações, acesse a [página de detalhes deste método](detalhes-dos-metodos/patch-api-v1-processo-idprocesso-reenviar-processo.md).
+
 </details>
 
 <details>
@@ -71,5 +75,7 @@ Neste método o usuário irá nos enviar o ID do Processo, e nós reenviaremos p
 O objetivo deste método é permitir que o usuário cancele o processo de assinatura que esteja em andamento.
 
 Neste método o usuário irá nos enviar o ID do Processo, e nós cancelaremos o processo informado.
+
+Para mais informações, acesse a [página de detalhes deste método](detalhes-dos-metodos/patch-api-v1-processo-idprocesso-cancelar-processo.md).
 
 </details>

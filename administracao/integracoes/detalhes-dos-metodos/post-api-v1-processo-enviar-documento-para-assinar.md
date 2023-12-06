@@ -4,9 +4,7 @@
 
 <figure><img src="../../../.gitbook/assets/api04.png" alt=""><figcaption></figcaption></figure>
 
-***
-
-## Detalhamento do Header e Body
+### Detalhamento do Header e Body
 
 **Geral:** Os parâmetros não obrigatórios listados abaixo devem constar no JSON, e caso não seja necessário para o documento, enviar com o valor null na frente:
 

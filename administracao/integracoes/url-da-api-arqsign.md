@@ -4,7 +4,7 @@ Para visualizar a documentação online de API da plataforma ArqSign, acesse: [h
 
 Antes de acessar a documentação, consuma as informações contidas neste manual, para garantir a completa compreensão dos requisitos para integração.
 
-{% file src="../../.gitbook/assets/JSON.Teste.txt" %}
+#### **JSON:**
 
 ```
 {

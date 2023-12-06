@@ -5,5 +5,6 @@
 <figure><img src="../../.gitbook/assets/integracoes6.png" alt=""><figcaption></figcaption></figure>
 
 2. Para testes, use a ferramenta Postman e para Authorization use o tipo APPKEY.
+3.
 
-<figure><img src="../../.gitbook/assets/api01.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/api01.png" alt=""><figcaption></figcaption></figure>

@@ -34,7 +34,7 @@
 
 ### Exemplo de JSON de Retorno <a href="#_toc112750310" id="_toc112750310"></a>
 
-Exemplo Body
+**Exemplo Body**
 
 ```
 {  
@@ -126,3 +126,4 @@ Exemplo Body
     }
 }
 ```
+

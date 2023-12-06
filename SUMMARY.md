@@ -43,6 +43,7 @@
     * [✔ GET/api/v1/processo/{idprocesso}](administracao/integracoes/detalhes-dos-metodos/get-api-v1-processo-idprocesso.md)
     * [✔ GET/api/v1/processo/{idProcesso}/status-do-processo](administracao/integracoes/detalhes-dos-metodos/get-api-v1-processo-idprocesso-status-do-processo.md)
     * [✔ GET/api/v1/processo/{idprocesso}/dados-signatarios](administracao/integracoes/detalhes-dos-metodos/get-api-v1-processo-idprocesso-dados-signatarios.md)
+    * [✔ PATCH/api/v1/processo/{idProcesso}/reenviar-processo](administracao/integracoes/detalhes-dos-metodos/patch-api-v1-processo-idprocesso-reenviar-processo.md)
 
 ## NOVIDADES DO ARQSIGN
 

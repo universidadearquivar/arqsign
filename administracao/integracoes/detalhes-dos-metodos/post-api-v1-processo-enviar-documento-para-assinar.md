@@ -1,10 +1,8 @@
-# 🟪 Detalhes dos métodos
-
-POST/api​/v1​/processo​/enviar-documento-para-assinar  &#x20;
+# ✔ POST/api/v1/processo/enviar-documento-para-assinar
 
 ### Requisição
 
-<figure><img src="../../.gitbook/assets/api04.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/api04.png" alt=""><figcaption></figcaption></figure>
 
 ### Detalhamento do Header e Body
 
@@ -197,7 +195,7 @@ POST/api​/v1​/processo​/enviar-documento-para-assinar  &#x20;
 
 **Ref. 10.13.02.05:** “PosicaoY” - envie a posição em milímetros da borda superior da página até a borda superior da caixa da assinatura. Na figura abaixo está a representação visual das medidas que precisam ser identificadas no seu modelo de documento (Altura, Largura, PosicaoX e PosicaoY).&#x20;
 
-<figure><img src="../../.gitbook/assets/api05.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/api05.png" alt=""><figcaption></figcaption></figure>
 
 Para saber como tirar estas medidas, assista ao vídeo abaixo:
 

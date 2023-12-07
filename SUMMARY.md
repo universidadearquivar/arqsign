@@ -1,10 +1,9 @@
 # Table of contents
 
 * [💻 Visão Geral da Plataforma](README.md)
-
-## PERGUNTAS FREQUENTES
-
-* [🟪 ArqSign e Clínica nas Nuvens](perguntas-frequentes/arqsign-e-clinica-nas-nuvens.md)
+* [❔ Perguntas Frequentes](perguntas-frequentes/README.md)
+  * [🟪 ArqSign e Clínica nas Nuvens](perguntas-frequentes/arqsign-e-clinica-nas-nuvens.md)
+  * [🟪 Assinatura digital e eletrônica](perguntas-frequentes/assinatura-digital-e-eletronica.md)
 
 ## MENU SUPERIOR
 

@@ -45,7 +45,6 @@
     * [✔ GET/api/v1/processo/{idprocesso}/dados-signatarios](administracao/integracoes/detalhes-dos-metodos/get-api-v1-processo-idprocesso-dados-signatarios.md)
     * [✔ PATCH/api/v1/processo/{idProcesso}/reenviar-processo](administracao/integracoes/detalhes-dos-metodos/patch-api-v1-processo-idprocesso-reenviar-processo.md)
     * [✔ PATCH/api/v1/processo/{idProcesso}/cancelar-processo](administracao/integracoes/detalhes-dos-metodos/patch-api-v1-processo-idprocesso-cancelar-processo.md)
-  * [🟪 Treinamento API ArqSign](administracao/integracoes/treinamento-api-arqsign.md)
   * [🟪 Tela Menu Integrações](administracao/integracoes/tela-menu-integracoes.md)
 
 ## NOVIDADES DO ARQSIGN

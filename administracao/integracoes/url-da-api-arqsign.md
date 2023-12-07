@@ -2,7 +2,7 @@
 
 Para visualizar a documentação online de API da plataforma ArqSign, acesse: [https://api.arqsign.com/index.html](https://api.arqsign.com/index.html).&#x20;
 
-Antes de acessar a documentação, consuma as informações contidas neste manual, para garantir a completa compreensão dos requisitos para integração.
+Antes de acessar os serviços da URL informada, consuma as informações deste manual de integração, para garantir a completa compreensão dos requisitos.
 
 #### **JSON:**
 

@@ -2,6 +2,10 @@
 
 * [💻 Visão Geral da Plataforma](README.md)
 
+## PERGUNTAS FREQUENTES
+
+* [🟪 ArqSign e Clínica nas Nuvens](perguntas-frequentes/arqsign-e-clinica-nas-nuvens.md)
+
 ## MENU SUPERIOR
 
 * [➕ Novo Documento](menu-superior/novo-documento.md)

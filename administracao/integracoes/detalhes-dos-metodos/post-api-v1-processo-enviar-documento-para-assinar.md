@@ -211,7 +211,7 @@
 }
 ```
 
-<figure><img src="../../../.gitbook/assets/api04.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/POST.png" alt=""><figcaption></figcaption></figure>
 
 ### Detalhamento do Header e Body
 

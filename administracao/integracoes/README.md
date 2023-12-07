@@ -28,13 +28,15 @@ Ao clicar neste link, a aplicação irá abrir a página api.arqsign.com com os 
 
 ***
 
-## Manual do Usuário e Treinamento
+## Manual do Usuário
 
-Ao clicar em “Manual do Usuário” o usuário terá acesso ao manual que apresenta todas as características e métodos de API disponíveis da plataforma ArqSign.
-
-> [Clique aqui para ter acesso ao Manual com o Detalhamento Técnico da API de Integração da ArqSign.](https://arquivar.com.br/wp-content/uploads/2022/09/Manual-API-ArqSign.pdf)
+Ao clicar em “Manual do Usuário” o usuário terá acesso a este manual, que apresenta todas as características e métodos de API disponíveis da plataforma ArqSign.
 
 <figure><img src="../../.gitbook/assets/integracoes3.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
+***
+
+## Treinamento - Integração ArqSign
 
 Ao clicar em “Treinamento – Integração ArqSign” o usuário terá acesso a um treinamento elaborado pela Universidade Arquivar que apresenta todas as possibilidades de utilização do API da plataforma ArqSign.
 

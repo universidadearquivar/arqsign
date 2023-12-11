@@ -639,3 +639,339 @@ Caso você vá assinar um documento com um Certificado ICP-Brasil A3 por exemplo
 * Você tem a opção de copiar o link e encaminhar do jeito que desejar ou encaminhar por email diretamente da plataforma informando um assunto e mensagem.
 
 </details>
+
+<details>
+
+<summary>Como alterar o Nome do Remetente/Usuário?</summary>
+
+Depois que um usuário é criado, ele mesmo pode alterar os dados abaixo do seu perfil:
+
+![](<../.gitbook/assets/image (20).png>)
+
+Essa alteração vai refletir nas notificações de solicitação de assinatura que o usuário envia.
+
+![](<../.gitbook/assets/image (21).png>)
+
+Os passos para alteração são:&#x20;
+
+1. Acesse no canto superior direito da plataforma o menu com o seu nome de usuário atual;&#x20;
+2. Clique em “Meu Perfil”;&#x20;
+3. Na aba “Meus dados” clique em “Editar”;&#x20;
+4. Edite os campos necessários;&#x20;
+5. Clique em “Salvar”.&#x20;
+
+</details>
+
+<details>
+
+<summary>Como configurar a assinatura para Pessoa Física/CPF ou Pessoa Jurídica/CNPJ?</summary>
+
+Na plataforma ArqSign, você pode escolher se o documento será assinado por uma Pessoa física ou jurídica. &#x20;
+
+Para isso, o remetente deve escolher o tipo de assinatura durante o processo de configuração do fluxo conforme abaixo:&#x20;
+
+1. Depois de fazer o upload do documento e configurar os remetentes, avance para a etapa final;&#x20;
+2. Selecione o destinatário que quer configurar na caixa de seleção disponível na parte superior da tela;&#x20;
+3. No menu lateral direito em “Campos de assinatura” escolha o tipo de assinatura entre “Assinar como Pessoa Física” ou “Assinar como Pessoa Jurídica”;&#x20;
+
+Se você escolher assinar como pessoa física, as informações complementares de assinatura solicitadas serão do tipo pessoa física: Nome, Documento (CPF, CNH, RG ou outro);&#x20;
+
+Se você escolher assinar como pessoa jurídica, as informações complementares de assinatura solicitadas serão do tipo pessoa jurídica: Razão Social, Documento (CNPJ ou outro);&#x20;
+
+Tanto para assinatura de pessoa física ou jurídica, você pode solicitar outro documento que não os listados. Para isso, basta clicar na opção outro e digitar nos campos abaixo o nome do documento, tipo de campo (texto ou numérico e quantidade de caracteres do campo).&#x20;
+
+</details>
+
+<details>
+
+<summary>Como assinar um documento na Plataforma ArqSign quando a solicitação para assinatura é enviada por WhatsApp?</summary>
+
+Se um documento foi enviado para sua assinatura pela Plataforma ArqSign por WhatsApp, você receberá uma mensagem com o nome do remetente que pode ser aberta no aplicativo do seu celular ou WhatsApp Web.
+
+1. Caso seja a primeira vez que você interage com o remetente pelo WhatsApp, vá ao final da mensagem e adicione aos seus contatos para habilitar todos os links da mensagem.
+2. Clique no link presente na mensagem e você terá acesso ao documento para leitura.
+3. Após a leitura, basta clicar sobre a área para inserir a assinatura que pode ser feita através de um desenho, escrita ou upload de uma imagem da assinatura.
+4. Depois, caso tenha sido solicitado, insira os outros dados e anexos e clique na caixa  para validar o Termo de aceite para assinatura eletrônica.
+5. Para finalizar, basta clicar em “Assinar e concluir”.
+
+Se você não tiver uma conta ArqSign, será convidado a criar uma conta para armazenar esse e outros documentos assinados através da plataforma e ainda testar grátis por 15 dias.
+
+Quando todos os destinatários assinarem, todos receberão um e-mail ou WhatsApp com o documento assinado por todas as partes.
+
+Além disso, todos os destinatários que tiverem uma Conta ArqSign grátis ou paga, receberão uma cópia na caixa de entrada da aplicação e poderão fazer a gestão deste documento na plataforma.
+
+Veja o passo a passo [acessando aqui](https://youtu.be/RoCxNBNKfjI) um vídeo expicativo.&#x20;
+
+</details>
+
+<details>
+
+<summary>Como assinar um documento na Plataforma ArqSign quando a solicitação para assinatura é enviada por e-mail?</summary>
+
+Ao receber um documento por e-mail solicitando sua assinatura, ele conterá o nome do remetente e no título terá o nome do documento a ser assinado.  Caso não localize o e-mail em sua caixa de entrada, verifique na Caixa de Spam ou promoções.
+
+1. Abra o e-mail.  (Lembrando que a plataforma pode ser acessada de qualquer dispositivo – computador, tablet ou celular)
+2. Clique em “Assinar Documento” e você terá acesso ao documento para leitura.
+3. Após a leitura, basta clicar sobre a área para inserir a assinatura que pode ser feita através de um desenho, escrita ou upload de uma imagem da assinatura.
+4. Depois, caso tenha sido solicitado, insira outros dados e anexos e clique na caixa para validar o Termo de aceite para assinatura eletrônica.
+5. Para finalizar, basta clicar em “Assinar e concluir”.
+
+Se você não tiver uma conta ArqSign, será convidado a criar uma conta para armazenar esse e outros documentos assinados através da plataforma e ainda  testar grátis por 15 dias.
+
+Quando todos os destinatários assinarem, todos receberão um e-mail ou WhatsApp com o documento assinado por todas as partes.
+
+Além disso, todos os destinatários que tiverem uma Conta Arqsign grátis ou paga, receberão uma cópia na caixa de entrada da aplicação e poderão fazer a gestão deste documento na plataforma.
+
+</details>
+
+<details>
+
+<summary>Como consultar o andamento das solicitações de transferência de documentos?</summary>
+
+Para consultar o andamento das solicitações de transferência de documentos, siga os seguintes passos:&#x20;
+
+Acesse o Menu “Meu perfil” -> “Solicitações”;&#x20;
+
+A Plataforma lista as solicitações de transferência de documentos do usuário logado ordenadas pela data da solicitação decrescente (solicitação mais recente no topo).&#x20;
+
+Através do botão de “Ações” você poderá visualizar solicitações com status “Solicitado” ou “Erro”, “Cancelar” e “Editar” a solicitação de transferência de documentos.&#x20;
+
+</details>
+
+<details>
+
+<summary>Como inativar um usuário e alterar a propriedade de seus documentos?</summary>
+
+Ao inativar um usuário, pode ser necessário alterar a propriedade dos documentos deste usuário para que outra pessoa siga com a gestão dos documentos.&#x20;
+
+Você poderá executar esta ação se for Administrador Global.&#x20;
+
+Para isso siga os seguintes passos:&#x20;
+
+1. Acesse o menu “Administração” -> Usuários;&#x20;
+2. Selecione o usuário que deseja inativar;&#x20;
+3. Clique em Ações;&#x20;
+4. Clique em inativar;&#x20;
+5. Se o usuário que está sendo inativado não possuir solicitação de transferência de documentos com status “Solicitado” ou “Em Processo” e tiver enviado algum documento que esteja com status “Aguardando” ou “Em Processo” ou “Concluído” o sistema apresentará mensagem informando que o usuário que está sendo inativado possui documentos como proprietário, solicitando a confirmação de alterar a propriedade dos documentos do usuário, em questão;&#x20;
+6. Escolha a opção “Transferir”;&#x20;
+7. Selecione um novo proprietário;&#x20;
+8. Selecione quais documentos devem ser transferidos;&#x20;
+9. Clique em Alterar;&#x20;
+10. A transferência será executada em até 24 horas;&#x20;
+11. Para consultar o andamento das solicitações de transferências acesse: “Meu perfil”-> “Solicitações”.&#x20;
+
+</details>
+
+<details>
+
+<summary>Como alterar o proprietário de um fluxo ou documento?</summary>
+
+Se você é o remetente de um fluxo com status “Aguardando”, “Em processo” ou “Concluído”, pode alterar o proprietário para outro usuário ativo da conta. Desta forma, as notificações automáticas referentes ao fluxo passarão a ser enviadas para o novo proprietário.
+
+Para executar esta alteração siga o seguinte passo a passo:&#x20;
+
+**Opção 1:**&#x20;
+
+1. Localize o fluxo no menu Enviados;&#x20;
+2. Clique na caixa suspensa localizada no canto direito;&#x20;
+3. Clique em Alterar proprietário;&#x20;
+4. Informe o novo proprietário e salve.
+
+Caso seja transferido apenas um documento o processo será realizado instantaneamente;&#x20;
+
+Para dois documentos ou mais é necessário um prazo de 24h para a conclusão da solicitação de transferência. &#x20;
+
+**Opção 2:**&#x20;
+
+1. Ao inativar um usuário que possui documentos em sua conta é possível realizar a transferência desses documentos para um novo usuário responsável.&#x20;
+2. Quando clicar em ‘Inativar’ um bloco de confirmação irá aparecer;&#x20;
+3. No bloco confirme que deseja transferir os documentos;&#x20;
+4. Selecione o novo proprietário;&#x20;
+5. E os documentos que deseja transferir por status: ‘Todos’ ou ‘Em assinatura ou com renovação agendada’;&#x20;
+6. &#x20;Clique em ‘Alterar’;&#x20;
+7. O usuário será inativado e os documentos serão transferidos em 24h;&#x20;
+8. Ao inativar um usuário sem documentos na conta, não é necessário realizar esse procedimento;&#x20;
+9. A transferência de documento só pode ser executada para um usuário ativo.&#x20;
+10. Para consultar o andamento das solicitações de transferências acesse: “Meu perfil” –> “Solicitações”.&#x20;
+
+Caso você queira  transferir a propriedade dos documentos de um usuário que foi inativado, verifique o passo a passo em “Como inativar um usuário e alterar a propriedade de seus documentos?”&#x20;
+
+</details>
+
+<details>
+
+<summary>Como consultar o motivo de recusa para assinatura de documento?</summary>
+
+Você pode verificar o motivo de recusa de assinatura de um documento através da notificação enviada para o remetente e quando abrir o documento.&#x20;
+
+Para acessar o motivo de recusa ao abrir o documento siga os seguintes passos:&#x20;
+
+1. Abra o arquivo com o fluxo de assinatura “recusada”. Ele estará com o status Cancelado”;
+2. Clique sobre o signatário e verifique o motivo de recusa.&#x20;
+
+</details>
+
+<details>
+
+<summary>Como recusar a assinatura de um documento?</summary>
+
+1. Abra o arquivo que recebeu para assinatura;&#x20;
+2. No canto superior direito clique em Assinar ou Opções;&#x20;
+3. Clique em Recusar assinatura;&#x20;
+4. Informe o motivo de recusa – Essa informação ficará disponível para o remetente ao abrir o arquivo e através de notificação por e-mail;&#x20;
+5. Clique em Recusar assinatura.&#x20;
+6. O remetente receberá o retorno através de uma notificação por e-mail ou poderá acessar quando abrir o documento e clicar sobre o seu nome.
+7. &#x20;O fluxo é automaticamente cancelado quando há uma recusa para assinatura.
+8. Analise o motivo de recusa, faça as alterações no documento se necessário e crie um novo fluxo para assinatura.
+
+</details>
+
+<details>
+
+<summary>Como verificar o versionamento dos documentos salvos na plataforma?</summary>
+
+A cada renovação de documento através da ferramenta de renovação da Plataforma ArqSign, é feito um vínculo dos novos documentos aos anteriores.
+
+Para acessar este recurso siga os seguintes passos:
+
+1. Menu “Enviados”.
+2. Localize o fluxo que você deseja consultar.
+3. No botão “Histórico”, clique no drop down.
+4. Escolha a opção “Versionamento”.
+
+Analise as informações.
+
+</details>
+
+<details>
+
+<summary>Como ativar fluxo de renovação de documento automaticamente?</summary>
+
+Caso você tenha agendado a renovação de um documento, assim que atingido o prazo para renovação, você pode acionar a renovação automática que um novo fluxo será criado com as mesmas configurações de signatários que o original.
+
+1. Clique em Renovações;
+2. Selecione Fluxo concluído;
+3. Clique em Renovar – A Plataforma automaticamente gera um novo fluxo com todos os signatários do fluxo original;
+4. Faça upload do arquivo para renovação. O novo arquivo fica vinculado ao(s) arquivo(s) anterior(es) criando um versionamento de documentos.
+5. Revise os signatários.
+6. Configure as representações visuais;
+7. Envie e Pronto!
+
+</details>
+
+<details>
+
+<summary>Como alterar a renovação, vencimento de documento ou controle de reajuste?</summary>
+
+Após a conclusão de um fluxo de assinatura:
+
+1. Clique em Enviados;
+2. Selecione Fluxo concluído;
+3. Clique em Histórico;
+4. Clique em Alterar Renovação;
+5. Defina o novo prazo em meses após a finalização das assinaturas;
+6. Clique em Alterar.
+
+Quando chegar a data definida para vencimento do documento, renovação ou reajuste, a plataforma ArqSign enviará um e-mail ao proprietário do fluxo informando que o documento está pronto para renovação, reajuste etc.
+
+</details>
+
+<details>
+
+<summary>Como funciona o acesso à uma conta?</summary>
+
+Na ArqSign, você pode ter acesso a mais de uma conta com o mesmo e-mail.
+
+**Exemplo:** Vamos supor que você seja advogado de um escritório. Você pode ter uma conta teste grátis pessoal com um e-mail e com o mesmo e-mail ter um usuário na Conta do Escritório e outro usuário na conta de um cliente para consultar documentos do cliente. Para ter acesso à conta de terceiros, os Administradores Globais da conta precisam lhe convidar. O acesso pode ser bloqueado a qualquer momento pelo Administrador Global.
+
+</details>
+
+<details>
+
+<summary>O que é um usuário?</summary>
+
+Usuário é a pessoa que utiliza a Plataforma ArqSign para enviar, acompanhar fluxo, coletar assinaturas, acessar e gerir documentos. Um usuário tem que estar atrelado à uma conta ou quando ele também tem que assinar um documento ele se torna um signatário.
+
+Na plataforma ArqSign um usuário pode ter os seguintes Perfis:
+
+a) Remetente de Documentos – Usuário sem permissão de acesso às funcionalidades de gestão da plataforma. Seu acesso é focado no envio e gestão de seus documentos.
+
+b) Administrador Global – Usuários com permissão de acesso a todas as funcionalidades da plataforma inclusive gestão de pastas e usuários.
+
+</details>
+
+<details>
+
+<summary>O que é signatário?</summary>
+
+Signatário é uma pessoa física ou jurídica que participa do processo de assinatura (assina um documento). O signatário não precisa ter conta na Plataforma ArqSign para assinar.
+
+</details>
+
+<details>
+
+<summary>O que fazer quando signatário informa que não recebeu WhatsApp com link para assinatura?</summary>
+
+Quando um dos signatários informa que não recebeu o WhatsApp com o link para assinatura, verifique os seguintes itens antes de reenviar ou abrir um chamado:
+
+1. Confira se você digitou o número do WhatsApp corretamente;
+2. Caso o número que você digitou esteja errado, você pode corrigi-lo e enviar novamente através do Menu Enviados > Reenviar;
+3. Peça ao signatário para conferir se ele está com acesso à internet móvel ou Wi-Fi;
+4. Peça ao cliente para entrar no WhatsApp e verificar se não recebeu nova mensagem, pois, pode ser apenas um problema de configuração de recebimento de notificações;
+5. Caso o problema não seja resolvido com nenhuma das opções acima, pode ser que a mensagem enviada tenha sido bloqueada pelo próprio WhatsApp porque o signatário não está com o aplicativo atualizado. Para atualizar o aplicativo o signatário deve acessar a loja de aplicativos e clicar em Atualizar ([https://faq.whatsapp.com/5481509731946576/?helpref=search\&query=mensagem…](https://faq.whatsapp.com/5481509731946576/?helpref=search\&query=mensagem%20n%C3%A3%C2%A3o%20recebida\&search\_session\_id=cb86af1005f8183efe4a18d785336191\&sr=2));
+6. Se ainda assim não houve a atualização, você pode enviar o link de atualização de Serviços do WhatsApp para o signatário atualizar: Link: [https://wa.me/tos/20210210](https://wa.me/tos/20210210). O signatário deve abrir o link no WhatsApp e aceitar os termos.
+7. Após o signatário atualizar o aplicativo e/ou os Termos de Serviços do WhatsApp, faça o reenvio do fluxo através da Plataforma ArqSign clicando em Enviados -> Reenviar.
+8. Caso mesmo assim o signatário não receba a mensagem de WhatsApp, entre contato conosco e forneça as informações abaixo para analisarmos o que pode ter acontecido.
+
+Informações necessárias:
+
+* Nome
+* Empresa
+* WhatsApp
+* Nome do documento enviado
+* Data do envio
+* Signatário
+
+</details>
+
+<details>
+
+<summary>O que fazer quando signatário informa que não recebeu e-mail com link para assinatura?</summary>
+
+Quando um dos signatários informa que não recebeu o e-mail com o link para assinatura, verifique os seguintes itens antes de reenviar ou abrir um chamado:
+
+1. Confira se você digitou o endereço de e-mail corretamente;
+2. Confira se o cliente está com acesso à internet;
+3. Se você tiver enviado o link para uma caixa de e-mail gratuita, solicite ao signatário para conferir a caixa de **SPAM, Lixo eletrônico ou Promoções**, pois, estes servidores podem fazer uma classificação errônea de nossos e-mails e enviá-los para essas caixas;
+4. Se você enviou o link para uma pessoa ou empresa que tenha antivírus ou firewall instalados na máquina ou servidor, solicite que ele verifique **se o e-mail com o link** **não foi bloqueado pelo sistema de segurança**;
+5. Se você fez todas estas análises e não localizou nenhum problema, tente reenviar o fluxo através da Plataforma ArqSign e verifique novamente nas pastas acima mencionadas;
+6. Caso mesmo assim o signatário não receba o e-mail, entre contato conosco e forneça as informações abaixo para analisarmos o que pode ter acontecido.
+
+Informações necessárias:
+
+* Nome
+* Empresa
+* E-mail
+* Nome do documento enviado
+* Data do envio
+* Signatário
+
+</details>
+
+<details>
+
+<summary>Como configurar uma ordem / sequência para as assinaturas?</summary>
+
+A plataforma ArqSign permite inserir uma sequência para assinatura de documentos.&#x20;
+
+Para acessar a funcionalidade habilite a opção” Assinar na ordem abaixo” durante a configuração dos destinatários.&#x20;
+
+Insira os destinatários na ordem em que deseja as assinaturas.&#x20;
+
+Observe que aparece um campo chamado “Ordem” e que as pessoas deverão assinar o documento de acordo com essa ordem, sendo que o próximo e-mail só chegará após o anterior assinar o documento.
+
+Caso queira que duas pessoas recebam o e-mail simultaneamente, utilize o mesmo número para elas.
+
+![](<../.gitbook/assets/image (22).png>)
+
+</details>

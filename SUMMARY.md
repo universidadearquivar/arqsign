@@ -10,6 +10,7 @@
   * [🟪 Integração entre Sistemas](perguntas-frequentes/integracao-entre-sistemas.md)
   * [🟪 Planos e pagamentos](perguntas-frequentes/planos-e-pagamentos.md)
   * [🟪 Segurança](perguntas-frequentes/seguranca.md)
+  * [🟪 Validade Jurídica](perguntas-frequentes/validade-juridica.md)
 
 ## MENU SUPERIOR
 

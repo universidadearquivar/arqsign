@@ -424,3 +424,85 @@ Quando o destinatário receber o documento para assinar ele deverá proceder da 
 6. Clicar em “Assinar e concluir”.
 
 </details>
+
+<details>
+
+<summary>Como acessar os anexos de um documento?</summary>
+
+1. Localize o documento que deseja visualizar o anexo.
+2. Clique duas vezes sobre o documento.
+3. No canto direito, junto aos signatários dos documentos, é possível realizar o download do anexo.
+
+</details>
+
+<details>
+
+<summary>Como configurar assinatura com documento estrangeiro?</summary>
+
+Para configurar assinatura solicitando um documento estrangeiro, siga os seguintes passos:
+
+1. Depois de fazer o upload do documento;
+2. Inserir os destinatários e clicar em ‘avançar”;
+3. Na tela “configurar campos” você irá configurar a coleta de assinaturas dos destinatários;
+4. Selecione o destinatário no topo da tela;
+5. No canto direito, selecione o tipo de assinatura para Pessoa física;
+6. Logo abaixo, há a configuração de “Informações complementares de assinatura”;
+7. Selecione o check box “Nome do Signatário”;
+8. Selecione o check box “Documento do Signatário”;
+9. Na caixa “Documento”, escolha “outro”;
+10. Na caixa abaixo especifique o documento que deseja solicitar e se quiser configure nas demais caixas os tipos de caracteres válidos e a quantidade de caracteres para validação.
+
+</details>
+
+<details>
+
+<summary>Como inserir um destinatário em cópia ou como observador em um fluxo?</summary>
+
+Na Plataforma ArqSign é possível colocar uma pessoa em cópia ou como observador em um fluxo. Desta forma, ao final do processo de assinatura, essa pessoa ou pessoas receberão o documento assinado.
+
+Para fazer esta configuração proceda da seguinte forma:
+
+1. Clique em “Novo documento”;
+2. Faça o upload do documento a ser assinado e as devidas configurações para o documento;
+3. Em “Destinatários” configure o campo “Este destinatário irá” como “Receber uma cópia”;
+4. Prossiga com as demais configurações.
+
+</details>
+
+<details>
+
+<summary>Como alterar o cartão de crédito para faturamento e compra na plataforma ArqSign?</summary>
+
+Você pode alterar o seu cartão de crédito para faturamento e compras na Plataforma ArqSign, seguindo o seguinte passo a passo:
+
+1\) Vá até o menu “Administração”;
+
+2\) Clique em “Conta”;
+
+3\) Clique em “Faturamento e Uso”;
+
+4\) Clique em “Alterar a forma de pagamento”.
+
+</details>
+
+<details>
+
+<summary>Como configurar um documento para ser assinado com certificado digital (assinatura digital) ou sem certificado digital (assinatura eletrônica)?</summary>
+
+Na Plataforma Arqsign, ao configurar um fluxo de assinaturas você pode determinar qual tipo de assinatura deverá ser executada por destinatário escolhendo entre:
+
+**a) Assinatura eletrônica** (A ArqSign produz assinaturas eletrônicas avançadas com validade jurídica de acordo com MP 2.200-2 de 24/08/2001 e Lei 14.063 de 23/11/2020);
+
+**b) Certificado digital – ICP-Brasil** (A ArqSign produz assinaturas digitais qualificadas de acordo com MP 2.200-2 de 24/08/2001 e Lei 14.063 de 23/11/2020);
+
+**c) Certificado digital – Outros** (A ArqSign produz assinaturas eletrônicas e digitais através de outros certificados).
+
+Para determinar o tipo de assinatura siga o seguinte passo a passo:
+
+1. Após fazer o upload do documento e configurações necessárias para o documento, siga para a configuração dos destinatários;
+2. Ao configurar um destinatário, no campo “Tipo de assinatura” escolha uma das opções conforme descrição acima;
+3. Pronto! Agora é só configurar os demais destinatários e a posição de assinatura no documento e enviar.
+
+Para saber como assinar um documento com Certificado Digital – ICP-Brasil clique aqui.
+
+</details>

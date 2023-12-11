@@ -9,6 +9,7 @@
   * [🟪 Diretório e controle de acesso](perguntas-frequentes/diretorio-e-controle-de-acesso.md)
   * [🟪 Integração entre Sistemas](perguntas-frequentes/integracao-entre-sistemas.md)
   * [🟪 Planos e pagamentos](perguntas-frequentes/planos-e-pagamentos.md)
+  * [🟪 Segurança](perguntas-frequentes/seguranca.md)
 
 ## MENU SUPERIOR
 

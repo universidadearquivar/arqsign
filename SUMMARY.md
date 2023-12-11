@@ -7,6 +7,7 @@
   * [🟪 Certificado Digital](perguntas-frequentes/certificado-digital.md)
   * [🟪 Como Usar](perguntas-frequentes/como-usar.md)
   * [🟪 Diretório e controle de acesso](perguntas-frequentes/diretorio-e-controle-de-acesso.md)
+  * [🟪 Integração entre Sistemas](perguntas-frequentes/integracao-entre-sistemas.md)
 
 ## MENU SUPERIOR
 

@@ -11,17 +11,17 @@ Para organizar os documentos você pode acessar um dos tutoriais abaixo:&#x20;
 
 ou seguir o passo a passo descrito abaixo:
 
-Como Criar Estrutura de Diretórios:&#x20;
+**Como Criar Estrutura de Diretórios:**&#x20;
 
-1\. Revise as permissões dos usuários deixando somente o seu usuário como Administrador Global o que irá evitar que outros usuários acessem todas as pastas e documentos. Para isso acesse o menu -> Administração -> Usuários;&#x20;
+1\. Revise as permissões dos usuários deixando somente o seu usuário como Administrador Global o que irá evitar que outros usuários acessem todas as pastas e documentos. Para isso acesse o menu [Administração > Usuários](../administracao/administracao/usuarios.md).
 
-2\. Crie a estrutura de diretórios no menu -> Documentos;&#x20;
+2\. Crie a estrutura de diretórios no menu [Documentos](../diretorios/documentos.md).
 
-3\. Se você já tem documentos na pasta raiz, mova-os para as devidas pastas no menu -> Documentos;&#x20;
+3\. Se você já tem documentos na pasta raiz, mova-os para as devidas pastas no menu [Documentos](../diretorios/documentos.md).&#x20;
 
-Como definir Permissões de acesso aos Diretórios:&#x20;
+**Como definir Permissões de acesso aos Diretórios:**&#x20;
 
-1\. Para facilitar, crie grupos de usuários (exemplo: por setores ou funções) no menu – > Administração -> Grupo de Usuários. Exemplo abaixo:
+1\. Para facilitar, crie grupos de usuários (exemplo: por setores ou funções) no menu [Administração > Grupo de Usuários](../administracao/administracao/grupo-de-usuarios.md), como no exemplo abaixo:
 
 a) Comercial – Gerência (Perfil de Diretórios – Administrador)&#x20;
 
@@ -29,11 +29,11 @@ b) Comercial – Vendedores (Perfil de Diretórios – Colaborador)&#x20;
 
 c) Comercial – Outras funções com função de leitura (Perfil de Diretórios – Leitor)&#x20;
 
-2\. Insira os grupos criados na pasta raiz e habilite permissão de    leitura para todos através do menu -> Documentos -> Ações;&#x20;
+2\. Insira os grupos criados na pasta raiz e habilite permissão de leitura para todos por meio do menu [Documentos > Ações](../diretorios/documentos.md#acoes-individuais-subdiretorios).
 
-3\. Ajuste as permissões das pastas setoriais no menu -> Documentos – selecione a pasta -> Ações -> Editar permissões;&#x20;
+3\. Ajuste as permissões das pastas setoriais no menu [Documentos](../diretorios/documentos.md) e selecione a pasta [Ações > Editar permissões; ](../diretorios/documentos.md#acoes-individuais-subdiretorios)
 
-4\. Crie ou edite usuários e ajuste permissões de acesso conforme tabela abaixo:&#x20;
+4\. Crie ou edite usuários e ajuste permissões de acesso conforme tabela abaixo. Clique na imagem para ampliar.
 
 <img src="../.gitbook/assets/diretorios13.png" alt="" data-size="original">
 

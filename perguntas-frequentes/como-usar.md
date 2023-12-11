@@ -1284,8 +1284,48 @@ A funcionalidade Termo de Aceite para assinatura eletrônica, formaliza e regist
 
 <details>
 
-<summary></summary>
+<summary>Qual o limite de pessoas para assinar?</summary>
 
+Não há limite de signatários ou pessoas para assinar.
 
+</details>
+
+<details>
+
+<summary>Quais tipos de arquivo (extensões) são permitidos?</summary>
+
+Manualmente você pode fazer upload das seguintes extensões: doc; .docx; .xlsx; .xls; .pptx; .ppt; .pdf; .png; .jpeg; .jpg.&#x20;
+
+Através da API de integração você pode enviar arquivos em PDF.&#x20;
+
+</details>
+
+<details>
+
+<summary>Qual o limite de tamanho para documentos?</summary>
+
+Selecione e faça o upload de arquivos de até 35MB.&#x20;
+
+Você pode enviar mais de um arquivo de uma vez desde o tamanho total da soma dos arquivos não ultrapasse 100MB.&#x20;
+
+</details>
+
+<details>
+
+<summary>Como enviar um documento para assinatura?</summary>
+
+Acesse a plataforma ArqSign e clique no botão de ‘’Novo Documento’’.&#x20;
+
+Selecione e faça o upload de arquivos de até 35MB.&#x20;
+
+Você pode enviar mais de um arquivo de uma vez desde o tamanho total da soma dos arquivos não ultrapasse 100MB.&#x20;
+
+Caso você insira mais de um documento no fluxo, a plataforma irá realizar a fusão dos documentos.&#x20;
+
+Configure os destinatários, defina o tipo de envio, por e-mail ou WhatsApp, configure as assinaturas (uma por signatário) e clique em enviar. &#x20;
+
+Caso você mesmo seja um signatário, você pode assinar o documento após o envio através da Caixa de entrada da sua conta. Basta clicar em assinar e seguir o passo a passo da pergunta “Como assinar um documento?”
+
+[Clique aqui](https://youtu.be/yuOvrwxU1Z4) e assista ao passo a passo.
 
 </details>

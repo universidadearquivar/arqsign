@@ -62,7 +62,19 @@ Do lado esquerdo da tela temos todos os menus disponíveis, separados por grupos
 
 <summary>Como assinar documentos pela plataforma ArqSign?</summary>
 
-[Clique aqui e confira como realizar a assinatura de documentos por meio da plataforma ArqSign.](../assinatura-de-documentos.md)
+Se você recebeu um documento para assinatura, clique no link de acesso ao documento disponível na mensagem que recebeu ou se você tem uma conta ArqSign pode acessar o documento através de sua Caixa de entrada clicando em Assinar.&#x20;
+
+O documento será exibido para leitura. Após a leitura, clique sobre o espaço reservado para a representação visual de sua assinatura e aplique um dos estilos de assinatura: Padrão (seu nome escrito), Desenho (assinatura manuscrita) ou Imagem (upload da imagem/foto de sua assinatura).&#x20;
+
+Caso solicitado, preencha seus dados como Nome e documento.&#x20;
+
+Caso solicitado, anexe documento.
+
+Caso seja a primeira vez que está assinando um documento digital pela Plataforma ArqSign, dê um aceite para assinatura digital.&#x20;
+
+Clique em “Assinar e Concluir”.&#x20;
+
+[Clique aqui e confira como realizar a assinatura de documentos por meio da plataforma ArqSign](../assinatura-de-documentos.md) ou [clique aqui e assista ao vídeo explicativo.](https://youtu.be/UldRazxhmYY)
 
 </details>
 
@@ -1047,6 +1059,232 @@ Se você não tem uma conta ArqSign, não se preocupe. Quando todas as assinatur
 <details>
 
 <summary>Como configurar a sua assinatura, representação visual de sua assinatura?</summary>
+
+1. No canto superior direito clique sobre sua foto ou espaço para foto;
+2. Clique em Meu perfil;
+3. Clique em Estilo assinatura;
+4. Clique em editar;
+5. Configure a representação visual de sua assinatura para os estilos:
+
+* Padrão – Digitação de sua assinatura;
+* Desenho – Desenho de sua assinatura;&#x20;
+* Imagem – Upload de imagem com sua assinatura.&#x20;
+* e clique em ‘’Assinatura’’ para escolher uma assinatura padrão.&#x20;
+
+Clique em Salvar.&#x20;
+
+Sempre que você for assinar um documento os estilos salvos serão exibidos para sua escolha.
+
+[Clique aqui](https://youtu.be/5PogsaN\_qmk) e assista ao vídeo com o passo a passo.
+
+</details>
+
+<details>
+
+<summary>Como personalizar as configurações para Processo de Assinatura, Disponibilidade do link para documento assinado, lembretes e notificações da plataforma?</summary>
+
+Você pode personalizar as configurações padronizadas para fluxos e processos e se precisar ajustar lembretes e notificações durante a criação de um fluxo.&#x20;
+
+Para personalizar as configurações padronizadas siga o passo a passo:&#x20;
+
+1. Acesse o menu de Administração > Conta > Configurações;&#x20;
+2. Clique em Editar;&#x20;
+3. Faça os ajustes conforme sua necessidade;&#x20;
+4. Clique em Salvar.&#x20;
+
+Entenda em detalhes cada um dos itens personalizáveis:&#x20;
+
+* Configurações sobre o Processo de assinatura.
+* Tempo padrão em dias para expiração do documento a partir da data de envio.&#x20;
+* Tempo padrão em dias para aviso antes da expiração.
+* Habilitar, desabilitar e definir periodicidade de lembretes para assinatura aos signatários pendentes.&#x20;
+* Configurações de disponibilidade do link para o documento assinado.
+* Configure o tempo padrão para expiração do link de acesso ao documento após a assinatura.&#x20;
+* Habilite, desabilite a opção de anexar arquivo menor que 20MB ao e-mail enviado na finalização das assinaturas.&#x20;
+* Configurações sobre lembretes para vencimento, renovação, reajuste.
+* Configure a recorrência de lembretes para vencimento, renovação, reajuste de documentos, fluxos.&#x20;
+* Em Outros, configure notificações em relação à conta.
+* Notificação para percentual de uso dos itens da conta.&#x20;
+* Notificação para lembrete de vencimento da assinatura.&#x20;
+
+</details>
+
+<details>
+
+<summary>Como habilitar e desabilitar a renovação automática do plano?</summary>
+
+Durante a vigência do plano o cliente pode habilitar ou desabilitar a renovação automática do plano. Para isso acesse: [Administração > Conta > Faturamento e Uso](../administracao/administracao/conta.md#aba-faturamento-e-uso).
+
+</details>
+
+<details>
+
+<summary>Como verificar plano, vencimento, renovação automática e consumo?</summary>
+
+Acesse o menu de [Administração > Conta > Faturamento e Uso](../administracao/administracao/conta.md#aba-faturamento-e-uso).&#x20;
+
+Consulte o plano contratado, período do plano, data de assinatura, data de vencimento, renovação automática, itens consumidos e disponíveis, período de renovação e Histórico de compras.&#x20;
+
+</details>
+
+<details>
+
+<summary>Como cancelar um documento ou fluxo enviado?</summary>
+
+O cancelamento de um documento ou fluxo pode ser feito enquanto ele ainda não foi concluído. Para isso siga o seguinte passo a passo:&#x20;
+
+1. Acesse o menu de Enviados;
+2. Localize o documento, fluxo que deseja cancelar;
+3. Clique em Histórico;
+4. Clique em Cancelar;
+5. Confirme o cancelamento clicando em Sim.
+
+</details>
+
+<details>
+
+<summary>Como editar, corrigir ou alterar o e-mail do signatário?</summary>
+
+1. Acesse a caixa de enviados;
+2. Localize o documento, fluxo que deseja editar, corrigir ou alterar o e-mail do signatário;&#x20;
+3. Clique sobre o botão de Reenviar;
+4. Clique em Editar;
+5. Faça a alteração necessária;
+6. Clique em Reenviar. &#x20;
+
+Quando a data limite para assinatura do documento, fluxo estiver vencida, o reenvio é feito para todos os signatários pendentes de assinatura na ordem atual.&#x20;
+
+Se a data limite para assinatura do documento, fluxo não estiver vencida o usuário poderá editar e reenviar o documento para um ou mais signatários pendentes de assinatura na ordem atual.&#x20;
+
+[Clique aqui](https://youtu.be/1IMOZE11RaQ) e assista ao vídeo com o passo a passo.
+
+</details>
+
+<details>
+
+<summary>Como reenviar um documento ou fluxo?</summary>
+
+1. Acesse a caixa de enviados;&#x20;
+2. Localize o fluxo ou documento que deseja reenviar;
+3. Clique sobre o botão de Reenviar;
+4. Clique sobre o botão Reenviar novamente.&#x20;
+
+Um novo envio será feito somente para os signatários que ainda não assinaram o documento.&#x20;
+
+[Clique aqui ](https://youtu.be/K11hU-ZOWnk)e assista ao vídeo com o passo a passo.
+
+</details>
+
+<details>
+
+<summary>Como comprar créditos de envios via e-mail ou WhatsApp e SMS?</summary>
+
+1. Clique em Comprar Créditos;
+2. Ajuste a quantidade de créditos que deseja adquirir para cada item disponível em seu plano (Envios via e-mail, WhatsApp ou SMS);
+3. Clique em prosseguir;
+4. Insira ou confirme os dados de pagamento;
+5. Clique em Finalizar compra.&#x20;
+
+É necessário realizar compras de no mínimo R$10,00 reais e os créditos adquiridos têm validade de 06 meses.&#x20;
+
+</details>
+
+<details>
+
+<summary>Como agendar uma renovação, vencimento de documento ou controle de reajuste?</summary>
+
+Você pode fazer esse agendamento durante a criação de um fluxo de assinatura ou após a conclusão do fluxo. Veja o passo a passo a seguir:&#x20;
+
+Durante a criação de um fluxo de assinatura:&#x20;
+
+1. Clique em Novo Documento;
+2. Selecione o Checkbox Agendar renovação;
+3. Defina o prazo em meses após a finalização das assinaturas;
+4. Finalize a criação do fluxo. &#x20;
+
+Após a conclusão de um fluxo de assinatura:&#x20;
+
+1. Clique em Enviados;
+2. Selecione Fluxo concluído;
+3. Clique em Histórico;
+4. Clique em Alterar Renovação;&#x20;
+5. Defina o prazo em meses após a finalização das assinaturas;
+6. Clique em Alterar.&#x20;
+
+Quando chegar a data definida para vencimento do documento, renovação ou reajuste a plataforma ArqSign enviará um e-mail ao proprietário do fluxo informando que o documento está pronto para renovação, reajuste etc.
+
+[Clique aqui](https://youtu.be/v1DGlnU4rLs) e assista ao vídeo com o passo a passo.
+
+</details>
+
+<details>
+
+<summary>Como cadastrar um usuário?</summary>
+
+* Acesse o menu de [Administração > Usuários](../administracao/administracao/usuarios.md) e clique no botão com sinal de +.
+* Crie um código de 1° acesso para o seu convidado com 4 números. Exemplo: os 3 primeiros dígitos do CPF (você deverá informá-lo ao convidado);&#x20;
+* Insira o e-mail do convidado;&#x20;
+* Defina o perfil do usuário escolhendo entre:
+
+a) Administrador Global (acesso a todas as funcionalidades – envio, recebimento, assinatura de documentos, criação e definição de acesso para usuários e diretórios, compra de adicionais, alteração de plano)
+
+ou&#x20;
+
+b) Remetente de Documentos (apenas envia e assina documentos).&#x20;
+
+* Clique em Salvar.&#x20;
+* Ao incluir o usuário, será enviado uma mensagem de confirmação no e-mail informado para conclusão do cadastro. O código de segurança do 1º acesso será exigido neste processo.
+
+</details>
+
+<details>
+
+<summary>Como importar/fazer upload do meu Certificado ICP-Brasil Tipo A1 para plataforma?</summary>
+
+Acesse a sua conta na Plataforma ArqSign
+
+1. Clique no Menu Perfil que fica no canto superior direito da Plataforma.
+2. Clique na aba Certificado digital
+3. Clique no botão +
+4. Escolha o arquivo do Certificado ICP-Brasil tipo A1
+5. Insira um nome para o Certificado
+6. Insira a senha do Certificado
+
+Quando você for assinar um documento com um Certificado ICP-Brasil, basta escolher esse certificado e colocar a senha do mesmo.
+
+[Clique aqui](https://youtu.be/QHMwlnKg20s) e assista ao vídeo explicativo.
+
+</details>
+
+<details>
+
+<summary>Um usuário pode ver os fluxos de outro usuário?</summary>
+
+Os usuários com o perfil Remetente de documentos visualizam apenas os documentos dos fluxos que criou.&#x20;
+
+Para que esse perfil de usuário possa ter acesso compartilhado aos documentos de outros usuários, deve ser utilizada a funcionalidade de diretórios. &#x20;
+
+Caso queira conhecer a funcionalidade de Diretórios, [clique aqui](../diretorios/documentos.md).
+
+</details>
+
+<details>
+
+<summary>Como personalizar o Termo de Aceite para assinatura eletrônica?</summary>
+
+A funcionalidade Termo de Aceite para assinatura eletrônica, formaliza e registra o histórico de aceite dos signatários para assinatura no formato eletrônico o que é um pré-requisito legal para a validade jurídica da assinatura. Você pode utilizar a nossa sugestão de Termo de Aceite ou personalizar o seu. Para personalizar siga os seguintes passos:&#x20;
+
+1. Clique em [Administração > Conta > Termo de Aceite](../administracao/administracao/conta.md#aba-termo-de-aceite);&#x20;
+2. Clique em editar e personalize o seu termo;&#x20;
+3. Clique em publicar.
+
+[Clique aqui](https://youtu.be/MBJB6RW7y7E) e assista ao passo a passo.
+
+</details>
+
+<details>
+
+<summary></summary>
 
 
 

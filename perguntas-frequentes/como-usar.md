@@ -12,7 +12,7 @@ Acesse a plataforma de Assinatura e configure a sua Assinatura Eletrônica.
 
 Do lado esquerdo da tela temos todos os menus disponíveis, separados por grupos: Caixa Postal, Diretórios e Administração. É importante destacar que esses menus serão apresentados conforme nível de permissão de cada usuário. Clique na imagem para ampliar.
 
-![](<../.gitbook/assets/image (3).png>)
+![](<../.gitbook/assets/image (3) (1).png>)
 
 **CAIXA POSTAL:** Neste grupo estão concentrados os menus referentes ao processo de tramitação dos documentos. Clique na imagem para ampliar.
 
@@ -309,5 +309,118 @@ II. Assinatura Online – por qual signatário, data e hora, IP e Geolocalizaç�
 * Exibir o histórico (trilha de auditoria);
 * Exibir o Termo de aceite para assinatura eletrônica;
 * Verificar os detalhes das assinaturas.
+
+</details>
+
+<details>
+
+<summary>Como pesquisar um documento na plataforma ArqSign?</summary>
+
+Localizar um documento na na Plataforma ArqSign é super prático, basta seguir as instruções abaixo:
+
+Primeiro, encontre a Caixa onde o documento está localizado. Todas as caixas (Caixa de entrada, Enviados, Rascunhos, Excluídos, Renovações) têm a funcionalidade de pesquisa, que aparece como “Filtrar”.&#x20;
+
+Clique no campo “Filtrar”.&#x20;
+
+As opções de pesquisa serão exibidas.&#x20;
+
+Insira as informações de pesquisa nos campos desejados, como o nome do signatário, status, pasta do documento ou data de conclusão.&#x20;
+
+Clique em “Filtrar”.&#x20;
+
+Todos os documentos correspondentes às informações inseridas nos filtros serão exibidos.&#x20;
+
+Para cancelar o filtro, basta clicar no “X” que aparece no canto direito do campo “Filtrar”.&#x20;
+
+Vi como é fácil? Agora você pode localizar seus documentos na Plataforma ArqSign de forma rápida e eficiente!&#x20;
+
+</details>
+
+<details>
+
+<summary>Personalização da plataforma ArqSign com as cores e logomarca do cliente</summary>
+
+Na plataforma ArqSign, as notificações (e-mails e mensagens de WhatsApp) para os remetentes e destinatários podem ter os seguintes layouts:&#x20;
+
+1. Layout Padrão da Plataforma ArqSign ou&#x20;
+2. Layout com suas cores e logomarca.&#x20;
+
+Os itens disponíveis para personalização são:&#x20;
+
+* Cabeçalho&#x20;
+* Cor do texto superior&#x20;
+* Cor do botão do e-mail ou mensagem de WhatsApp&#x20;
+
+Para personalizar as notificações da Plataforma ArqSign, basta que o Administrador da conta acesse: Administração > Conta > Configurações > Outros e seguir os seguintes passos:&#x20;
+
+1. No canto inferior direito clique em editar;&#x20;
+2. Em “Notificações Personalizas”, altere para Ativado;&#x20;
+3. Em “Notificações por E-mail”, execute as seguintes etapas:&#x20;
+
+* insira uma imagem para o cabeçalho das mensagens com as dimensões descritas no campo;&#x20;
+* escolha a cor de destaque para o texto do e-mail.&#x20;
+
+&#x20;     4\. Em “Notificações por WhatsApp”, execute a seguinte etapa:&#x20;
+
+* Insira uma imagem para cabeçalho das mensagens com as dimensões descritas no campo.&#x20;
+
+&#x20;     5\. Se quiser visualizar as notificações com as mudanças que você fez clique em “Visualizar Notificação”;&#x20;
+
+&#x20;     6\. Quando todos os ajustes estiverem ok, clique em “Salvar”.&#x20;
+
+![](../.gitbook/assets/image.png)
+
+Notificação padrão:
+
+![](<../.gitbook/assets/image (1).png>)
+
+Exemplo de notificação personalizada simulação:
+
+![](<../.gitbook/assets/image (2).png>)
+
+</details>
+
+<details>
+
+<summary>Como configurar uma mensagem personalizada?</summary>
+
+1. Clique em ‘Novo Documento’
+2. Selecione o documento que deseja encaminhar e informe os dados do signatário como nome, e-mail etc.
+3. Abaixo dessas informações haverá um símbolo de ‘mensagem’ ![](https://cdn.arquivar.com.br/wp-content/uploads/2023/04/carta.jpg), onde ao clicar abrirá uma aba de mensagem personalizada.
+4. Na aba de mensagem personalizada é possível informar o assunto e a mensagem que deseja enviar somente para o signatário selecionado. Os demais signatários receberão a mensagem padrão.
+
+</details>
+
+<details>
+
+<summary>Como configurar o token de segurança?</summary>
+
+1. Clique em ‘Novo Documento’
+2. Selecione o documento que deseja encaminhar e informe os dados do signatário como nome, e-mail etc.
+3. Abaixo dessas informações haverá um símbolo de um ‘cadeado’![](https://cdn.arquivar.com.br/wp-content/uploads/2023/04/cadeado.jpg), onde ao clicar abrirá uma aba de segurança.
+4. Na aba de segurança é possível gerar o código ‘Automaticamente ou Manual’ e informar o e-mail, SMS, Whatsapp ou nenhum meio em que deseja encaminhar o token.
+5. Após essas configurações o token de segurança será enviado através do meio selecionado quando o signatário clicar para acessar o documento ou se você não selecionou nenhum meio você poderá informar para o signatário.
+
+</details>
+
+<details>
+
+<summary>Como solicitar anexos e selfie?</summary>
+
+1. Clique em ‘Novo Documento’
+2. Selecione o documento que deseja encaminhar e configure os destinatários e avance
+3. Configure o campo de assinatura do destinatário, caso deseje solicite as informações complementares como Nome e Documento
+4. No canto direito role a tela e o menu de Anexos irá aparecer, selecione o checkbox para permitir que o signatário anexe um documento.
+5. Informe o documento que deseja que o signatário encaminhe e se deseja que o anexo seja obrigatório para a conclusão do processo de assinatura daquele documento.
+6. Você também pode configurar se permite que todos os signatários acessem o anexo ou não.
+
+Quando o destinatário receber o documento para assinar ele deverá proceder da seguinte forma:
+
+1. Assinar o documento e preencher dados solicitados;
+2. Clicar na solicitação de Selfie;
+3. Acessar a câmera do celular ou computador;
+4. Fazer a foto conforme solicitado;
+5. Escolher a foto como anexo;
+6. Clicar em “Assinar e concluir”.
 
 </details>

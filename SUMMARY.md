@@ -5,6 +5,7 @@
   * [🟪 ArqSign e Clínica nas Nuvens](perguntas-frequentes/arqsign-e-clinica-nas-nuvens.md)
   * [🟪 Assinatura digital e eletrônica](perguntas-frequentes/assinatura-digital-e-eletronica.md)
   * [🟪 Certificado Digital](perguntas-frequentes/certificado-digital.md)
+  * [🟪 Como Usar](perguntas-frequentes/como-usar.md)
 
 ## MENU SUPERIOR
 

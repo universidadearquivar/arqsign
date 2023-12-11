@@ -972,6 +972,82 @@ Observe que aparece um campo chamado “Ordem” e que as pessoas deverão assin
 
 Caso queira que duas pessoas recebam o e-mail simultaneamente, utilize o mesmo número para elas.
 
-![](<../.gitbook/assets/image (22).png>)
+<img src="../.gitbook/assets/gif-1.gif" alt="" data-size="original">
+
+</details>
+
+<details>
+
+<summary>Como editar um documento após o envio?</summary>
+
+Por segurança, não é possível editar um documento após o envio.
+
+</details>
+
+<details>
+
+<summary>Como solicitar assinatura em tablet?</summary>
+
+Para que um cliente assine um documento no tablet de um estabelecimento, basta seguir os seguintes passos:&#x20;
+
+1. Criar um e-mail genérico para ser utilizado no envio dos documentos a serem assinados no tablet como por exemplo: assinadoreletrônicodedocumentos@nomedoestabelecimento.com.br;
+2. Criar um usuário para o e-mail acima;
+3. Logar na plataforma ArqSign com o usuário;
+4. Enviar documento para assinatura do cliente e solicitar as seguintes autenticações:
+5. Nome
+6. Documento
+7. Anexar Foto com documento
+8. Habilitar a captura de geolocalização no tablet do estabelecimento
+
+Ao assinar o documento, a pessoa vai inserir, nome, documento e fazer uma Selfie com documento se possível mostrando a placa do estabelecimento.&#x20;
+
+As seguintes informações serão inseridas/anexadas ao documento:&#x20;
+
+Autenticações:&#x20;
+
+* Nome
+* Documento
+* Selfie com documento
+* Geolocalização (estabelecimento)
+
+</details>
+
+<details>
+
+<summary>Por que na ArqSign, a folha com o Registro de Assinaturas não vem no final do documento?</summary>
+
+O ato de inserir uma página mutável (que vai sendo alterada a cada assinatura) ao final do arquivo que está sendo assinado pelas partes, caracteriza uma alteração do documento, o que vai totalmente contra o processo que garante a integridade e viola as normas técnicas de assinatura com certificado digital. &#x20;
+
+Portanto, o processo seguro da ArqSign não permite a inserção de uma página ao final do arquivo assinado, porque isso corromperia os certificados que foram inseridos durante o processo de assinatura de cada signatário.&#x20;
+
+</details>
+
+<details>
+
+<summary>Como faço para inserir rubrica em todas as páginas do documento?</summary>
+
+Quando você assina um documento de forma eletrônica ou digital, está colocando sua assinatura em um arquivo eletrônico. Nesse caso, não é necessário rubricar cada página do documento. Em vez disso, é importante inserir no arquivo informações que comprovem a integridade do documento e a autoria das assinaturas. Ou seja, uma única assinatura por pessoa é válida para todo o arquivo.&#x20;
+
+Em resumo, um documento assinado eletronicamente tem validade jurídica ao incluir dados que verificam a integridade do documento e confirmam a autoria das assinaturas nas propriedades do arquivo, em vez de depender apenas da representação visual.&#x20;
+
+É importante destacar que a validação jurídica de uma assinatura eletrônica baseada exclusivamente na imagem visual da assinatura ou rubrica é falha. Isso ocorre porque qualquer pessoa que saiba fazer alterações em arquivos PDF poderia inserir uma imagem visual de uma assinatura em um documento. Por outro lado, a inserção dos dados dos signatários nas propriedades do arquivo só pode ser feita com a utilização do certificado digital e com a participação do signatário, garantindo maior segurança à certificação.
+
+</details>
+
+<details>
+
+<summary>Meu documento assinado fica salvo ou preciso baixá-lo?</summary>
+
+Caso você tenha uma conta ArqSign, o seu arquivo ficará salvo na plataforma, com segurança e rastreabilidade. Sempre que houver demanda de consulta do documento ou você poderá realizar o download do arquivo, compartilhá-lo externamente, entre inúmeras outras possibilidades que a ArqSign oferece para o seu negócio.&#x20;
+
+Se você não tem uma conta ArqSign, não se preocupe. Quando todas as assinaturas são concluídas, uma via do arquivo assinado é enviada para todos os destinatários.
+
+</details>
+
+<details>
+
+<summary>Como configurar a sua assinatura, representação visual de sua assinatura?</summary>
+
+
 
 </details>

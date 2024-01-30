@@ -188,6 +188,8 @@ Caso ainda não tenha feito, ao assinar um documento pela primeira vez utilizand
 
 Para finalizar o processo de assinatura, o signatário deve clicar em “Concluir”. Ele será direcionado para a tela de login. Se já tiver uma conta ativa na plataforma de assinatura poderá informar suas credenciais para acessar.  Se não tiver uma conta cadastrada na plataforma será exibida uma mensagem de sugestão para que ele crie uma conta de teste grátis.
 
+<figure><img src="../.gitbook/assets/sign10.png" alt=""><figcaption></figcaption></figure>
+
 {% hint style="warning" %}
 <mark style="color:orange;">**A criação da conta de teste grátis não é obrigatória.**</mark>
 {% endhint %}
@@ -196,9 +198,9 @@ Para finalizar o processo de assinatura, o signatário deve clicar em “Conclui
 
 ## Concluindo a assinatura
 
-Depois de concluído o processo e todos os signatários assinarem o documento, todos os participantes receberão por e-mail ou Whatsapp uma cópia do documento assinado e o Registro de Assinaturas, com o código ID do documento, informações dos certificados digitais e assinaturas eletrônicas utilizados para assinar o documento e histórico de eventos relacionados ao documento.&#x20;
+Depois de concluído o processo e todos os signatários assinarem o documento, todos os participantes receberão por e-mail ou Whatsapp um aviso sobre a conclusão do processo de assinatura. Ao clicar no link recebido, será possível visualizar o documento assinado, o código ID do documento, informações dos certificados digitais e assinaturas eletrônicas utilizados para assinatura e o histórico de eventos relacionados ao documento, além de informações sobre os signatários.
 
-<figure><img src="../.gitbook/assets/assinatura17.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/sign11.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 Se o remetente tiver definido que deverá ser gerado um QR Code no Registro de Assinaturas na tela [Configurações Avançadas do cadastro do documento](novo-documento.md#configuracoes-avancadas), esse QR Code será exibido aqui.&#x20;
 

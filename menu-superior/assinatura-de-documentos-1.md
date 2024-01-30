@@ -11,6 +11,8 @@ O usuário responsável pela assinatura receberá uma notificação por e-mail c
 <figure><img src="../.gitbook/assets/assinatura21 (1).png" alt=""><figcaption></figcaption></figure>
 
 Ao clicar no link ou informar o código, o usuário será direcionado para a tela de assinatura.
+
+<figure><img src="../.gitbook/assets/sign01.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 {% endtab %}
 
 {% tab title="Por Whatsapp" %}
@@ -60,7 +62,11 @@ Se o remetente tiver definido um código de segurança para abertura do document
 
 O documento será apresentado na tela para assinatura. Na parte superior da tela serão apresentados os nomes do responsável pelo envio, o nome do documento, a navegação entre páginas e os botões de zoom e visualização do documento em tela cheia.
 
+<figure><img src="../.gitbook/assets/sign02.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
 Clicando em “Opções”, o signatário poderá executar as seguintes ações:
+
+<figure><img src="../.gitbook/assets/sign03.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 **Registro de Assinaturas:** Utilizado para fazer o download do registro das assinaturas realizadas no documento. O Registro de Assinaturas exibe todas as informações sobre as assinaturas eletrônicas realizadas, como nome dos assinantes, data e hora da assinatura, localização e IP de onde foi realizada, dados dos certificados digitais utilizados etc. &#x20;
 
@@ -82,13 +88,21 @@ Ao assinar o documento o sistema registrará o aceite do “Termo de Assinatura 
 
 Para alterar o idioma da tela de visualização do documento, no canto inferior direito da tela escolha entre "Inglês - USA", "Espanhol - Espanha" ou "Português - Brasil".
 
+<figure><img src="../.gitbook/assets/sign04.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
 Para prosseguir com a assinatura, o signatário deve clicar em “Assinar”.    &#x20;
+
+<figure><img src="../.gitbook/assets/sign05.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 ***
 
-### Etapa 2 - Anexos
+### Etapa 2 - Dados do signatário e Anexos
 
-Na próxima etapa, se houver sido solicitado ao signatário anexar arquivos, no campo “Anexos” ele deverá fazer o upload dos documentos solicitados. Depois de concluir, o usuário deve clicar em “Avançar”.
+Na próxima etapa, se houver sido solicitado que o signatário forneça dados complementares, ele deverá informá-los.
+
+Se também tiver sido solicitado ao signatário anexar arquivos, no campo “Anexos” ele deverá fazer o upload dos documentos pedidos. Depois de concluir, o usuário deve clicar em “Avançar”.
+
+<figure><img src="../.gitbook/assets/sign06.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 ***
 
@@ -97,10 +111,20 @@ Na próxima etapa, se houver sido solicitado ao signatário anexar arquivos, no 
 O Estilo de Assinatura é a representação visual da assinatura do usuário. Para concluir a assinatura de um documento, o usuário deverá escolher de que forma irá assinar:
 
 * **Padrão:** Neste estilo o usuário deve informar o nome completo e definir o estilo (fonte) como o texto deverá ser apresentado. Para isso deve clicar em “Estilo” e fazer a definição.&#x20;
+
+<figure><img src="../.gitbook/assets/sign07.png" alt=""><figcaption></figcaption></figure>
+
 * **Desenho:** Para assinar com um desenho, o usuário deverá, no campo “Área de Desenho da Assinatura” assinar ou rubricar utilizando o mouse. Para corrigir, deve clicar no ícone “Apagar”.&#x20;
+
+<figure><img src="../.gitbook/assets/sign08.png" alt=""><figcaption></figcaption></figure>
+
 * **Imagem:** Se desejar, o usuário pode fazer o upload de uma imagem que represente sua assinatura.
 
-Para concluir o signatário deve clicar em “Aplicar”. Se foi solicitado no documento que ele assine como Pessoa Física e Jurídica, pode utilizar a mesma assinatura para as duas situações clicando em “Aplicar PF e PJ”. Depois de concluir, deve clicar em “Avançar”.
+<figure><img src="../.gitbook/assets/sign09.png" alt=""><figcaption></figcaption></figure>
+
+Para concluir o signatário deve clicar em “Concluir”. Se foi solicitado no documento que ele assine como Pessoa Física e Jurídica, será utilizada a mesma assinatura para as duas situações.
+
+<figure><img src="../.gitbook/assets/sign12.png" alt=""><figcaption></figcaption></figure>
 
 ***
 

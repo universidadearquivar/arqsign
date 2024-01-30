@@ -12,7 +12,7 @@ O botão de assinatura passou a ser exibido na parte inferior da tela, junto com
 
 Agora, o signatário não precisa mais marcar o termo de aceite de assinatura eletrônica. Ao assinar o documento o sistema registrará o aceite automaticamente.  &#x20;
 
-Os detalhes dessas alterações estão na página Assinatura de Documentos.
+Os detalhes dessas alterações estão na página [Assinatura de Documentos](../menu-superior/assinatura-de-documentos.md).
 
 <img src="../.gitbook/assets/sign01.png" alt="" data-size="original">
 
@@ -32,7 +32,7 @@ A tela de escolha do certificado digital que será utilizado para assinatura tam
 
 Além disso, a sugestão de login para acesso à plataforma ou para criação de uma conta teste grátis passou a ser exibida para o usuário no final do processo de assinatura do documento.
 
-Os detalhes dessas alterações estão na página Assinatura de Documentos.
+Os detalhes dessas alterações estão na página [Assinatura de Documentos](../menu-superior/assinatura-de-documentos.md).
 
 <img src="../.gitbook/assets/sign06.png" alt="" data-size="original">
 

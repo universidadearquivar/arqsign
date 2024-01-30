@@ -48,7 +48,7 @@ Ao clicar em um documento, será aberta a tela de visualização do documento, q
 
 <figure><img src="../.gitbook/assets/caixa_entrada09.png" alt=""><figcaption></figcaption></figure>
 
-**Assinar:** Disponível somente se o documento ainda não tiver sido assinado pelo signatário e seja a sua vez de assinar de acordo com a ordem estabelecida pelo remetente, se houver. Ao clicar neste botão o usuário é direcionado para a [tela de assinatura do documento.](../assinatura-de-documentos.md)
+**Assinar:** Disponível somente se o documento ainda não tiver sido assinado pelo signatário e seja a sua vez de assinar de acordo com a ordem estabelecida pelo remetente, se houver. Ao clicar neste botão o usuário é direcionado para a [tela de assinatura do documento.](broken-reference)
 
 **Alterar Pasta:** Esta opção só será exibida se o usuário tiver acesso à conta na qual o documento está armazenado. Ao clicar nesta opção ele poderá alterar a pasta do diretório onde o documento está armazenado.
 

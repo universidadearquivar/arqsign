@@ -74,7 +74,7 @@ Caso seja a primeira vez que está assinando um documento digital pela Plataform
 
 Clique em “Assinar e Concluir”.&#x20;
 
-[Clique aqui e confira como realizar a assinatura de documentos por meio da plataforma ArqSign](../assinatura-de-documentos.md) ou [clique aqui e assista ao vídeo explicativo.](https://youtu.be/UldRazxhmYY)
+[Clique aqui e confira como realizar a assinatura de documentos por meio da plataforma ArqSign](broken-reference) ou [clique aqui e assista ao vídeo explicativo.](https://youtu.be/UldRazxhmYY)
 
 </details>
 

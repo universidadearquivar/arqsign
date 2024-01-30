@@ -18,7 +18,7 @@ O processo de assinatura em lote permite que o usuário assine mais de um docume
 
 **Coluna Responsável:** esta coluna são apresentados o nome e e-mail de quem enviou o documento (remetente).  &#x20;
 
-**Coluna Tipo de Assinatura:** Nesta coluna é exibido o tipo de assinatura exigido para a assinatura do documento, que pode ser [Assinatura Eletrônica](../assinatura-de-documentos.md#a.-assinatura-eletronica) ou [Assinatura via Certificado Digital – ICP Brasil ou Outros Certificados Digitais.](../assinatura-de-documentos.md#b.-assinatura-digital-icp-brasil-e-icp-outros)
+**Coluna Tipo de Assinatura:** Nesta coluna é exibido o tipo de assinatura exigido para a assinatura do documento, que pode ser [Assinatura Eletrônica](broken-reference) ou [Assinatura via Certificado Digital – ICP Brasil ou Outros Certificados Digitais.](broken-reference)
 
 **Coluna Ações:** Esta coluna exibe botões de ação sobre o documento. Será sempre exibida nesse botão a ação prioritária de execução, de acordo com o perfil do usuário e status do documento. &#x20;
 
@@ -46,7 +46,7 @@ O processo de assinatura em lote permite que o usuário assine mais de um docume
 
 <figure><img src="../.gitbook/assets/lote08.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
-3\. O próximo passo será definir o [Estilo de Assinatura](../assinatura-de-documentos.md#2.-definindo-o-estilo-de-assinatura), que pode ser um padrão, um desenho ou uma imagem. Depois de escolhido, clique em “Concluir”. &#x20;
+3\. O próximo passo será definir o [Estilo de Assinatura](broken-reference), que pode ser um padrão, um desenho ou uma imagem. Depois de escolhido, clique em “Concluir”. &#x20;
 
 <figure><img src="../.gitbook/assets/lote09.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 

@@ -150,11 +150,19 @@ Depois de definir o Estilo de Assinatura, será solicitada a assinatura do usuá
 
 Na assinatura eletrônica o usuário informa seus dados de pessoa física ou jurídica e a própria Arquivar certifica a autenticidade e veracidade das informações apresentadas.&#x20;
 
-Se o usuário estiver utilizando uma assinatura eletrônica, será necessário que informe os campos obrigatórios solicitados na área “**Dados**”. Os campos obrigatórios variam de acordo com o documento. O símbolo **\*** indica que a informação é de preenchimento obrigatório.&#x20;
+Se o usuário estiver utilizando uma assinatura eletrônica, será necessário que informe os campos obrigatórios solicitados. Os campos obrigatórios variam de acordo com o documento. O símbolo **\*** indica que a informação é de preenchimento obrigatório.&#x20;
+
+<figure><img src="../.gitbook/assets/sign06.png" alt=""><figcaption></figcaption></figure>
 
 #### B. Assinatura Digital – ICP Brasil e Outros
 
-Se tiver sido definido que o usuário deverá assinar utilizando um certificado digital (ICP Brasil e ICP outros), será exibida uma lista com todos os certificados instalados na máquina do usuário e na conta da plataforma ArqSign. Ele deverá selecionar aquele com o qual irá assinar, informar o código PIN do certificado (se solicitado) e clicar em “Avançar”, caso ele precise assinar também como Pessoa Jurídica.
+Se tiver sido definido que o usuário deverá assinar utilizando um certificado digital (ICP Brasil e ICP outros), será exibida uma lista com todos os certificados instalados na máquina do usuário e na conta da plataforma ArqSign.&#x20;
+
+<figure><img src="../.gitbook/assets/sign13.png" alt=""><figcaption></figcaption></figure>
+
+Ele deverá selecionar aquele com o qual irá assinar e informar o código PIN do certificado (se solicitado). Caso ele precise assinar também como Pessoa Jurídica, a assinatura será utilizada nas duas situações.
+
+<figure><img src="../.gitbook/assets/sign14.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
 <mark style="color:orange;">**Os certificados hospedados na conta da plataforma ArqSign do usuário apresentados aqui deverão ter sido anteriormente importados na tela**</mark> [<mark style="color:blue;">**Meu Perfil > Aba Certificado Digital.**</mark> ](meu-perfil.md)<mark style="color:orange;">**Caso o usuário tenha o certificado digital hospedado na ArqSign, será oferecida a ele a opção de autenticação na plataforma para utilizar o certificado que possui.**</mark>

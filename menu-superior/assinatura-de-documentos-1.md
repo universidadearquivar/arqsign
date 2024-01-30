@@ -50,7 +50,7 @@ Depois de conectado à conta, o usuário deve clicar no menu [Caixa Postal > Cai
 
 ## Assinando um documento
 
-### 1. Acessando o documento&#x20;
+### Etapa 1 - Acessando o documento&#x20;
 
 Se o remetente tiver definido um código de segurança para abertura do documento, será solicitado que o signatário informe o código, que deve ter sido recebido anteriormente por e-mail, Whatsapp, SMS ou pelo próprio remetente. Caso não possua o código o usuário deve clicar em “Não Recebi o Código”.&#x20;
 
@@ -86,13 +86,13 @@ Para prosseguir com a assinatura, o signatário deve clicar em “Assinar”.   
 
 ***
 
-### Etapa 1 - Anexos
+### Etapa 2 - Anexos
 
 Na próxima etapa, se houver sido solicitado ao signatário anexar arquivos, no campo “Anexos” ele deverá fazer o upload dos documentos solicitados. Depois de concluir, o usuário deve clicar em “Avançar”.
 
 ***
 
-### Etapa 2 – Estilo de Assinatura
+### Etapa 3 – Estilo de Assinatura
 
 O Estilo de Assinatura é a representação visual da assinatura do usuário. Para concluir a assinatura de um documento, o usuário deverá escolher de que forma irá assinar:
 
@@ -104,7 +104,7 @@ Para concluir o signatário deve clicar em “Aplicar”. Se foi solicitado no d
 
 ***
 
-### Etapa 3 – Assinando eletronicamente ou com certificado digital
+### Etapa 4 – Assinando eletronicamente ou com certificado digital
 
 {% hint style="info" %}
 <mark style="color:blue;">**ASSINATURA ELETRÔNICA X ASSINATURA DIGITAL (ICP Brasil e ICP Outros)**</mark>
@@ -128,21 +128,13 @@ Na assinatura eletrônica o usuário informa seus dados de pessoa física ou jur
 
 Se o usuário estiver utilizando uma assinatura eletrônica, será necessário que informe os campos obrigatórios solicitados na área “**Dados**”. Os campos obrigatórios variam de acordo com o documento. O símbolo **\*** indica que a informação é de preenchimento obrigatório.&#x20;
 
-<figure><img src="../.gitbook/assets/assinatura27.png" alt=""><figcaption></figcaption></figure>
-
 #### B. Assinatura Digital – ICP Brasil e Outros
 
-Se tiver sido definido que o usuário deverá assinar utilizando um certificado digital (ICP Brasil e ICP outros), ele não precisará informar nenhum dado, devendo apenas selecionar o [Estilo de Assinatura ](assinatura-de-documentos-1.md#2.-definindo-o-estilo-de-assinatura)que irá utilizar, aceitar o **Termo de Assinatura Eletrônica** e clicar em “Assinar e Concluir”.&#x20;
-
-Será exibida uma lista com todos os certificados instalados na máquina do usuário e na conta da plataforma ArqSign. Ele deverá selecionar aquele com o qual irá assinar, informar o código PIN do certificado (se solicitado) e clicar em “Avançar”, caso ele precise assinar também como Pessoa Jurídica, ou em “Concluir” para finalizar.  &#x20;
+Se tiver sido definido que o usuário deverá assinar utilizando um certificado digital (ICP Brasil e ICP outros), será exibida uma lista com todos os certificados instalados na máquina do usuário e na conta da plataforma ArqSign. Ele deverá selecionar aquele com o qual irá assinar, informar o código PIN do certificado (se solicitado) e clicar em “Avançar”, caso ele precise assinar também como Pessoa Jurídica.
 
 {% hint style="warning" %}
-<mark style="color:orange;">**Os certificados hospedados na conta da plataforma ArqSign do usuário apresentados aqui deverão ter sido anteriormente importados na tela**</mark> [<mark style="color:blue;">**Meu Perfil > Aba Certificado Digital.**</mark> ](meu-perfil.md)
+<mark style="color:orange;">**Os certificados hospedados na conta da plataforma ArqSign do usuário apresentados aqui deverão ter sido anteriormente importados na tela**</mark> [<mark style="color:blue;">**Meu Perfil > Aba Certificado Digital.**</mark> ](meu-perfil.md)<mark style="color:orange;">**Caso o usuário tenha o certificado digital hospedado na ArqSign, será oferecida a ele a opção de autenticação na plataforma para utilizar o certificado que possui.**</mark>
 {% endhint %}
-
-<figure><img src="../.gitbook/assets/assinatura30.png" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="../.gitbook/assets/assinatura31.png" alt=""><figcaption></figcaption></figure>
 
 <details>
 
@@ -170,33 +162,17 @@ Caso ainda não tenha feito, ao assinar um documento pela primeira vez utilizand
 
 </details>
 
-***
+Para finalizar o processo de assinatura, o signatário deve clicar em “Concluir”. Ele será direcionado para a tela de login. Se já tiver uma conta ativa na plataforma de assinatura poderá informar suas credenciais para acessar.  Se não tiver uma conta cadastrada na plataforma será exibida uma mensagem de sugestão para que ele crie uma conta de teste grátis.
 
-### 4. Informações complementares
-
-Se houver sido solicitado ao signatário anexar arquivos, no campo “Anexos” no lado direito da tela ele deverá fazer o upload dos documentos solicitados.&#x20;
-
-<figure><img src="../.gitbook/assets/assinatura24.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
-
-Será solicitado que o usuário assine o termo de responsabilidade marcando a checkbox “**Confirmo que li e concordo com os termos de assinatura eletrônica**”. &#x20;
-
-<figure><img src="../.gitbook/assets/assinatura26.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
-
-Ao concluir as obrigatoriedades de assinatura, o usuário pode escolher entre “Assinar e Concluir” para finalizar sua assinatura ou em “Concluir Mais Tarde”, para retornar ao documento e concluir em outro momento.&#x20;
-
-<figure><img src="../.gitbook/assets/assinatura29.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+{% hint style="warning" %}
+<mark style="color:orange;">**A criação da conta de teste grátis não é obrigatória.**</mark>
+{% endhint %}
 
 ***
 
-### 5. Concluindo a assinatura
-
-Caso opte por concluir, será exibida uma mensagem de confirmação da assinatura. Caso o usuário não possua conta, será convidado a criar uma conta de teste grátis ou poderá clicar em “Mais tarde”, para retornar em outro momento. Caso já possua conta, deverá clicar em “Fechar” para encerrar o processo.&#x20;
-
-<figure><img src="../.gitbook/assets/assinatura09 (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+## Concluindo a assinatura
 
 Depois de concluído o processo e todos os signatários assinarem o documento, todos os participantes receberão por e-mail ou Whatsapp uma cópia do documento assinado e o Registro de Assinaturas, com o código ID do documento, informações dos certificados digitais e assinaturas eletrônicas utilizados para assinar o documento e histórico de eventos relacionados ao documento.&#x20;
-
-
 
 <figure><img src="../.gitbook/assets/assinatura17.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 

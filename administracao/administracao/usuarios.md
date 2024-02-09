@@ -10,21 +10,13 @@ Nos planos gratuitos, podem ser criados quantos usuários forem necessários (il
 
 <figure><img src="../../.gitbook/assets/usuarios01.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
-Após a inserção de um novo usuário pelo Administrador Global, o convidado recebe por e-mail o convite para ingressar na conta e deverá informar o código de segurança definido pelo proprietário da conta e informado ao novo usuário para realizar o primeiro acesso.
-
-<div>
+Após a inserção de um novo usuário pelo Administrador Global, o convidado recebe por e-mail o convite para ingressar na conta. Se já tiver cadastro na plataforma, deverá informar apenas sua senha. Caso ainda não tenha, deverá informar o nome e criar uma senha para realizar o primeiro acesso.
 
 <figure><img src="../../.gitbook/assets/usuarios02.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
- 
+<figure><img src="../../.gitbook/assets/Screenshot_8.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/usuarios04.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
-
-</div>
-
-{% hint style="warning" %}
-<mark style="color:orange;">**O código de segurança deverá ser informado para o convidado pelo proprietário da conta da forma que ele preferir. Esse código NÃO será enviado para o usuário pela plataforma.**</mark>
-{% endhint %}
+<figure><img src="../../.gitbook/assets/Screenshot_10.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 ***
 

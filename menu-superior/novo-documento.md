@@ -143,9 +143,9 @@ Se selecionada a opção de envio por Whatsapp é possível permitir que o desti
 
 <figure><img src="../.gitbook/assets/novodocumento18.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
-**Ícone Mensagem Personalizada:** Ao clicar neste ícone será possível inserir uma mensagem que será enviada ao destinatário junto com o documento. Para isso, preencha os campos “Assunto” e “Mensagem”. Caso deseje excluir a mensagem, clique em “Excluir Mensagem Personalizada”.
+**Ícone Mensagem Privada:** Ao clicar neste ícone será possível inserir uma mensagem que será enviada ao destinatário junto com o documento. Para isso, preencha os campos “Assunto” e “Mensagem”. Caso deseje excluir a mensagem, clique em “**Excluir Mensagem Privada**”.
 
-<figure><img src="../.gitbook/assets/novodocumento19.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot_1.png" alt=""><figcaption></figcaption></figure>
 
 Para inserir outros destinatários clique no botão “Adicionar Novo Destinatário”.
 

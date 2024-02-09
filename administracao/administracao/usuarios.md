@@ -68,9 +68,9 @@ As ações da tela de Usuários podem se acessadas por meio dos botões superior
 
 **Novo:** Para convidar um novo usuário para ingressar na conta, clique em “Novo”. Por padrão o usuário ficará com status “Pendente” até que aceite o convite para ingressar na conta.
 
-O usuário deve definir um código de segurança que deverá ser digitado pelo convidado para realizar o primeiro acesso à conta. Depois, deve informar e-mail do usuário e definir o tipo de perfil que será atribuído a ele, que pode ser Administrador Global (acesso a todas as funcionalidades), Remetente de Documentos (envia e assina documentos) ou ambos.
+O usuário deve informar o e-mail do usuário e definir o tipo de perfil que será atribuído a ele, que pode ser Administrador Global (acesso a todas as funcionalidades), Remetente de Documentos (envia e assina documentos) ou ambos.
 
-<figure><img src="../../.gitbook/assets/usuarios07.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot_6.png" alt=""><figcaption></figcaption></figure>
 
 Se o usuário convidado tiver o perfil somente de Remetente de Documentos, será preciso definir também o Grupo de Usuários ao qual o convidado será associado. Esse grupo de usuários determinará a quais pastas do diretório o novo membro da conta terá acesso e deverá ter sido anteriormente criado no menu [Administração > Grupo de Usuários](grupo-de-usuarios.md). Também é possível criar um grupo clicando em “Novo Grupo”.
 
@@ -104,6 +104,6 @@ Se for escolhida a opção “Transferir” será preciso informar quem será o 
 
 <figure><img src="../../.gitbook/assets/usuarios13.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
-**Pesquisar:** É possível pesquisar um usuário da conta por nome ou e-mail utilizando a barra de pesquisa superior.
+**Filtrar:** É possível pesquisar um usuário utilizando os filtros disponíveis na barra de pesquisa superior.
 
-<figure><img src="../../.gitbook/assets/usuarios14.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot_7.png" alt=""><figcaption></figcaption></figure>

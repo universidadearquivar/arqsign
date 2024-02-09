@@ -145,7 +145,7 @@ Se selecionada a opção de envio por Whatsapp é possível permitir que o desti
 
 **Ícone Mensagem Privada:** Ao clicar neste ícone será possível inserir uma mensagem que será enviada ao destinatário junto com o documento. Para isso, preencha os campos “Assunto” e “Mensagem”. Caso deseje excluir a mensagem, clique em “**Excluir Mensagem Privada**”.
 
-<figure><img src="../.gitbook/assets/Screenshot_1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot_1.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 Para inserir outros destinatários clique no botão “Adicionar Novo Destinatário”.
 
@@ -173,7 +173,7 @@ Depois de concluir essas configurações, clique em “Avançar” para seguir p
 
 Na próxima etapa serão exibidos os documentos que foram inseridos na etapa anterior em formato PDF e deverão ser configurados os campos de assinatura, informações de preenchimento e anexos.
 
-<figure><img src="../.gitbook/assets/novodocumento23.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot_2 (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 ### Campos Assinatura
 
@@ -221,13 +221,13 @@ Para exigir um documento selecione a opção desejada entre CNPJ ou outros. Se s
 
 ### Anexos
 
-No campo “Anexos” do lado esquerdo da tela serão exibidas configurações que permitirão aos destinatários anexar outros arquivos ao documento no momento em que forem assinar. Para isso, marque a opção “**Permitir anexar documentos**”.
+No campo “Anexos” do lado esquerdo da tela serão exibidas configurações que permitirão aos destinatários anexar outros arquivos ao documento no momento em que forem assinar. Para isso, marque a opção “**Solicitar anexar documentos**”.
 
 Informe o nome do anexo que será solicitado e defina se será de preenchimento obrigatório e se todos os destinatários participantes do fluxo de assinatura poderão visualizar o arquivo anexado pelo destinatário.
 
-É possível solicitar mais de um anexo, clicando no ícone “Adicionar”.
+É possível solicitar mais de um anexo, clicando no ícone **“Adicionar”.**
 
-<figure><img src="../.gitbook/assets/novodocumento30.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot_4.png" alt=""><figcaption></figcaption></figure>
 
 Clicando em “Descartar”, o fluxo será excluído. Clicando em “Concluir Mais Tarde” o fluxo será salvo na pasta de Rascunhos. Para editar o documento ou os destinatários, clique em “Voltar Etapa Anterior”. Finalizada a configuração da Etapa 2, clique em “Enviar” para enviar o documento para assinatura dos destinatários.
 

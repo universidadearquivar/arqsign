@@ -104,7 +104,7 @@ Na tela principal são apresentadas as informações de todos os certificados ca
 
 Para realizar o upload de um certificado, o usuário deve clicar no ícone “Novo”, fazer a importação do arquivo do certificado, definir um nome e informar sua senha do certificado.
 
-<figure><img src="../.gitbook/assets/perfil14.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot_5.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 ***
 

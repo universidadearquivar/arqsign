@@ -56,6 +56,7 @@
     * [✔ PATCH/api/v1/processo/{idProcesso}/reenviar-processo](administracao/integracoes/detalhes-dos-metodos/patch-api-v1-processo-idprocesso-reenviar-processo.md)
     * [✔ PATCH/api/v1/processo/{idProcesso}/cancelar-processo](administracao/integracoes/detalhes-dos-metodos/patch-api-v1-processo-idprocesso-cancelar-processo.md)
   * [🟪 Tela Menu Integrações](administracao/integracoes/tela-menu-integracoes.md)
+  * [🟪 Histórico de alterações da API](administracao/integracoes/historico-de-alteracoes-da-api.md)
 
 ## NOVIDADES DO ARQSIGN
 

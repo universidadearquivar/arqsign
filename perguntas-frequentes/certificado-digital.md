@@ -214,15 +214,13 @@ Juridicamente, entre entes privados, qualquer documento pode ser assinado eletro
 
 <summary>Como importar/fazer upload do meu Certificado ICP-Brasil Tipo A1 para plataforma?</summary>
 
-Acesse a sua conta na Plataforma ArqSign
-
-1. Clique no Menu Perfil que fica no canto superior direito da Plataforma.
-2. Clique na aba Certificado digital
-3. Clique no botão +
-4. Escolha o arquivo do Certificado ICP-Brasil tipo A1
-5. Insira um nome para o Certificado
-6. Insira a senha do Certificado
-
-Quando você for assinar um documento com um Certificado ICP-Brasil, basta escolher esse certificado e colocar a senha do mesmo.
+1. Acesse a sua conta na Plataforma ArqSign.
+2. Clique no Menu Perfil que fica no canto superior direito da Plataforma.
+3. Clique na aba Certificado digital.
+4. Clique no botão +
+5. Escolha o arquivo do Certificado ICP-Brasil tipo A1 com extensão P12 ou PFX.
+6. Insira um nome de identificação para o Certificado.
+7. Insira a senha do Certificado.
+8. Quando você for assinar um documento com um Certificado ICP-Brasil, basta escolher esse certificado e colocar sua a senha.
 
 </details>

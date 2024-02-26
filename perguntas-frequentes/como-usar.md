@@ -1104,18 +1104,21 @@ Se você não tem uma conta ArqSign, não se preocupe. Quando todas as assinatur
 
 <summary>Como configurar a sua assinatura, representação visual de sua assinatura?</summary>
 
-1. No canto superior direito clique sobre sua foto ou espaço para foto;
-2. Clique em Meu perfil;
-3. Clique em Estilo assinatura;
-4. Clique em editar;
-5. Configure a representação visual de sua assinatura para os estilos:
+No canto superior direito clique sobre sua foto ou espaço para foto;
+
+Clique em Meu perfil;
+
+Clique em Estilo assinatura;
+
+Clique em editar;
+
+Configure a representação visual de sua assinatura para os estilos:
 
 * Padrão – Digitação de sua assinatura;
-* Desenho – Desenho de sua assinatura;&#x20;
-* Imagem – Upload de imagem com sua assinatura.&#x20;
-* e clique em ‘’Assinatura’’ para escolher uma assinatura padrão.&#x20;
+* Desenho – Desenho de sua assinatura;
+* Imagem – Upload de imagem com sua assinatura.
 
-Clique em Salvar.&#x20;
+Clique em Salvar.
 
 Sempre que você for assinar um documento os estilos salvos serão exibidos para sua escolha.
 
@@ -1157,7 +1160,7 @@ Entenda em detalhes cada um dos itens personalizáveis:&#x20;
 
 <summary>Como habilitar e desabilitar a renovação automática do plano?</summary>
 
-Durante a vigência do plano o cliente pode habilitar ou desabilitar a renovação automática do plano. Para isso acesse: [Administração > Conta > Faturamento e Uso](../administracao/administracao/conta.md#aba-faturamento-e-uso).
+Durante a vigência do plano o cliente pode habilitar ou desabilitar a renovação automática do plano. Para isso acesse: [Administração > Conta > Faturamento e Uso > Renovação Automática](../administracao/administracao/conta.md#aba-faturamento-e-uso).&#x20;
 
 </details>
 
@@ -1265,19 +1268,23 @@ Quando chegar a data definida para vencimento do documento, renovação ou reaju
 
 <summary>Como cadastrar um usuário?</summary>
 
-* Acesse o menu de [Administração > Usuários](../administracao/administracao/usuarios.md) e clique no botão com sinal de +.
-* Crie um código de 1° acesso para o seu convidado com 4 números. Exemplo: os 3 primeiros dígitos do CPF (você deverá informá-lo ao convidado);&#x20;
-* Insira o e-mail do convidado;&#x20;
-* Defina o perfil do usuário escolhendo entre:
+Acesse o menu de [Administração > Usuários](../administracao/administracao/usuarios.md) e clique no botão com sinal de +.
+
+Insira o e-mail do novo usuário;
+
+Defina o perfil do usuário escolhendo entre:
 
 a) Administrador Global (acesso a todas as funcionalidades – envio, recebimento, assinatura de documentos, criação e definição de acesso para usuários e diretórios, compra de adicionais, alteração de plano)
 
-ou&#x20;
+ou
 
-b) Remetente de Documentos (apenas envia e assina documentos).&#x20;
+b) Remetente de Documentos (apenas envia e assina documentos).
 
-* Clique em Salvar.&#x20;
-* Ao incluir o usuário, será enviado uma mensagem de confirmação no e-mail informado para conclusão do cadastro. O código de segurança do 1º acesso será exigido neste processo.
+Clique em Salvar.
+
+Ao incluir o usuário, será enviado uma mensagem de confirmação no e-mail informado para conclusão do cadastro.
+
+Ao criar um usuário com o perfil Remetente de documentos, o ideal é já definir a que grupo de usuários esse usuário pertence. Saiba mais sobre Grupo de Usuários [clicando aqui.](../administracao/administracao/grupo-de-usuarios.md)
 
 </details>
 
@@ -1285,18 +1292,14 @@ b) Remetente de Documentos (apenas envia e assina documentos).&#x20;
 
 <summary>Como importar/fazer upload do meu Certificado ICP-Brasil Tipo A1 para plataforma?</summary>
 
-Acesse a sua conta na Plataforma ArqSign
-
-1. Clique no Menu Perfil que fica no canto superior direito da Plataforma.
-2. Clique na aba Certificado digital
-3. Clique no botão +
-4. Escolha o arquivo do Certificado ICP-Brasil tipo A1
-5. Insira um nome para o Certificado
-6. Insira a senha do Certificado
-
-Quando você for assinar um documento com um Certificado ICP-Brasil, basta escolher esse certificado e colocar a senha do mesmo.
-
-[Clique aqui](https://youtu.be/QHMwlnKg20s) e assista ao vídeo explicativo.
+1. Acesse a sua conta na Plataforma ArqSign.
+2. Clique no Menu Perfil que fica no canto superior direito da Plataforma.
+3. Clique na aba Certificado digital.
+4. Clique no botão +
+5. Escolha o arquivo do Certificado ICP-Brasil tipo A1 com extensão P12 ou PFX.
+6. Insira um nome de identificação para o Certificado.
+7. Insira a senha do Certificado.
+8. Quando você for assinar um documento com um Certificado ICP-Brasil, basta escolher esse certificado e colocar sua a senha.
 
 </details>
 

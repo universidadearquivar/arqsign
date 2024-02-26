@@ -6,17 +6,16 @@
 
 <summary>Como consultar se um documento eletrônico ou digital tem validade jurídica?</summary>
 
-Para verificar se um documento eletrônico ou digital tem validade jurídica conforme os requisitos do ITI, basta seguir os passos abaixo:&#x20;
+Para verificar se um documento eletrônico ou digital tem validade jurídica conforme os requisitos do ITI, basta seguir os passos abaixo: &#x20;
 
-1. Acesse o endereço: [https://verificador.iti.gov.br/verifier-2.9-59/](https://verificador.iti.gov.br/verifier-2.9-59/);&#x20;
-2. Aceite os termos de responsabilidade e de uso do Verificador de Conformidade;&#x20;
-3. Clique em “Selecionar assinatura” e inclua o arquivo a ser analisado;&#x20;
+1. Acesse o endereço: [https://validar.iti.gov.br/](https://validar.iti.gov.br/); &#x20;
+2. Clique em “Escolher Arquivo” e faça o upload do arquivo que você quer validar;&#x20;
+3. Concorde com os termos de uso e política de privacidade do Portal Validar ITI;
+4. Clique em Validar.
 
-Caso o arquivo não contenha nenhuma assinatura aprovada, a seguinte mensagem é apresentada: “Pelo menos uma assinatura não pertence à ICP-Brasil. Por favor, selecione assinaturas válidas.”&#x20;
+Caso o arquivo não contenha nenhuma assinatura aplicada ou contenha assinatura não reconhecida ou corrompida a seguinte mensagem é apresentada: “Aviso - Você submeteu um documento sem assinatura reconhecível ou com assinatura corrompida.” &#x20;
 
-Caso o arquivo contenha pelo menos uma assinatura válida o botão “Verificar conformidade” será habilitado;&#x20;
-
-&#x20;Clique no botão “Verificar conformidade” e um relatório será apresentado com o detalhamento de cada assinatura e sua validade.&#x20;
+Caso o arquivo contenha assinatura válida a seguinte mensagem é apresentada: “Documento com assinaturas válidas”. Um relatório será apresentado com o detalhamento de cada assinatura e sua validade.&#x20;
 
 </details>
 

@@ -610,23 +610,19 @@ O passo a passo para adicionar a extensão ao seu navegador e o módulo desktop 
 
 <summary>Como adicionar a extensão ArqSign no navegador FireFox?</summary>
 
-1\) Quando um signatário de um documento que exige um certificado digital, seja ICP-Brasil ou outro qualquer, clicar no botão Assinar e Concluir, será aberta a modal para seleção de qual certificado será utilizado para assinar o documento.
+Quando um signatário de um documento que exige um certificado digital, seja ICP-Brasil ou outro qualquer, aplicar sua representação visual e clicar no botão Avançar, será exibida uma mensagem informando que para assinar o documento com Certificado Digital instalado no computador é necessário adicionar a extensão no seu navegador e na sequência instalar o módulo desktop. O processo é simples. Basta clicar no link exibido e seguir o passo a passo abaixo para efetuar essas
 
-2\) Nesta modal, existem duas seções, uma referente aos certificados que foram inseridos na ArqSign e estão salvos na nuvem e outra referente aos certificados salvos no computador de quem está assinando o documento. Nesta segunda seção, caso o módulo desktop e o plugin da ArqSign para o navegador não estejam instalados ainda, terá um link disponível para instalação.
+1. Ao clicar no link, duas ações serão executadas ao mesmo tempo, a primeira é o download do instalador do Módulo Desktop (No Firefox é solicitada uma confirmação para iniciar o download). Deve-se aguardar o download ser concluído e seguir os passos do Tutorial Instalação Módulo Desktop.
+2. A outra ação é a abertura de uma nova aba no navegador, na Firefox Browser Add-ons, com o plugin da ArqSign.
+3. Ao clicar no botão Adicionar ao Firefox, será aberta uma notificação para a confirmação da adição da extensão no navegador.
+4. Ao clicar em Adicionar, aparecerá uma notificação informando que a extensão foi adicionada ao navegador. Após isto, a aba do Firefox Browser Add-ons pode ser fechada.
+5. Após a adição do plugin no navegador, caso o Módulo Desktop ainda não tenha sido instalado, a aplicação ainda indicará um link para download do mesmo.
+6. Com as duas instalações concluídas, a modal será atualizada, listando os certificados salvos no computador do usuário.
+7. No Windows, ao clicar no botão Concluir, pode ser solicitada a permissão para que o plugin acesse os certificados, neste ponto, deve-se clicar em Permitir para liberar a utilização dos certificados digitais.
 
-3\) Ao clicar no link, duas ações serão executadas ao mesmo tempo, a primeira é o download do instalador do Módulo Desktop (No Firefox é solicitada uma confirmação para iniciar o download). Deve-se aguardar o download ser concluído e seguir os passos do Tutorial Instalação Módulo Desktop.
+Caso a extensão e o módulo desktop já tenham sido instalados essa ação não será requerida novamente.
 
-4\) A outra ação é a abertura de uma nova aba no navegador, na Firefox Browser Add-ons, com o plugin da ArqSign.
-
-5\) Ao clicar no botão Adicionar ao Firefox, será aberta uma notificação para a confirmação da adição da extensão no navegador.
-
-6\) Ao clicar em Adicionar, aparecerá uma notificação informando que a extensão foi adicionada ao navegador. Após isto, a aba do Firefox Browser Add-ons pode ser fechada.
-
-7\) Após a adição do plugin no navegador, caso o Módulo Desktop ainda não tenha sido instalado, a aplicação ainda indicará um link para download do mesmo.
-
-8\) Com as duas instalações concluídas, a modal será atualizada, listando os certificados salvos no computador do usuário.
-
-9\) No Windows, ao clicar no botão Concluir, pode ser solicitada a permissão para que o plugin acesse os certificados, neste ponto, deve-se clicar em Permitir para liberar a utilização dos certificados digitais.
+Caso o signatário tenha Certificados Digitais salvos na plataforma ArqSign, eles serão exibidos. Para utilizá-los basta selecionar e seguir os próximos passos não necessitando da instalação da extensão e módulo.
 
 </details>
 
@@ -634,39 +630,21 @@ O passo a passo para adicionar a extensão ao seu navegador e o módulo desktop 
 
 <summary>Como adicionar a extensão ArqSign Certificado Digital no navegador Edge?</summary>
 
-1\) Quando um signatário de um documento que exige um certificado digital, seja ICP-Brasil ou outro qualquer, clicar no botão Assinar e Concluir, será aberto um pop-up para seleção de qual certificado será utilizado para assinar o documento.
+Quando um signatário de um documento que exige um certificado digital, seja ICP-Brasil ou outro qualquer, aplicar sua representação visual e clicar no botão Avançar, será exibida uma mensagem informando que para assinar o documento com Certificado Digital instalado no computador é necessário adicionar a extensão no seu navegador e na sequência instalar o módulo desktop. O processo é simples. Basta clicar no link exibido e seguir o passo a passo:
 
-2\) Neste pop-up, existem duas seções: uma referente aos certificados que foram inseridos na ArqSign e estão salvos na nuvem e outra referente aos certificados salvos no computador de quem está assinando o documento. Nesta segunda seção, caso o módulo desktop e o plugin da ArqSign para o navegador não estejam instalados ainda, terá um link disponível para instalação.
+1. No Microsoft Edge, ao clicar no link disponível, pode acontecer o bloqueio de pop-up.
+2. Caso isto aconteça, deve-se clicar no ícone de bloqueio de pop-ups, ao lado do URL da página.
+3. Ao clicar no ícone, deve-se permitir pop-ups para a página da ArqSign.
+4. Após o desbloqueio dos pop-ups, deve-se clicar no link disponível novamente. Ao clicar no link, duas ações serão executadas ao mesmo tempo, a primeira é o download do instalador do Módulo Desktop. Deve-se aguardar o download ser concluído e seguir os passos do Tutorial Instalação Módulo Desktop. A segunda é a abertura de uma aba da Microsoft Store com o plugin da ArqSign.
+5. Ao clicar no botão Obter, será aberta uma notificação para a confirmação da adição da extensão no navegador.
+6. Ao clicar em Adicionar extensão, aparecerá uma notificação informando que a extensão foi adicionada ao navegador. Após isto, a aba do Microsoft Store pode ser fechada.
+7. Após a adição do plugin no navegador, caso o Módulo Desktop ainda não tenha sido instalado, a aplicação ainda indicará um link para download dele.
+8. Com as duas instalações concluídas, a modal será atualizada, listando os certificados salvos no computador do usuário.
+9. No Windows, ao clicar no botão Concluir, pode ser solicitada a permissão para que o plugin acesse os certificados, neste ponto, deve-se clicar em Permitir para liberar a utilização dos certificados digitais.
 
-3\) No Microsoft Edge, ao clicar no link disponível, pode acontecer o bloqueio de pop-up.
+Caso a extensão e o módulo desktop já tenham sido instalados essa ação não será requerida novamente.
 
-4\) Caso isto aconteça, deve-se clicar no ícone de bloqueio de pop-ups, ao lado do URL da página.
-
-5\) Ao clicar no ícone, deve-se permitir pop-ups para a página da ArqSign.
-
-6\) Após o desbloqueio dos pop-ups, deve-se clicar no link disponível novamente. Ao clicar no link, duas ações serão executadas ao mesmo tempo, a primeira é o download do instalador do Módulo Desktop. Deve-se aguardar o download ser concluído e seguir os passos do Tutorial Instalação Módulo Desktop. A segunda é a abertura de uma aba da Microsoft Store com o plugin da ArqSign.
-
-7\) Ao clicar no botão Obter, será aberta uma notificação para a confirmação da adição da extensão no navegador.
-
-8\) Ao clicar em Adicionar extensão, aparecerá uma notificação informando que a extensão foi adicionada ao navegador. Após isto, a aba do Microsoft Store pode ser fechada.
-
-9\) Após a adição do plugin no navegador, caso o Módulo Desktop ainda não tenha sido instalado, a aplicação ainda indicará um link para download dele.
-
-10\) Com as duas instalações concluídas, a modal será atualizada, listando os certificados salvos no computador do usuário.
-
-11\) No Windows, ao clicar no botão Concluir, pode ser solicitada a permissão para que o plugin acesse os certificados, neste ponto, deve-se clicar em Permitir para liberar a utilização dos certificados digitais.
-
-
-
-Quando um signatário de um documento que exige um certificado digital, seja ICP-Brasil ou outro qualquer, aplicar sua representação visual e clicar no botão Avançar, será exibida uma mensagem informando que para assinar o documento com Certificado Digital instalado no computador é necessário adicionar a extensão no seu navegador e na sequência instalar o módulo desktop. O processo é simples. Basta clicar no link exibido e seguir o passo a passo:&#x20;
-
-11. No Microsoft Edge, ao clicar no link disponível, pode acontecer o bloqueio de pop-up.&#x20;
-
-Caso a extensão e o módulo desktop já tenham sido instalados essa ação não será requerida novamente.&#x20;
-
-&#x20;
-
-Caso o signatário tenha Certificados Digitais salvos na plataforma ArqSign, eles serão exibidos. Para utilizá-los basta selecionar e seguir os próximos passos não necessitando da instalação da extensão e módulo.&#x20;
+Caso o signatário tenha Certificados Digitais salvos na plataforma ArqSign, eles serão exibidos. Para utilizá-los basta selecionar e seguir os próximos passos não necessitando da instalação da extensão e módulo.
 
 </details>
 
@@ -674,7 +652,7 @@ Caso o signatário tenha Certificados Digitais salvos na plataforma ArqSign, ele
 
 <summary>Como adicionar a extensão ArqSign Certificado Digital no navegador Chrome?</summary>
 
-Caso você vá assinar um documento com um Certificado ICP-Brasil A3 por exemplo que está instalado em sua máquina, ao clicar em “Assinar e concluir” será apresentado um pop-up com instruções para adição da extensão ArqSign no Chrome e para instalação do módulo desktop. Siga os passos abaixo para efetuar essas configurações:
+Quando um signatário de um documento que exige um certificado digital, seja ICP-Brasil ou outro qualquer, aplicar sua representação visual e clicar no botão Avançar, será exibida uma mensagem informando que para assinar o documento com Certificado Digital instalado no computador é necessário adicionar a extensão no seu navegador e na sequência instalar o módulo desktop. O processo é simples. Basta clicar no link exibido e seguir o passo a passo abaixo para efetuar essas configurações:
 
 1. Clique no link indicado para abrir a loja no navegador;
 2. A extensão ArqSign Certificado Digital será exibida;
@@ -692,6 +670,10 @@ Caso você vá assinar um documento com um Certificado ICP-Brasil A3 por exemplo
 14. O pop-up será atualizado e solicitará que você escolha o certificado digital que deseja utilizar;
 15. Escolha o certificado e siga com a assinatura;
 16. No Windows, ao clicar no botão Concluir, pode ser solicitada a permissão para que o plugin acesse os certificados. Clique em “Permitir “para liberar a utilização dos certificados digitais.
+
+Caso a extensão e o módulo desktop já tenham sido instalados essa ação não será requerida novamente.
+
+Caso o signatário tenha Certificados Digitais salvos na plataforma ArqSign, eles serão exibidos. Para utilizá-los basta selecionar e seguir os próximos passos não necessitando da instalação da extensão e módulo.
 
 </details>
 
@@ -736,19 +718,25 @@ Os passos para alteração são:&#x20;
 
 <summary>Como configurar a assinatura para Pessoa Física/CPF ou Pessoa Jurídica/CNPJ?</summary>
 
-Na plataforma ArqSign, você pode escolher se o documento será assinado por uma Pessoa física ou jurídica. &#x20;
+Na plataforma ArqSign, você pode escolher se o documento será assinado por uma Pessoa física ou jurídica.
 
-Para isso, o remetente deve escolher o tipo de assinatura durante o processo de configuração do fluxo conforme abaixo:&#x20;
+Para isso, o remetente deve escolher o tipo de assinatura durante o processo de configuração do fluxo conforme abaixo:
 
-1. Depois de fazer o upload do documento e configurar os remetentes, avance para a etapa final;&#x20;
-2. Selecione o destinatário que quer configurar na caixa de seleção disponível na parte superior da tela;&#x20;
-3. No menu lateral direito em “Campos de assinatura” escolha o tipo de assinatura entre “Assinar como Pessoa Física” ou “Assinar como Pessoa Jurídica”;&#x20;
+1. Faça o Upload do documento e suas configurações se necessário;
+2. Insira o destinatário
+3. No Campo “Este destinatário irá:” marque as opções de como o destinatário atuará:
 
-Se você escolher assinar como pessoa física, as informações complementares de assinatura solicitadas serão do tipo pessoa física: Nome, Documento (CPF, CNH, RG ou outro);&#x20;
+* Assinar Online como Pessoa Física
+* Assinar Online como Pessoa Jurídica
+* Receber uma cópia
 
-Se você escolher assinar como pessoa jurídica, as informações complementares de assinatura solicitadas serão do tipo pessoa jurídica: Razão Social, Documento (CNPJ ou outro);&#x20;
+Um destinatário por assinar durante o mesmo processo como Pessoa Física e Jurídica.
 
-Tanto para assinatura de pessoa física ou jurídica, você pode solicitar outro documento que não os listados. Para isso, basta clicar na opção outro e digitar nos campos abaixo o nome do documento, tipo de campo (texto ou numérico e quantidade de caracteres do campo).&#x20;
+Ao finalizar a configuração dos destinatários clique em Avançar
+
+Se você for posicionar as assinaturas, deverá posicionar a assinatura de Pessoa Física e Jurídica para o destinatário que você configurou para assinar com estes dois tipos de assinatura.
+
+Caso você escolha a opção de posicionamento automático de assinaturas, a própria plataforma vai posicionar todas as assinaturas automaticamente.&#x20;
 
 </details>
 
@@ -756,21 +744,19 @@ Tanto para assinatura de pessoa física ou jurídica, você pode solicitar outro
 
 <summary>Como assinar um documento na Plataforma ArqSign quando a solicitação para assinatura é enviada por WhatsApp?</summary>
 
-Se um documento foi enviado para sua assinatura pela Plataforma ArqSign por WhatsApp, você receberá uma mensagem com o nome do remetente que pode ser aberta no aplicativo do seu celular ou WhatsApp Web.
+Se um documento foi enviado para sua assinatura pela Plataforma ArqSign por WhatsApp, você receberá uma mensagem com o nome do remetente que pode ser aberta no aplicativo do seu celular ou WhatsApp Web.&#x20;
 
-1. Caso seja a primeira vez que você interage com o remetente pelo WhatsApp, vá ao final da mensagem e adicione aos seus contatos para habilitar todos os links da mensagem.
-2. Clique no link presente na mensagem e você terá acesso ao documento para leitura.
-3. Após a leitura, basta clicar sobre a área para inserir a assinatura que pode ser feita através de um desenho, escrita ou upload de uma imagem da assinatura.
-4. Depois, caso tenha sido solicitado, insira os outros dados e anexos e clique na caixa  para validar o Termo de aceite para assinatura eletrônica.
-5. Para finalizar, basta clicar em “Assinar e concluir”.
+Caso seja a primeira vez que você interage com o remetente pelo WhatsApp, vá ao final da mensagem e adicione aos seus contatos para habilitar todos os links da mensagem.&#x20;
 
-Se você não tiver uma conta ArqSign, será convidado a criar uma conta para armazenar esse e outros documentos assinados através da plataforma e ainda testar grátis por 15 dias.
+Clique no link presente na mensagem e você terá acesso ao documento para leitura.&#x20;
 
-Quando todos os destinatários assinarem, todos receberão um e-mail ou WhatsApp com o documento assinado por todas as partes.
+Após a leitura, basta clicar em Assinar. Preencha os dados se solicitado. Anexe documentos se solicitado. Aplique sua representação visual e clique em Concluir.&#x20;
+
+Se você não tiver uma conta ArqSign, será convidado a criar uma conta para armazenar esse e outros documentos assinados através da plataforma e ainda testar grátis por 15 dias.&#x20;
+
+Quando todos os destinatários assinarem, todos receberão um e-mail ou WhatsApp com o documento assinado por todas as partes.&#x20;
 
 Além disso, todos os destinatários que tiverem uma Conta ArqSign grátis ou paga, receberão uma cópia na caixa de entrada da aplicação e poderão fazer a gestão deste documento na plataforma.
-
-Veja o passo a passo [acessando aqui](https://youtu.be/RoCxNBNKfjI) um vídeo expicativo.&#x20;
 
 </details>
 
@@ -778,19 +764,19 @@ Veja o passo a passo [acessando aqui](https://youtu.be/RoCxNBNKfjI) um vídeo ex
 
 <summary>Como assinar um documento na Plataforma ArqSign quando a solicitação para assinatura é enviada por e-mail?</summary>
 
-Ao receber um documento por e-mail solicitando sua assinatura, ele conterá o nome do remetente e no título terá o nome do documento a ser assinado.  Caso não localize o e-mail em sua caixa de entrada, verifique na Caixa de Spam ou promoções.
+Ao receber um documento por e-mail solicitando sua assinatura, ele conterá o nome do remetente e no título terá o nome do documento a ser assinado. Caso não localize o e-mail em sua caixa de entrada, verifique na Caixa de Spam ou promoções.&#x20;
 
-1. Abra o e-mail.  (Lembrando que a plataforma pode ser acessada de qualquer dispositivo – computador, tablet ou celular)
-2. Clique em “Assinar Documento” e você terá acesso ao documento para leitura.
-3. Após a leitura, basta clicar sobre a área para inserir a assinatura que pode ser feita através de um desenho, escrita ou upload de uma imagem da assinatura.
-4. Depois, caso tenha sido solicitado, insira outros dados e anexos e clique na caixa para validar o Termo de aceite para assinatura eletrônica.
-5. Para finalizar, basta clicar em “Assinar e concluir”.
+Abra o e-mail. (Lembrando que a plataforma pode ser acessada de qualquer dispositivo – computador, tablet ou celular)&#x20;
 
-Se você não tiver uma conta ArqSign, será convidado a criar uma conta para armazenar esse e outros documentos assinados através da plataforma e ainda  testar grátis por 15 dias.
+Clique em “Assinar Documento” e você terá acesso ao documento para leitura.&#x20;
 
-Quando todos os destinatários assinarem, todos receberão um e-mail ou WhatsApp com o documento assinado por todas as partes.
+Após a leitura, basta clicar em Assinar. Preencha os dados se solicitado. Anexe documentos se solicitado. Aplique sua representação visual e clique em Concluir.&#x20;
 
-Além disso, todos os destinatários que tiverem uma Conta Arqsign grátis ou paga, receberão uma cópia na caixa de entrada da aplicação e poderão fazer a gestão deste documento na plataforma.
+Se você não tiver uma conta ArqSign, será convidado a criar uma conta para armazenar esse e outros documentos assinados através da plataforma e ainda testar grátis por 15 dias.&#x20;
+
+Quando todos os destinatários assinarem, todos receberão um e-mail ou WhatsApp com o documento assinado por todas as partes.&#x20;
+
+Além disso, todos os destinatários que tiverem uma Conta Arqsign grátis ou paga, receberão uma cópia na caixa de entrada da aplicação e poderão fazer a gestão deste documento na plataforma.&#x20;
 
 </details>
 

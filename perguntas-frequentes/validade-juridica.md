@@ -2,26 +2,6 @@
 
 <details>
 
-<summary>Qual a diferença entre os portais do ITI?</summary>
-
-
-
-01 – Portal: [https://verificador.iti.gov.br/verifier-2.11/](https://verificador.iti.gov.br/verifier-2.11/)&#x20;
-
-Objetivo deste portal: validar se um arquivo assinado com certificado ICP-Brasil está em conformidade com a Resolução CG ICP-Brasil n° 182, de 18 de fevereiro de 2021 (DOC-ICP-15). Validar também a conformidade de assinaturas eletrônicas avançadas providas no âmbito da Plataforma gov.br.&#x20;
-
-02 – Portal: [https://assinaturadigital.iti.gov.br/](https://assinaturadigital.iti.gov.br/) &#x20;
-
-Objetivo deste portal: validar a assinatura digital do profissional de saúde em uma prescrição ou atestado de afastamento, bem como enviar consulta à base de dados dos Conselhos para que estes confirmem o registro do profissional através dos bancos de dados sob suas responsabilidades.&#x20;
-
-&#x20;03 – Portal: [https://validar.iti.gov.br/](https://validar.iti.gov.br/)&#x20;
-
-&#x20;Este portal é a junção dos dois anteriores.&#x20;
-
-</details>
-
-<details>
-
 <summary>Qual legislação regulamenta a assinatura eletrônica no Brasil? </summary>
 
 A medida provisória MP 2.200-2 de 2001 é a primeira e principal lei brasileira que regula a assinatura eletrônica.&#x20;

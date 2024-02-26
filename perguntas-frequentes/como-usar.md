@@ -1,6 +1,22 @@
 # 🟪 Como Usar
 
-Descubra como é fácil e prático utilizar a ArqSign para assinar seus documentos. Com apenas alguns cliques você concluí com êxito uma tarefa que antes era demorada e muitas vezes burocrática.
+Localizar um documento na Plataforma ArqSign é super prático, basta seguir as instruções abaixo:&#x20;
+
+Primeiro, encontre a Caixa onde o documento está localizado. Todas as caixas (Caixa de entrada, Enviados, Rascunhos, Excluídos, Renovações) têm a funcionalidade de pesquisa, que aparece como “Filtrar”. &#x20;
+
+Clique no campo “Filtrar”. &#x20;
+
+As opções de pesquisa serão exibidas. &#x20;
+
+Insira as informações de pesquisa nos campos desejados, como o nome do signatário, status, pasta do documento ou data de conclusão. &#x20;
+
+Clique em “Filtrar”. &#x20;
+
+Todos os documentos correspondentes às informações inseridas nos filtros serão exibidos. &#x20;
+
+Para cancelar o filtro, basta clicar no “X” que aparece no canto direito do campo “Filtrar”. &#x20;
+
+Vi como é fácil? Agora você pode localizar seus documentos na Plataforma ArqSign de forma rápida e eficiente!  Descubra como é fácil e prático utilizar a ArqSign para assinar seus documentos. Com apenas alguns cliques você concluí com êxito uma tarefa que antes era demorada e muitas vezes burocrática.
 
 <details>
 
@@ -62,19 +78,16 @@ Do lado esquerdo da tela temos todos os menus disponíveis, separados por grupos
 
 <summary>Como assinar documentos pela plataforma ArqSign?</summary>
 
-Se você recebeu um documento para assinatura, clique no link de acesso ao documento disponível na mensagem que recebeu ou se você tem uma conta ArqSign pode acessar o documento através de sua Caixa de entrada clicando em Assinar.&#x20;
+Se você recebeu um documento para assinatura, clique no link de acesso ao documento disponível na mensagem que recebeu ou se você tem uma conta ArqSign pode acessar o documento através de sua Caixa de entrada clicando em Assinar. &#x20;
 
-O documento será exibido para leitura. Após a leitura, clique sobre o espaço reservado para a representação visual de sua assinatura e aplique um dos estilos de assinatura: Padrão (seu nome escrito), Desenho (assinatura manuscrita) ou Imagem (upload da imagem/foto de sua assinatura).&#x20;
+1. O documento será exibido para leitura.&#x20;
+2. Após a leitura, clique em Assinar.&#x20;
+3. Caso solicitado, preencha seus dados como Nome e documento. &#x20;
+4. Caso solicitado, anexe documento.&#x20;
+5. Aplique a representação visual de sua assinatura com um dos estilos de assinatura: Padrão (seu nome escrito), Desenho (assinatura manuscrita) ou Imagem (upload da imagem/foto de sua assinatura). &#x20;
+6. Clique em Concluir&#x20;
 
-Caso solicitado, preencha seus dados como Nome e documento.&#x20;
-
-Caso solicitado, anexe documento.
-
-Caso seja a primeira vez que está assinando um documento digital pela Plataforma ArqSign, dê um aceite para assinatura digital.&#x20;
-
-Clique em “Assinar e Concluir”.&#x20;
-
-[Clique aqui e confira como realizar a assinatura de documentos por meio da plataforma ArqSign](../menu-superior/assinatura-de-documentos.md) ou [clique aqui e assista ao vídeo explicativo.](https://youtu.be/UldRazxhmYY)
+[Clique aqui e confira como realizar a assinatura de documentos por meio da plataforma ArqSign.](../menu-superior/assinatura-de-documentos.md)
 
 </details>
 
@@ -88,7 +101,7 @@ Clique em “Assinar e Concluir”.&#x20;
 
 <details>
 
-<summary>Como configurar a assinatura?</summary>
+<summary>Como configurar seu perfil?</summary>
 
 1. Acesse a plataforma de Assinatura e configure a sua Assinatura Eletrônica.
 2. Depois de logado, clique sobre o seu nome no canto superior direito.
@@ -234,36 +247,42 @@ Para enviar um documento para assinatura para um contato salvo na Plataforma Arq
 
 <summary>Como salvar contatos na plataforma ArqSign?</summary>
 
-Para salvar contatos na Plataforma ArqSign siga os seguintes passos:
+Você pode salvar contatos na Plataforma ArqSign de duas formas.&#x20;
 
-1. Acesse o menu “Meu Perfil”
-2. Acesse a opção “Meus contatos”
-3. Para inserir um contato, clique no botão +, insira os dados, escolha se quer compartilhar o contato com todos os usuários da conta e clique em Salvar.
-4. Para que que todos os contatos para os quais você enviar um documento para assinatura a partir de agora sejam automaticamente salvos, habilite o botão “Salvar os destinatários de um documento enviado para assinatura em minha lista de contatos”.
+_Primeira forma:_&#x20;
 
-O Nome e o E-mail/WhatsApp do(s) destinatário(s) será(ão) salvo(s) como contato(s) do usuário na conta. Os contatos terão relação com a conta em que o usuário está logado. Ou seja, quando este usuário logar em outra conta, os contatos serão diferentes.
+Ao cadastrar um destinatário, mantenha o Checkbox “Salvar este destinatário em minha lista de contatos” marcado.&#x20;
 
-Regras:
+_Segunda forma:_&#x20;
 
-Não é permitido cadastrar contato com o mesmo E-mail de um contato já cadastrado que:
+1. Acesse o menu “Meu Perfil”&#x20;
+2. Acesse a opção “Meus contatos”&#x20;
+3. Para inserir um contato, clique no botão +, insira os dados, escolha se quer compartilhar o contato com todos os usuários da conta e clique em Salvar.&#x20;
+4. Para que que todos os contatos para os quais você enviar um documento para assinatura a partir de agora sejam automaticamente salvos, habilite o botão “Salvar os destinatários de um documento enviado para assinatura em minha lista de contatos”.&#x20;
 
-– Seja contado do usuário logado na conta, em questão.
+O Nome e o E-mail/WhatsApp do(s) destinatário(s) será(ão) salvo(s) como contato(s) do usuário na conta. Os contatos terão relação com a conta em que o usuário está logado. Ou seja, quando este usuário logar em outra conta, os contatos serão diferentes.&#x20;
 
-– Esteja relacionado a outros usuários ativos da conta logada e que estejam sendo compartilhado na conta.
+_Regras:_&#x20;
 
-Somente é permitido cadastrar contato do tipo e-mail com um e-mail válido.
+Não é permitido cadastrar contato com o mesmo E-mail de um contato já cadastrado que:&#x20;
 
-Não é permitido cadastrar contato com mesmo Telefone de um contato já cadastrado que:
+– Seja contado do usuário logado na conta, em questão.&#x20;
 
-– Seja contado do usuário logado na conta, em questão.
+– Esteja relacionado a outros usuários ativos da conta logada e que estejam sendo compartilhado na conta.&#x20;
 
-– Esteja relacionado a outros usuários ativos da conta logada e que estejam sendo compartilhado na conta.
+Somente é permitido cadastrar contato do tipo e-mail com um e-mail válido.&#x20;
 
-Somente é permitido cadastrar contato do WhatsApp com um número de telefone válido.
+Não é permitido cadastrar contato com mesmo Telefone de um contato já cadastrado que:&#x20;
 
-O campo “Compartilhar com todos os usuários da conta.” é de preenchimento opcional para o usuário informar se o contato que está sendo criado será compartilhado, ou não, com outros contatos da conta.&#x20;
+– Seja contado do usuário logado na conta, em questão.&#x20;
 
-Para entender melhor, clique no link e assista ao vídeo explicativo: [https://youtu.be/b73Cu1HCaWA](https://youtu.be/b73Cu1HCaWA)
+– Esteja relacionado a outros usuários ativos da conta logada e que estejam sendo compartilhado na conta.&#x20;
+
+Somente é permitido cadastrar contato do WhatsApp com um número de telefone válido.&#x20;
+
+O campo “Compartilhar com todos os usuários da conta.” é de preenchimento opcional para o usuário informar se o contato que está sendo criado será compartilhado, ou não, com outros contatos da conta. &#x20;
+
+Para entender melhor, [clique aqui ](https://www.youtube.com/watch?v=b73Cu1HCaWA)e assista ao vídeo explicativo.
 
 </details>
 
@@ -328,23 +347,23 @@ II. Assinatura Online – por qual signatário, data e hora, IP e Geolocalizaç�
 
 <summary>Como pesquisar um documento na plataforma ArqSign?</summary>
 
-Localizar um documento na na Plataforma ArqSign é super prático, basta seguir as instruções abaixo:
+Localizar um documento na Plataforma ArqSign é super prático, basta seguir as instruções abaixo:&#x20;
 
-Primeiro, encontre a Caixa onde o documento está localizado. Todas as caixas (Caixa de entrada, Enviados, Rascunhos, Excluídos, Renovações) têm a funcionalidade de pesquisa, que aparece como “Filtrar”.&#x20;
+Primeiro, encontre a Caixa onde o documento está localizado. Todas as caixas (Caixa de entrada, Enviados, Rascunhos, Excluídos, Renovações) têm a funcionalidade de pesquisa, que aparece como “Filtrar”. &#x20;
 
-Clique no campo “Filtrar”.&#x20;
+Clique no campo “Filtrar”. &#x20;
 
-As opções de pesquisa serão exibidas.&#x20;
+As opções de pesquisa serão exibidas. &#x20;
 
-Insira as informações de pesquisa nos campos desejados, como o nome do signatário, status, pasta do documento ou data de conclusão.&#x20;
+Insira as informações de pesquisa nos campos desejados, como o nome do signatário, status, pasta do documento ou data de conclusão. &#x20;
 
-Clique em “Filtrar”.&#x20;
+Clique em “Filtrar”. &#x20;
 
-Todos os documentos correspondentes às informações inseridas nos filtros serão exibidos.&#x20;
+Todos os documentos correspondentes às informações inseridas nos filtros serão exibidos. &#x20;
 
-Para cancelar o filtro, basta clicar no “X” que aparece no canto direito do campo “Filtrar”.&#x20;
+Para cancelar o filtro, basta clicar no “X” que aparece no canto direito do campo “Filtrar”. &#x20;
 
-Vi como é fácil? Agora você pode localizar seus documentos na Plataforma ArqSign de forma rápida e eficiente!&#x20;
+Vi como é fácil? Agora você pode localizar seus documentos na Plataforma ArqSign de forma rápida e eficiente! &#x20;
 
 </details>
 
@@ -394,12 +413,12 @@ Exemplo de notificação personalizada simulação:
 
 <details>
 
-<summary>Como configurar uma mensagem personalizada?</summary>
+<summary>Como configurar uma mensagem privada?</summary>
 
 1. Clique em ‘Novo Documento’
 2. Selecione o documento que deseja encaminhar e informe os dados do signatário como nome, e-mail etc.
-3. Abaixo dessas informações haverá um símbolo de ‘mensagem’ ![](https://cdn.arquivar.com.br/wp-content/uploads/2023/04/carta.jpg), onde ao clicar abrirá uma aba de mensagem personalizada.
-4. Na aba de mensagem personalizada é possível informar o assunto e a mensagem que deseja enviar somente para o signatário selecionado. Os demais signatários receberão a mensagem padrão.
+3. Abaixo dessas informações haverá um símbolo de ‘mensagem’ ![](https://cdn.arquivar.com.br/wp-content/uploads/2023/04/carta.jpg), onde ao clicar abrirá uma aba de mensagem privada.
+4. Na aba de mensagem privada é possível informar o assunto e a mensagem que deseja enviar somente para o signatário selecionado. Os demais signatários receberão a mensagem padrão.
 
 </details>
 
@@ -419,21 +438,33 @@ Exemplo de notificação personalizada simulação:
 
 <summary>Como solicitar anexos e selfie?</summary>
 
-1. Clique em ‘Novo Documento’
-2. Selecione o documento que deseja encaminhar e configure os destinatários e avance
-3. Configure o campo de assinatura do destinatário, caso deseje solicite as informações complementares como Nome e Documento
-4. No canto direito role a tela e o menu de Anexos irá aparecer, selecione o checkbox para permitir que o signatário anexe um documento.
-5. Informe o documento que deseja que o signatário encaminhe e se deseja que o anexo seja obrigatório para a conclusão do processo de assinatura daquele documento.
-6. Você também pode configurar se permite que todos os signatários acessem o anexo ou não.
+Clique em ‘Novo Documento’.&#x20;
 
-Quando o destinatário receber o documento para assinar ele deverá proceder da seguinte forma:
+Selecione o documento que deseja encaminhar, configure os destinatários e avance.&#x20;
 
-1. Assinar o documento e preencher dados solicitados;
-2. Clicar na solicitação de Selfie;
-3. Acessar a câmera do celular ou computador;
-4. Fazer a foto conforme solicitado;
-5. Escolher a foto como anexo;
-6. Clicar em “Assinar e concluir”.
+Configure o campo de assinatura do destinatário.&#x20;
+
+No canto direito, caso deseje, solicite as informações complementares como Nome e Documento e se necessário habilite o preenchimento obrigatório.&#x20;
+
+Se deseja solicitar Anexos como imagem de documentos ou selfie, habilite para solicitar que o signatário anexe um documento.&#x20;
+
+Informe o documento que deseja que o signatário anexe e se deseja que o anexo seja obrigatório para a conclusão do processo de assinatura daquele documento.&#x20;
+
+Você também pode configurar a permissão para que todos os signatários acessem o anexo ou não.&#x20;
+
+Quando o destinatário receber o documento para assinar ele deverá proceder da seguinte forma:&#x20;
+
+Assinar o documento e preencher dados solicitados;&#x20;
+
+Clicar na solicitação de Selfie;&#x20;
+
+Acessar a câmera do celular ou computador;&#x20;
+
+Fazer a foto conforme solicitado;&#x20;
+
+Escolher a foto como anexo;&#x20;
+
+Concluir a assinatura.&#x20;
 
 </details>
 
@@ -501,19 +532,21 @@ Você pode alterar o seu cartão de crédito para faturamento e compras na Plata
 
 <summary>Como configurar um documento para ser assinado com certificado digital (assinatura digital) ou sem certificado digital (assinatura eletrônica)?</summary>
 
-Na Plataforma Arqsign, ao configurar um fluxo de assinaturas você pode determinar qual tipo de assinatura deverá ser executada por destinatário escolhendo entre:
+Na Plataforma Arqsign, ao configurar um fluxo de assinaturas você pode determinar qual tipo de assinatura deverá ser executada por destinatário escolhendo entre:&#x20;
 
-**a) Assinatura eletrônica** (A ArqSign produz assinaturas eletrônicas avançadas com validade jurídica de acordo com MP 2.200-2 de 24/08/2001 e Lei 14.063 de 23/11/2020);
+**a) Assinatura eletrônica** (A ArqSign produz assinaturas eletrônicas avançadas com validade jurídica de acordo com MP 2.200-2 de 24/08/2001 e Lei 14.063 de 23/11/2020);&#x20;
 
-**b) Certificado digital – ICP-Brasil** (A ArqSign produz assinaturas digitais qualificadas de acordo com MP 2.200-2 de 24/08/2001 e Lei 14.063 de 23/11/2020);
+**b) Assinatura com Certificado digital do tipo ICP-Brasil** (A ArqSign produz assinaturas digitais qualificadas de acordo com MP 2.200-2 de 24/08/2001 e Lei 14.063 de 23/11/2020);&#x20;
 
-**c) Certificado digital – Outros** (A ArqSign produz assinaturas eletrônicas e digitais através de outros certificados).
+**c) Assinatura com Certificado digital Pessoal Todos os tipos** (A ArqSign produz assinaturas eletrônicas e digitais através de outros certificados).&#x20;
 
-Para determinar o tipo de assinatura siga o seguinte passo a passo:
+Para determinar o tipo de assinatura siga o seguinte passo a passo:&#x20;
 
-1. Após fazer o upload do documento e configurações necessárias para o documento, siga para a configuração dos destinatários;
-2. Ao configurar um destinatário, no campo “Tipo de assinatura” escolha uma das opções conforme descrição acima;
-3. Pronto! Agora é só configurar os demais destinatários e a posição de assinatura no documento e enviar.
+Após fazer o upload do documento e configurações necessárias para o documento, siga para a configuração dos destinatários;&#x20;
+
+Ao configurar um destinatário, no campo “Tipo de assinatura” escolha uma das opções conforme descrição acima;&#x20;
+
+Pronto! Agora é só configurar os demais destinatários e a posição de assinatura no documento e enviar.&#x20;
 
 </details>
 
@@ -521,30 +554,43 @@ Para determinar o tipo de assinatura siga o seguinte passo a passo:
 
 <summary>Como assinar um documento com Certificado Digital – ICP-Brasil?</summary>
 
-Na Plataforma ArqSign, o remetente de documentos pode determinar o tipo de assinatura que o destinatário deverá executar escolhendo entre uma das opções abaixo:
+Na Plataforma ArqSign, o remetente de documentos pode determinar o tipo de assinatura que o destinatário deverá executar escolhendo entre uma das opções abaixo:&#x20;
 
-**a) Assinatura eletrônica** (A ArqSign produz assinaturas eletrônicas avançadas com validade jurídica de acordo com MP 2.200-2 de 24/08/2001 e Lei 14.063 de 23/11/2020);
+**a) Assinatura eletrônica** (A ArqSign produz assinaturas eletrônicas avançadas com validade jurídica de acordo com MP 2.200-2 de 24/08/2001 e Lei 14.063 de 23/11/2020);&#x20;
 
-**b) Certificado digital – ICP-Brasil** (A ArqSign produz assinaturas digitais qualificadas de acordo com MP 2.200-2 de 24/08/2001 e Lei 14.063 de 23/11/2020);
+**b) Assinatura com Certificado Digital Pessoal do Tipo ICP-Brasil** (A ArqSign produz assinaturas digitais qualificadas de acordo com MP 2.200-2 de 24/08/2001 e Lei 14.063 de 23/11/2020);&#x20;
 
-**c) Certificado digital – Outros** (A ArqSign produz assinaturas eletrônicas e digitais através de outros certificados).
+**c) Assinatura com Certificado Digital Pessoal Todos os Tipos** (A ArqSign produz assinaturas eletrônicas e digitais através de outros certificados).&#x20;
 
-Se você recebeu um documento para assinar via Plataforma ArqSign e precisa assinar com Certificado Digital pela primeira vez, siga os seguintes passos:
+Se você recebeu um documento para assinar via Plataforma ArqSign e precisa assinar com Certificado Digital pela primeira vez, siga os seguintes passos:&#x20;
 
-* Abra o documento, leia e se aceitar, clique sobre o local destinado para assinatura;
-* Execute a assinatura no formato de sua preferência;
-* Preencha os dados solicitados;
-* Dê o ok no “Termo de aceite” para assinatura eletrônica;
-* Clique em “Assinar e concluir”;
-* Ao clicar em “Assinar e concluir”, aparecerá um pop-up informando que a assinatura solicitada deverá ser executada com certificado digital;
-* Selecione qual certificado será utilizado para assinar o documento através das opções: 1) Certificados que foram inseridos na ArqSign e estão salvos na nuvem e 2) Certificados salvos no computador de quem está assinando o documento.
+* Abra o documento, leia e se aceitar, clique em Assinar;&#x20;
+* Execute a assinatura no formato de sua preferência e clique em Avançar;&#x20;
+* Ao clicar em “Avançar”, você será informando que a assinatura solicitada deverá ser executada com certificado digital;&#x20;
+* Selecione qual certificado será utilizado para assinar o documento através das opções:&#x20;
+
+1\) Certificados que foram inseridos na ArqSign e estão salvos na nuvem e&#x20;
+
+2\) Certificados salvos no computador de quem está assinando o documento.&#x20;
 
 ![](<../.gitbook/assets/image (19).png>)
 
-* Para assinatura com Certificado inserido na Plataforma, clique na opção indicada;
-* Para assinatura com Certificado digital instalado em sua máquina você deverá seguir os passos indicados no pop-up para:
-  1. Adicionar a extensão ArqSign para seu navegador.
-  2. Instalar o módulo desktop.
+
+
+* Para assinatura com Certificado inserido na Plataforma, clique na opção indicada;&#x20;
+* Para assinatura com Certificado digital instalado em sua máquina você deverá seguir os passos indicados para:&#x20;
+
+1. Adicionar a extensão ArqSign para seu navegador;&#x20;
+2. Instalar o módulo desktop;&#x20;
+
+* Insira a senha do Certificado Digital e clique em Avançar&#x20;
+
+O passo a passo para adicionar a extensão ao seu navegador e o módulo desktop podem ser acessados abaixo:&#x20;
+
+* [Como adicionar extensão ArqSign no navegador Chrome](https://arquivar.com.br/faq-assuntos/como-adicionar-extensao-arqsign-certificado-digital-no-navegador-chrome/).&#x20;
+* [Como adicionar extensão ArqSign no navegador Edge](https://arquivar.com.br/faq-assuntos/como-adicionar-extensao-arqsign-certificado-digital-no-navegador-edge/).&#x20;
+* [Como adicionar extensão ArqSign no navegador FireFox](https://arquivar.com.br/faq-assuntos/como-adicionar-extensao-arqsign-no-navegador-firefox/).&#x20;
+* [Como instalar módulo desktop.](https://arquivar.com.br/faq-assuntos/como-instalar-modulo-desktop/)
 
 </details>
 
@@ -609,6 +655,18 @@ Se você recebeu um documento para assinar via Plataforma ArqSign e precisa assi
 10\) Com as duas instalações concluídas, a modal será atualizada, listando os certificados salvos no computador do usuário.
 
 11\) No Windows, ao clicar no botão Concluir, pode ser solicitada a permissão para que o plugin acesse os certificados, neste ponto, deve-se clicar em Permitir para liberar a utilização dos certificados digitais.
+
+
+
+Quando um signatário de um documento que exige um certificado digital, seja ICP-Brasil ou outro qualquer, aplicar sua representação visual e clicar no botão Avançar, será exibida uma mensagem informando que para assinar o documento com Certificado Digital instalado no computador é necessário adicionar a extensão no seu navegador e na sequência instalar o módulo desktop. O processo é simples. Basta clicar no link exibido e seguir o passo a passo:&#x20;
+
+11. No Microsoft Edge, ao clicar no link disponível, pode acontecer o bloqueio de pop-up.&#x20;
+
+Caso a extensão e o módulo desktop já tenham sido instalados essa ação não será requerida novamente.&#x20;
+
+&#x20;
+
+Caso o signatário tenha Certificados Digitais salvos na plataforma ArqSign, eles serão exibidos. Para utilizá-los basta selecionar e seguir os próximos passos não necessitando da instalação da extensão e módulo.&#x20;
 
 </details>
 

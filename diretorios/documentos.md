@@ -96,7 +96,7 @@ Ao clicar na pasta raiz são exibidos os subdiretórios, ou seja, subpastas cria
 
 **Alterar Proprietário:** Essa opção só estará disponível para documentos avulsos e se o usuário for o remetente do documento. Clicando nesta opção será possível atribuir um novo proprietário para o documento. Para isso, selecione o novo usuário proprietário e clique em “Alterar”. &#x20;
 
-**Barra de Pesquisa:** É possível realizar a busca pelo nome do documento ou pasta utilizando &#x20;
+**Barra de Pesquisa:** É possível realizar a busca pelo nome do documento ou pasta utilizando a barra de pesquisa superior.
 
 <figure><img src="../.gitbook/assets/documentos12.png" alt=""><figcaption></figcaption></figure>
 

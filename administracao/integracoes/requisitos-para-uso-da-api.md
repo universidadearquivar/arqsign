@@ -19,5 +19,5 @@
 &#x20;    \-> _ID de pasta:_ onde o documento a ser gerado deve ser armazenado na plataforma.
 
 {% hint style="warning" %}
-<mark style="color:orange;">**A funcionalidade de**</mark> [<mark style="color:blue;">**Diretórios**</mark>](broken-reference) <mark style="color:orange;">**irá permitir ao cliente ter várias pastas organizadoras dentro da plataforma. Caso o plano do cliente seja grátis, a conta terá acesso somente a uma pasta que chamamos de “Pasta Raiz”. Neste caso, será necessário o ID desta pasta para usar a API. Para obter a AppKey, os ID’s dos usuários e os ID’s das Pastas, o**</mark> [<mark style="color:blue;">**menu Integrações**</mark>](./)<mark style="color:orange;">**.**</mark>
+<mark style="color:orange;">**A funcionalidade de**</mark> [<mark style="color:blue;">**Diretórios**</mark>](broken-reference) <mark style="color:orange;">**permitirá ao cliente ter várias pastas organizadoras dentro da plataforma.**</mark>
 {% endhint %}

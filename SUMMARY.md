@@ -60,5 +60,6 @@
 
 ## NOVIDADES DO ARQSIGN
 
+* [▫️ Março | 2024](novidades-do-arqsign/marco-or-2024.md)
 * [▫️ Janeiro | 2024](novidades-do-arqsign/setembro-or-2023.md)
 * [◽ Fevereiro | 2024](novidades-do-arqsign/fevereiro-or-2024.md)

@@ -183,9 +183,17 @@ Para cada destinatário inserido na primeira etapa é preciso configurar a área
 
 <figure><img src="../.gitbook/assets/novodocumento24.png" alt=""><figcaption></figcaption></figure>
 
-Caso tenha sido escolhida a opção “**Posicionar as assinaturas manualmente**”, será exibido o campo “**Campos Assinatura**”. Para criar a área de assinatura, arraste o quadro “Assinar como” para a parte do documento em que deseja que seja inserida a assinatura.
+Caso tenha sido escolhida a opção **“Posicionar as assinaturas manualmente”**, será exibido o campo “Campos Assinatura”. Para criar a área de assinatura, clique no quadro “Assinar como Pessoa Física”.
 
-<figure><img src="../.gitbook/assets/novodocumento25.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/img01.png" alt=""><figcaption></figcaption></figure>
+
+A área de assinatura como pessoa física com o nome do signatário será inserida no documento. Será possível redimensionar, aumentar, diminuir e posicionar a área de assinatura, arrastando com o cursor ou utilizando as setas.
+
+<figure><img src="../.gitbook/assets/img02.png" alt=""><figcaption></figcaption></figure>
+
+Caso o destinatário vá assinar também como pessoa jurídica, clique também em **“Assinar como Pessoa Jurídica”** e repita o processo. Para excluir uma área de assinatura, clique no ícone “Excluir” acima da área.
+
+<figure><img src="../.gitbook/assets/img03.png" alt=""><figcaption></figcaption></figure>
 
 Caso tenha sido escolhida a opção “**Posicionar as assinaturas automaticamente em uma página ao final do documento**”, será inserida uma página no fim do documento na qual serão exibidas as assinaturas e informações dos signatários de forma ordenada. Também é exibido o papel que aquele signatário possui no contrato.
 
